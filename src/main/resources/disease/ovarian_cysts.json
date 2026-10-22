@@ -1,0 +1,52 @@
+{
+  "visible": true,
+  "name": "Ovarian Cysts",
+  "uri": "ovarian_cysts",
+  "carnivoreDietSearchQueries": [
+    "Ovarian Cysts"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/katie-started-the-carnivore-diet-for-weight-loss-and-is-the-healthiest-she-has-ever-been/",
+    "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
+    "https://carnivore.diet/nevada-heals-pcos-prediabetes-eczema-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-improved-weight-and-ovarian-cysts-on-a-carnivore-diet/",
+      "title": "Sarah improved weight and ovarian cysts on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-healed-from-pcos-adrenal-fatigue-depression-ibs-and-eczema-on-a-carnivore-diet/",
+      "title": "Sarah healed from PCOS, adrenal fatigue, depression, IBS, and eczema on a Carnivore diet",
+      "date": "February 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lees-fibromyalgia-anxiety-depression-carnivore-diet/",
+      "title": "Lee\u2019s depression vanished on a carnivore diet",
+      "date": "August 7, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/hilary-improved-inflammation-chronic-back-pain-carnivore-diet/",
+      "title": "Hilary improved inflammation, healed chronic back pain on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mim-improved-reproductive-urinary-health-carnivore-diet/",
+      "title": "Mim improved her eczema on a carnivore diet",
+      "date": "October 10, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/ovarian-cysts/symptoms-causes/syc-20353405",
+    "text": "Ovarian cysts are sacs, usually filled with fluid, in an ovary or on its surface. Females have two ovaries. One ovary is located on each side of the uterus.\n\nEach ovary is about the size and shape of an almond. Eggs develop and mature in the ovaries. Eggs are released in monthly cycles during the childbearing years.\n\nOvarian cysts are common. Most of the time, you have little or no discomfort, and the cysts are harmless. Most cysts go away without treatment within a few months."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

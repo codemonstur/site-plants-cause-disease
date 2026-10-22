@@ -1,0 +1,105 @@
+{
+  "visible": true,
+  "name": "Plantar Fasciitis",
+  "uri": "plantar_fasciitis",
+  "carnivoreDietSearchQueries": [
+    "Plantar Fasciitis"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/carnivore-diet-success-stories/",
+    "https://carnivore.diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daz-healed-from-back-and-knee-pain-knee-and-ankle-swelling-and-plantar-fasciitis-on-a-carnivore-diet/",
+      "title": "Daz healed from back and knee pain, knee and ankle swelling, and plantar fasciitis on a carnivore diet",
+      "date": "July 24, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/heather-healed-her-joint-pain-plantar-fasciitis-increased-energy-mental-clarity-on-a-carnivore-diet/",
+      "title": "Heather healed her joint pain, plantar fasciitis, increased energy, mental clarity on a carnivore diet",
+      "date": "February 14, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/holly-healed-her-plantar-fasciitis-on-a-carnivore-diet/",
+      "title": "Holly healed her Plantar Fasciitis on a carnivore diet",
+      "date": "November 5, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cassie-healed-plantar-fasciitis-edema-carnivore-diet/",
+      "title": "Cassie healed from plantar fasciitis, edema, back pain on a carnivore diet",
+      "date": "October 13, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/c-d-improved-plantar-fasciitis-nose-bleeds-carnivore-diet/",
+      "title": "C.D. improved plantar fasciitis and nose bleeds on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ira-improved-membranous-nephropathy-on-a-carnivore-diet/",
+      "title": "Ira improved membranous nephropathy on a carnivore diet",
+      "date": "December 5, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-improves-vitiligo-brain-fog-and-tbi-on-a-carnivore-diet/",
+      "title": "Adam improves vitiligo, brain fog, and TBI on a carnivore diet",
+      "date": "December 4, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathan-recovers-from-guillain-barre-syndrome-on-the-carnivore-diet/",
+      "title": "Nathan recovers from Guillain-Barre Syndrome on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bns-improved-digestion-mouth-ulcers-hair-colds-carnivore-diet/",
+      "title": "BNS improved digestion, mouth ulcers, and hair on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
+      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "date": "February 6, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amy-improved-asthma-relationship-with-food-carnivore-diet/",
+      "title": "Amy improved skin, asthma, and relationship with food on carnivore diet",
+      "date": "December 20, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/raymond-heals-diverticulitis-plantar-fasciitis-carnivore-diet/",
+      "title": "Raymond heals prediabetes, sugar addiction, diverticulitis on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/thom-improves-joint-pain-mood-sleep-carnivore-diet/",
+      "title": "Thom improves joint pain, mood, sleep, and weight loss on a carnivore diet",
+      "date": "October 5, 0089"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nelson-improved-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Nelson improved high blood pressure on a carnivore diet",
+      "date": "February 22, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/plantar-fasciitis/symptoms-causes/syc-20354846",
+    "text": "Plantar fasciitis (PLAN-tur fas-e-I-tis) is one of the most common causes of heel pain. It involves inflammation of a thick band of tissue that runs across the bottom of each foot and connects the heel bone to the toes, known as the plantar fascia.\n\nPlantar fasciitis commonly causes stabbing pain that often occurs with your first steps in the morning. As you get up and move, the pain normally decreases, but it might return after long periods of standing or when you stand up after sitting."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

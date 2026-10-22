@@ -1,0 +1,90 @@
+{
+  "visible": true,
+  "name": "Sciatica",
+  "uri": "sciatica",
+  "carnivoreDietSearchQueries": [
+    "Sciatica"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bradley-improved-fat-loss-muscle-gain-sciatica-cognition-and-athletic-performance/",
+      "title": "Bradley improved fat loss, muscle gain, sciatica, cognition, and athletic performance",
+      "date": "November 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/heather-healed-digestion-sciatica-and-joint-pains-and-reduced-ms-on-a-carnivore-diet/",
+      "title": "Heather healed digestion, sciatica, and joint pains and reduced MS on a carnivore diet",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/doug-improved-psoriasis-sciatica-fatigue-carnivore-diet/",
+      "title": "Doug improved adrenal health, psoriasis, sciatica on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
+      "title": "Ramona and Doug improved digestion and metabolic markers on the carnivore diet",
+      "date": "April 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kiki-healing-weakness-low-thyroid-vegan-to-carnivore-diet/",
+      "title": "Kiki is healing from weakness, low thyroid, inflammation on carnivore diet",
+      "date": "October 18, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/george-improved-mental-health-back-joint-pain-carnivore-diet/",
+      "title": "George lost weight, improved fitness and mental health on carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachel-treats-anxiety-arthritis-psoriasis-carnivore-diet/",
+      "title": "Rachel treats digestive issues, anxiety, hair loss on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-mental-health-joint-back-pain-carnivore-diet/",
+      "title": "Daniel improved digestion, mental health, joint, back pain on carnivore diet",
+      "date": "February 6, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nancy-treated-asthma-hashimotos-sciatica-carnivore-diet/",
+      "title": "Nancy improved digestion, skeletal health, skin on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-improved-digestion-mental-health-sex-carnivore-diet/",
+      "title": "Michael treated his back pain on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-improved-fitness-mental-health-carnivore-diet/",
+      "title": "Patrick improved his arthritis and back pain on a carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lycia-and-family-heal-on-carnivore-lifestyle/",
+      "title": "Lycia and Family Heal On Carnivore Lifestyle",
+      "date": "September 22, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/sciatica/symptoms-causes/syc-20377435",
+    "text": "Sciatica refers to pain that travels along the path of the sciatic nerve. The sciatic nerve travels from the buttocks and down each leg.\n\nSciatica most often happens when a herniated disk or an overgrowth of bone puts pressure on the lumbar spine nerve roots. This happens \"upstream\" from the sciatic nerve. This causes inflammation, pain and often some numbness in the affected leg."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

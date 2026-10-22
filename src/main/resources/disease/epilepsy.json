@@ -1,0 +1,58 @@
+{
+  "visible": true,
+  "name": "Epilepsy",
+  "uri": "epilepsy",
+  "carnivoreDietSearchQueries": [
+    "Epilepsy"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/how-to-lose-weight-with-a-carnivore-diet/",
+    "https://carnivore.diet/health-benefits/",
+    "https://carnivore.diet/coach-program/coaches-knowledge-share/",
+    "https://carnivore.diet/conferences/",
+    "https://carnivore.diet/emily-j-manages-type-1-diabetes-ibs-strength-pain-and-acne-on-a-carnivore-diet/",
+    "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
+    "https://carnivore.diet/lasse-no-longer-has-migraines-carnivore-diet/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/andrew-improved-epilepsy-carnivore-diet/",
+      "title": "Andrew improved his epilepsy on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robin-heals-epilepsy-seizures-joint-pain-carnivore-diet/",
+      "title": "Robin heals from epilepsy, seizures, and joint pain on a carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mirella-hasnt-has-a-grand-mal-absence-seizure-after-a-carnivore-diet/",
+      "title": "Mirella hasn\u2019t had a grand mal or absence seizure since staring a carnivore diet",
+      "date": "October 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steve-improved-depression-anxiety-vision-carnivore-diet/",
+      "title": "Steve improved his depression and has not had a seizure on a carnivore diet",
+      "date": "June 18, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/beatriz-healed-rheumatoid-arthritis-on-a-carnivore-diet/",
+      "title": "Beatriz healed rheumatoid arthritis on a carnivore diet",
+      "date": "April 1, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093",
+    "text": "Epilepsy \u2014 also known as a seizure disorder \u2014 is a brain condition that causes recurring seizures. There are many types of epilepsy. In some people, the cause can be identified. In others, the cause is not known."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

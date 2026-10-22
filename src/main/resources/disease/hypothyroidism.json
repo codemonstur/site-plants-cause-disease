@@ -1,0 +1,182 @@
+{
+  "visible": true,
+  "name": "Hypothyroidism",
+  "uri": "hypothyroidism",
+  "carnivoreDietSearchQueries": [
+    "Hypothyroidism"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/john-improved-hypothyroidism-inflammation-carnivore-diet/",
+      "title": "John improved hypothyroidism and inflammation on a carnivore diet",
+      "date": "July 6, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/woman-treats-narcolepsy-retinopathy-carnivore-diet/",
+      "title": "Woman treats Crohn\u2019s, asthma, narcolepsy, hypothyroidism on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/holly-heals-hypothyroidism-joint-pain-carnivore-diet/",
+      "title": "Holly heals from hypothyroidism and joint pain on a carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jodelle-regained-period-lost-anxiety-carnivore-diet/",
+      "title": "Jodelle improved hypothyroidism on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/man-heals-prostate-enlargement-hypothyroidism-carnivore-diet/",
+      "title": "Man heals from prostate enlargement, hypothyroidism on carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/beatriz-healed-rheumatoid-arthritis-on-a-carnivore-diet/",
+      "title": "Beatriz healed rheumatoid arthritis on a carnivore diet",
+      "date": "April 1, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/andrea-improved-fatigue-and-hormones-on-a-carnivore-diet/",
+      "title": "Andrea improved fatigue and hormones on a carnivore diet",
+      "date": "March 19, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/vivica-improved-prediabetes-and-adrenals-on-a-carnivore-diet/",
+      "title": "Vivica improved prediabetes and adrenals on a carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/barbara-s-heals-from-anxiety-and-digestive-issues-on-a-carnivore-diet/",
+      "title": "Barbara S heals from anxiety and digestive issues on a carnivore diet",
+      "date": "April 19, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/claire-reverses-osteoporosis-puts-on-muscle-carnivore/",
+      "title": "Claire Reverses Osteoporosis and Puts On Muscle In Her 60s On A Carnivore Diet",
+      "date": "August 21, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/bruno-improved-blood-sugar-triglycerides-joint-pain-stiffness-on-a-carnivore-diet/",
+      "title": "Bruno improved blood sugar, triglycerides, joint pain, stiffness on a carnivore diet",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/robert-healed-his-body-after-28-years-of-being-a-vegan-on-a-carnivore-diet/",
+      "title": "Robert Healed his body after 28 years of being a vegan on a carnivore diet",
+      "date": "April 3, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/julia-reached-pre-pregnancy-weight-reduced-thyroid-medication-on-a-carnivore-lifestyle/",
+      "title": "Julia reached pre-pregnancy weight, reduced thyroid medication on a carnivore lifestyle",
+      "date": "March 27, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/paula-lost-weight-and-had-increased-energy-every-day-on-a-carnivore-lifestyle/",
+      "title": "Paula lost weight and had increased energy every day on a carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
+      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "date": "January 31, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
+      "title": "Cognitive function tips by coach Elizabeth B",
+      "date": "December 26, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/katherines-lupus-flares-have-subsided-on-carnivore-diet/",
+      "title": "Katherine\u2019s lupus flares have subsided since starting the carnivore diet",
+      "date": "November 19, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/andrea-off-medication-for-graves-disease-on-carnivore-diet/",
+      "title": "Andrea no longer has symptoms of Grave\u2019s disease on a carnivore diet",
+      "date": "November 6, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/chris-improved-brain-fog-constipation-thyroid-carnivore-diet/",
+      "title": "Chris improved his joint pain and thyroid function on a carnivore diet",
+      "date": "October 10, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/e-improved-triglycerides-blood-work-thyroid-carnivore-diet/",
+      "title": "E has lowered triglycerides and improved blood work on a carnivore diet",
+      "date": "September 5, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/patricia-resolves-fatigue-exercise-intolerance-carnivore-diet/",
+      "title": "Patricia resolves fatigue, exercise intolerance on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rosebud-heals-interstitial-cystitis-ibs-carnivore-diet/",
+      "title": "Rosebud heals from interstitial cystitis, IBS, depression carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/sara-lost-weight-improved-menstrual-cramping-carnivore-diet/",
+      "title": "Sara lost weight and improved her menstrual cramping on a carnivore diet",
+      "date": "December 17, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/anonymous-improved-digestion-body-composition-carnivore-diet/",
+      "title": "Anonymous improved digestion, sleep, body composition on carnivore diet",
+      "date": "December 15, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lester-improved-fitness-pain-body-composition-carnivore-diet/",
+      "title": "Lester improved his fitness, pain, and body composition on a carnivore diet",
+      "date": "December 5, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/melissa-improved-mental-health-inflammation-carnivore-diet/",
+      "title": "Melissa improved energy levels, mental health, inflammation on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mary-treated-arthritis-autoimmune-issues-gout-carnivore-diet/",
+      "title": "Mary improved her autoimmune issue and diabetes on a carnivore diet",
+      "date": "October 10, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284",
+    "text": "Hypothyroidism happens when the thyroid gland doesn't make enough thyroid hormone. This condition also is called underactive thyroid. Hypothyroidism may not cause noticeable symptoms in its early stages. Over time, hypothyroidism that isn't treated can lead to other health problems, such as high cholesterol and heart problems."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

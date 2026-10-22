@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Megacolon",
+  "uri": "megacolon",
+  "carnivoreDietSearchQueries": [
+    "Megacolon"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mihaela-improved-mega-colon-constipation-carnivore-diet/",
+      "title": "Mihaela improved mega colon and constipation on a carnivore diet",
+      "date": "October 30, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/23481-toxic-megacolon",
+    "text": "Toxic megacolon is rare, but it\u2019s an emergency. It can happen when you have a severe case of colitis, inflammation in your colon. Inflammation that penetrates to the muscles in your colon causes them to stop working. Food and gas build up inside, your colon walls widen and stretch, and toxins begin to leak out into your bloodstream."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

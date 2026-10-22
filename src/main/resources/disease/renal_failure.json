@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Renal Failure",
+  "uri": "renal_failure",
+  "see": {
+    "uri": "kidney_failure",
+    "name": "Kidney Failure"
+  }
+}

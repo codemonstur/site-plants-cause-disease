@@ -1,0 +1,25 @@
+{
+  "visible": true,
+  "name": "Guillain-Barr\u00e9 syndrome",
+  "uri": "guillain_barre_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Guillain-Barr\u00e9",
+    "Guillain Barre"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathan-recovers-from-guillain-barre-syndrome-on-the-carnivore-diet/",
+      "title": "Nathan recovers from Guillain-Barre Syndrome on the carnivore diet",
+      "date": "March 22, 2023"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/symptoms-causes/syc-20362793",
+    "text": "Guillain-Barre (gee-YAH-buh-RAY) syndrome is a condition in which the body's immune system attacks the nerves. It can cause weakness, numbness or paralysis. Weakness and tingling in the hands and feet are usually the first symptoms. These sensations can quickly spread and may lead to paralysis. In its most serious form, Guillain-Barre syndrome is a medical emergency. Most people with the condition need treatment in a hospital. Guillain-Barre syndrome is rare, and the exact cause is not known."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

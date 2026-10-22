@@ -1,0 +1,148 @@
+{
+  "visible": true,
+  "name": "Crohn's Disease",
+  "uri": "crohns_disease",
+  "carnivoreDietSearchQueries": [
+    "Crohn",
+    "Crohns"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/health-benefits/",
+    "https://carnivore.diet/no-gallbladder-no-problem/",
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/",
+    "https://carnivore.diet/kristin-improved-digestion-and-lupus-on-a-carnivore-diet/",
+    "https://carnivore.diet/cameron-resolved-ibs-insomnia-anxiety-carnivore-lifestyle/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+    "https://carnivore.diet/stephen-improved-blood-sugar-mental-health-carnivore-diet/",
+    "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
+    "https://carnivore.diet/chris-improved-arthritis-tendinitis-carnivore-diet/",
+    "https://carnivore.diet/nirav-improved-physique-joint-pain-carnivore-diet/",
+    "https://carnivore.diet/edgar-improved-speech-carnivore-diet/",
+    "https://carnivore.diet/steve-cures-irritable-bowel-syndrome-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tanner-heals-from-crohns-disease-eczema-and-being-underweight-on-a-carnivore-diet/",
+      "title": "Tanner heals from Crohn\u2019s disease, eczema, and being underweight on a carnivore diet",
+      "date": "June 27, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/three-year-carnivores-karl-and-judi-karl-was-diagnosed-with-crohns/",
+      "title": "Three year carnivores -Karl and Judi \u2013 Karl was diagnosed with Crohn\u2019s",
+      "date": "October 9, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ryans-crohns-symptoms-healed-on-carnivore-diet/",
+      "title": "Ryan Healed his Crohn\u2019s disease symptoms on a carnivore diet",
+      "date": "June 4, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-v-healed-his-crohns-disease-and-now-has-negative-biopsy-results-all-from-a-carnivore-diet/",
+      "title": "John V healed his crohns disease and now has negative biopsy results all from a carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/theresa-healed-crohns-disease-and-lost-weight-on-a-carnivore-lifestyle/",
+      "title": "Theresa healed Crohn\u2019s Disease and lost weight on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joel-improved-crohns-disease-skin-fitness-carnivore-diet/",
+      "title": "Joel improved Crohn\u2019s disease on carnivore diet",
+      "date": "December 17, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/andrew-improved-digestion-crohns-disease-carnivore-diet/",
+      "title": "Andrew improved his Crohn\u2019s disease and mental health on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/woman-treats-narcolepsy-retinopathy-carnivore-diet/",
+      "title": "Woman treats Crohn\u2019s, asthma, narcolepsy, hypothyroidism on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-treats-asthma-psoriasis-crohns-rosacea-carnivore-diet/",
+      "title": "Ashley treats asthma, psoriasis, crohn\u2019s disease, rosacea on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
+      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/phil-improves-crohns-disease-digestion-carnivore-diet/",
+      "title": "Phil improves Crohn\u2019s disease, autoimmune conditions on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/peter-improved-blood-pressure-type-2-diabetes-carnivore-diet/",
+      "title": "Peter improved blood pressure, Type-2 diabetes, Crohn\u2019s on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/galen-healed-crohns-disease-chronic-fatigue-carnivore-diet/",
+      "title": "Galen healed Crohn\u2019s disease on a carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joannas-crohns-lupus-symptoms-alleviated-carnivore-diet/",
+      "title": "Joanna\u2019s Crohn\u2019s have alleviated on carnivore diet",
+      "date": "February 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joy-healed-her-body-after-18-years-of-veganism-on-a-carnivore-diet/",
+      "title": "Joy healed her body after 18 years of veganism on a carnivore diet",
+      "date": "June 3, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rich-improved-joint-ligament-pain-and-allergies-on-a-carnivore-lifestyle/",
+      "title": "Rich improved joint, ligament pain and allergies on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lee-anne-healed-from-severe-onset-of-tendinitis-lower-back-pain-long-menstrual-cycles-hot-flashes-migraines-yeast-infections-fibroids-mmpi-depression-anxiety-and-more-on-a-carnivore-diet/",
+      "title": "Lee Anne healed her severe tendinitis, depression, anxiety on a carnivore diet",
+      "date": "February 13, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gretchen-heals-crohns-disease-gerd-carnivore-diet/",
+      "title": "Gretchen\u2019s husband got rid of reflux on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/justin-improved-anxiety-mood-carnivore-diet/",
+      "title": "Justin healed skin rashes on a carnivore diet",
+      "date": "October 30, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/crohns-disease/symptoms-causes/syc-20353304",
+    "text": "Crohn's disease is a type of inflammatory bowel disease (IBD). It causes swelling of the tissues (inflammation) in your digestive tract, which can lead to abdominal pain, severe diarrhea, fatigue, weight loss and malnutrition."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

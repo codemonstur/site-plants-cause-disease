@@ -1,0 +1,16 @@
+{
+  "visible": true,
+  "name": "Rectocele",
+  "uri": "rectocele",
+  "carnivoreDietSearchQueries": [
+    "Rectocele"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "https://fascrs.org/patients/diseases-and-conditions/a-z/rectocele",
+    "text": "A rectocele is a bulging of the front wall of the rectum into the back wall of the vagina. The rectum is the bottom section of your colon (large intestine). This is a very common problem that often does not produce symptoms. Other pelvic organs can bulge into the vagina, including the bladder (cystocele) and the small intestines (enterocele), producing similar problems."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

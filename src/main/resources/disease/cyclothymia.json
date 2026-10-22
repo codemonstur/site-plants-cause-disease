@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Cyclothymia",
+  "uri": "cyclothymia",
+  "carnivoreDietSearchQueries": [
+    "Cyclothymia"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
+      "title": "Ollie improves depersonalisation, hallucinations, and cyclothymia on a low-carb diet",
+      "date": "January 6, 2023"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/cyclothymia/symptoms-causes/syc-20371275",
+    "text": "Cyclothymia (sy-kloe-THIE-me-uh), also called cyclothymic disorder, is a rare mood disorder. Cyclothymia causes emotional ups and downs, but they're not as extreme as those in bipolar I or II disorder. With cyclothymia, you experience periods when your mood noticeably shifts up and down from your baseline."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

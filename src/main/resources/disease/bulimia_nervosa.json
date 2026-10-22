@@ -1,0 +1,141 @@
+{
+  "visible": true,
+  "name": "Bulimia Nervosa",
+  "uri": "bulimia_nervosa",
+  "carnivoreDietSearchQueries": [
+    "Bulimia",
+    "bulimic"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/thyroid-tips-by-coach-karla-h/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stepanka-improves-depression-anorexia-and-bulimia-on-a-carnivore-diet/",
+      "title": "Stepanka improves depression, anorexia, and bulimia on a carnivore diet",
+      "date": "June 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/catherine-heals-from-anxiety-anorexia-and-bulimia-on-a-carnivore-diet/",
+      "title": "Catherine heals from anxiety, anorexia, and bulimia on a carnivore diet",
+      "date": "June 5, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lulu-healed-from-bulimia-anxiety-ocd-on-carnivore-diet/",
+      "title": "Lulu A healed from bulimia, back pain, anxiety, and OCD on a carnivore diet",
+      "date": "August 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lisa-improved-bulimia-relationship-with-food-carnivore-diet/",
+      "title": "Lisa stopped her bulimia on carnivore diet",
+      "date": "November 20, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/anastacia-healed-bulimia-carnivore-diet/",
+      "title": "Anastacia healed bulimia on a carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sly-improved-anorexia-bulimia-eating-disorder-carnivore-diet/",
+      "title": "Sly improved her anorexia and bulimia on a carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sylwia-improves-gut-health-and-hormones-on-carnivore-diet/",
+      "title": "Sylwia improves gut health and hormones on carnivore diet",
+      "date": "August 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lauren-manages-eating-disorders-mood-and-skin-issues-on-a-low-carb-diet/",
+      "title": "Lauren manages eating disorders, mood, and skin issues on a low-carb diet",
+      "date": "December 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alicea-gains-muscle-and-manages-mental-health-on-the-carnivore-diet/",
+      "title": "Alicea gains muscle and manages mental health on the carnivore diet",
+      "date": "November 3, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jules-improved-mental-health-and-got-off-meds-on-a-carnivore-diet/",
+      "title": "Jules improved mental health and got off meds on a carnivore diet",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/aliceas-hot-flashes-went-away-on-a-carnivore-diet/",
+      "title": "Alicea\u2019s hot flashes went away on a carnivore diet",
+      "date": "June 3, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-noelle-resolved-acne-ibs-and-inflammation-on-a-carnivore-lifestyle/",
+      "title": "Ashley Noelle resolved acne, IBS, and inflammation on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stefania-controls-autoimmune-disorders-celiac-and-hashimotos-on-a-carnivore-lifestyle/",
+      "title": "Stefania controls autoimmune disorders, celiac and Hashimotos on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessyca-overcame-a-life-long-eating-disorder-on-a-carnivore-diet/",
+      "title": "Jessyca overcame a life long eating disorder on a carnivore diet",
+      "date": "December 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/debbie-overcomes-eating-disorder-carnivore-diet/",
+      "title": "Debbie overcomes eating disorder through Carnivore Diet",
+      "date": "December 15, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/elliott-heals-eating-disorder-mental-health-carnivore-diet/",
+      "title": "Elliott heals eating disorder, improves mental health on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michelle-improved-skin-autoimmune-issues-carnivore-diet/",
+      "title": "Michelle improved her autoimmune issue and joint pain on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steph-improves-mood-mental-health-carnivore-diet/",
+      "title": "Steph improves mood, mental health, weight loss on carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/serena-beats-disordered-eating-on-carnivore-diet/",
+      "title": "Serena Beats Disordered Eating On Carnivore Diet",
+      "date": "September 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sami-manages-stage-4-colon-cancer-with-a-meat-diet/",
+      "title": "Sami Manages Stage 4 Colon Cancer With A Meat Diet",
+      "date": "June 22, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/bulimia/symptoms-causes/syc-20353615",
+    "text": "Bulimia (boo-LEE-me-uh) nervosa, commonly called bulimia, is a serious, potentially life-threatening eating disorder. People with bulimia may secretly binge \u2014 eating large amounts of food with a loss of control over the eating \u2014 and then purge, trying to get rid of the extra calories in an unhealthy way."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

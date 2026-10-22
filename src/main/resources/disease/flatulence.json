@@ -1,0 +1,58 @@
+{
+  "visible": true,
+  "name": "Flatulence",
+  "uri": "flatulence",
+  "carnivoreDietSearchQueries": [
+    "Farting",
+    "Flatulence"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
+    "https://carnivore.diet/ekaterina-ex-vegan-improved-hormonal-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dave-improves-stroke-symptoms-on-carnivore-diet/",
+      "title": "Dave improves stroke symptoms on carnivore diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alexandre-improved-mental-health-sex-skin-carnivore-diet/",
+      "title": "Alexandre improved digestion, fitness, mood, mental health on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jodey-improved-digestion-mood-body-composition-carnivore-diet/",
+      "title": "Jodey improved body composition on a carnivore diet",
+      "date": "November 21, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/pyroxidine-improved-skin-ibs-anxiety-carnivore-diet/",
+      "title": "Pyroxidine improved skin, IBS, and anxiety on a carnivore diet",
+      "date": "November 14, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lindsay-lost-weight-improved-skin-digestion-carnivore-diet/",
+      "title": "Lindsay lost weight and improved skin and digestion on carnivore diet",
+      "date": "November 13, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gabby-lost-weight-healed-digestion-anxiety-carnivore-diet/",
+      "title": "Gabby improved hormonal imbalances on a carnivore diet",
+      "date": "October 31, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.healthline.com/health/gas-flatulence",
+    "text": "Also known as farting, passing wind, or having gas, flatulence is a medical term for releasing gas from the digestive system through the anus. It happens when gas collects inside the digestive system and is a normal process."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

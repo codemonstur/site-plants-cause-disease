@@ -1,0 +1,19 @@
+{
+  "visible": true,
+  "name": "Hirschsprung",
+  "uri": "hirschsprung",
+  "carnivoreDietSearchQueries": [
+    "Hirschsprung"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/steve-cures-irritable-bowel-syndrome-carnivore-diet/"
+  ],
+  "anecdotes": [],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

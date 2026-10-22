@@ -1,0 +1,32 @@
+{
+  "visible": true,
+  "name": "Erectile Dysfunction",
+  "uri": "erectile_dysfunction",
+  "carnivoreDietSearchQueries": [
+    "Erectile Dysfunction",
+    "Impotence",
+    "Johnson"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/meat-the-ultimate-superfood/",
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/debunking-proper-nutrition/",
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/debbie-improved-kidney-function-mental-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ramiro-improves-weight-loss-mood-focus-energy-carnivore-diet/",
+      "title": "Ramiro improves weight loss, mood, focus, and energy on a carnivore diet",
+      "date": "September 30, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/symptoms-causes/syc-20355776",
+    "text": "Erectile dysfunction (impotence) is the inability to get and keep an erection firm enough for sex.\nHaving erection trouble from time to time isn't necessarily a cause for concern. If erectile dysfunction is an ongoing issue, however, it can cause stress, affect your self-confidence and contribute to relationship problems. Problems getting or keeping an erection can also be a sign of an underlying health condition that needs treatment and a risk factor for heart disease."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

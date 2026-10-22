@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Stomach Cramps",
+  "uri": "stomach_cramps",
+  "see": {
+    "uri": "abdominal_pain",
+    "name": "Abdominal Pain"
+  }
+}

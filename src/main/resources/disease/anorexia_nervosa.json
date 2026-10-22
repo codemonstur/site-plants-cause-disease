@@ -1,0 +1,108 @@
+{
+  "visible": true,
+  "name": "Anorexia Nervosa",
+  "uri": "anorexia_nervosa",
+  "carnivoreDietSearchQueries": [
+    "Anorexia"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stepanka-improves-depression-anorexia-and-bulimia-on-a-carnivore-diet/",
+      "title": "Stepanka improves depression, anorexia, and bulimia on a carnivore diet",
+      "date": "June 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/catherine-heals-from-anxiety-anorexia-and-bulimia-on-a-carnivore-diet/",
+      "title": "Catherine heals from anxiety, anorexia, and bulimia on a carnivore diet",
+      "date": "June 5, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/valerie-heals-from-schizoaffective-disorder-and-anorexia-on-a-carnivore-diet/",
+      "title": "Valerie heals from schizoaffective disorder and anorexia on a carnivore diet",
+      "date": "March 26, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/claire-overcame-anorexia-nervosa-and-depression-on-a-low-carb-diet/",
+      "title": "Claire overcame anorexia nervosa and depression on a low-carb diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/hui-healed-anorexia-veganism-on-carnivore-diet/",
+      "title": "Hui healed from anorexia and veganism on a carnivore diet",
+      "date": "June 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ken-treated-addiction-anorexia-fatigue-carnivore-diet/",
+      "title": "Ken improved sleep, treated addiction, anorexia, fatigue on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sly-improved-anorexia-bulimia-eating-disorder-carnivore-diet/",
+      "title": "Sly improved her anorexia and bulimia on a carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lauren-manages-eating-disorders-mood-and-skin-issues-on-a-low-carb-diet/",
+      "title": "Lauren manages eating disorders, mood, and skin issues on a low-carb diet",
+      "date": "December 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jules-improved-mental-health-and-got-off-meds-on-a-carnivore-diet/",
+      "title": "Jules improved mental health and got off meds on a carnivore diet",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/maria-healed-eating-disorder-gastroparesis-osteoporosis-and-arthritis-on-carnivore-diet/",
+      "title": "Maria healed eating disorder, gastroparesis, osteoporosis, and arthritis on carnivore diet",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-noelle-resolved-acne-ibs-and-inflammation-on-a-carnivore-lifestyle/",
+      "title": "Ashley Noelle resolved acne, IBS, and inflammation on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stefania-controls-autoimmune-disorders-celiac-and-hashimotos-on-a-carnivore-lifestyle/",
+      "title": "Stefania controls autoimmune disorders, celiac and Hashimotos on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/frank-turned-to-carnivore-diet-heal-from-veganism/",
+      "title": "Frank turned to the carnivore diet to heal from veganism",
+      "date": "February 23, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessyca-overcame-a-life-long-eating-disorder-on-a-carnivore-diet/",
+      "title": "Jessyca overcame a life long eating disorder on a carnivore diet",
+      "date": "December 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michelle-improved-skin-autoimmune-issues-carnivore-diet/",
+      "title": "Michelle improved her autoimmune issue and joint pain on a carnivore diet",
+      "date": "October 10, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/anorexia-nervosa/symptoms-causes/syc-20353591",
+    "text": "Anorexia (an-o-REK-see-uh) nervosa \u2014 often simply called anorexia \u2014 is an eating disorder characterized by an abnormally low body weight, an intense fear of gaining weight and a distorted perception of weight. People with anorexia place a high value on controlling their weight and shape, using extreme efforts that tend to significantly interfere with their lives."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,107 @@
+{
+  "visible": true,
+  "name": "Celiac Disease",
+  "uri": "celiac_disease",
+  "carnivoreDietSearchQueries": [
+    "Celiac",
+    "Coeliac"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/",
+    "https://carnivore.diet/john-lost-weight-improved-pain-skin-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stefania-controls-autoimmune-disorders-celiac-and-hashimotos-on-a-carnivore-lifestyle/",
+      "title": "Stefania controls autoimmune disorders, celiac and Hashimotos on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
+      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachel-gets-relief-from-ehlers-danlos-syndrome-dysautonomia-pots-on-the-carnivore-diet/",
+      "title": "Rachel gets relief from Ehlers-Danlos Syndrome, Dysautonomia (POTS) on the carnivore diet",
+      "date": "November 3, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/travis-was-paralyzed-and-overmedicated-and-the-carnivore-diet-gave-him-life-and-mobility/",
+      "title": "Travis was paralyzed and overmedicated and the carnivore diet gave him life and mobility",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/touko-went-from-87kg-to-72kg-on-a-carnivore-lifestyle/",
+      "title": "Touko went from 87kg to 72kg on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jenell-is-free-from-chronic-pain-ibs-symptoms-and-panic-disorders-on-a-carnivore-diet/",
+      "title": "Jenell is free from chronic pain, IBS symptoms, and panic disorders on a carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erin-ditched-plants-eliminated-eczema/",
+      "title": "Erin ditched the plants and eliminated her eczema",
+      "date": "October 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rebekah-improved-sleep-energy-autoimmune-issues-carnivore-diet/",
+      "title": "Rebekah improved autoimmune issues, sleep, gained muscle on carnivore diet",
+      "date": "February 8, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joette-improved-depression-sleep-hormones-carnivore-diet/",
+      "title": "Joette got off 24 medications on carnivore diet",
+      "date": "January 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/carmen-improved-digestion-heavy-periods-carnivore-diet/",
+      "title": "Carmen improved her digestion and heavy periods on a carnivore diet",
+      "date": "November 22, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/trey-improved-digestion-anxiety-depression-carnivore-diet/",
+      "title": "Trey improved digestion, fitness, anxiety and depression on carnivore diet",
+      "date": "November 21, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/virgilia-improves-digestion-migraines-skin-carnivore-diet/",
+      "title": "Virgilia improves digestion, joint pain, migraines, skin on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-treats-tonsillectomy-weakness-fractures-carnivore-diet/",
+      "title": "Michael treats coeliac disease on carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tammy-heals-from-arthritis-and-depression-on-a-carnivore-diet/",
+      "title": "Tammy heals from arthritis and depression on a carnivore diet",
+      "date": "February 6, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220",
+    "text": "Celiac disease is an illness caused by an immune reaction to eating gluten. Gluten is a protein found in foods containing wheat, barley or rye."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

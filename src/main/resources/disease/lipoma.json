@@ -1,0 +1,55 @@
+{
+  "visible": true,
+  "name": "Lipoma",
+  "uri": "lipoma",
+  "carnivoreDietSearchQueries": [
+    "Lipoma"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/debunking-proper-nutrition/",
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/getting-started-on-the-carnivore-diet-tips-by-coach-kiki-f/",
+    "https://carnivore.diet/how-to-lose-weight-with-a-carnivore-diet/",
+    "https://carnivore.diet/getting-hung-up-on-health-markers/",
+    "https://carnivore.diet/dont-worry-they-have-a-pill-for-that/",
+    "https://carnivore.diet/personal-trainer-joe-best-shape-of-his-life-on-carnivore-diet/",
+    "https://carnivore.diet/v-treated-addiction-respiratory-issues-carnivore-diet/",
+    "https://carnivore.diet/natasha-improved-sex-treated-endometriosis-carnivore-diet/",
+    "https://carnivore.diet/trevor-improved-fitness-mood-mental-health-sex-carnivore-diet/",
+    "https://carnivore.diet/ron-got-rid-of-skin-tags-snoring-back-pain-diverticulosis-toenail-fungus-anxiety/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/laney-lost-weight-improved-anemia-fatigue-carnivore-diet/",
+      "title": "Laney lost weight, improved anemia and fatigue on a carnivore diet",
+      "date": "November 25, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
+      "title": "Chris improved cardiovascular health, treated diabetes on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
+      "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/margaret-heals-digestion-mood-sleep-fatigue-carnivore-diet/",
+      "title": "Margaret heals digestion, mood, sleep, and fatigue on a carnivore diet",
+      "date": "October 4, 2018"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

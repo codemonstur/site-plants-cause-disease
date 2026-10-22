@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Seborrheic Dermatitis",
+  "uri": "seborrheic_dermatitis",
+  "carnivoreDietSearchQueries": [
+    "Seborrheic Dermatitis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-healed-ulcerative-colitis-on-keto-and-seborrheic-dermatitis-on-carnivore-lifestyle/",
+      "title": "Stephen healed Ulcerative Colitis on Keto and Seborrheic Dermatitis on carnivore lifestyle",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/hrvoje-improved-acne-dermatitis-carnivore-diet/",
+      "title": "Hrvoje improved acne and dermatitis on a carnivore diet",
+      "date": "November 1, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/seborrheic-dermatitis/symptoms-causes/syc-20352710",
+    "text": "Seborrheic (seb-o-REE-ik) dermatitis is a common skin condition that mainly affects your scalp. It causes scaly patches, inflamed skin and stubborn dandruff. It usually affects oily areas of the body, such as the face, sides of the nose, eyebrows, ears, eyelids and chest. This condition can be irritating but it's not contagious, and it doesn't cause permanent hair loss."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

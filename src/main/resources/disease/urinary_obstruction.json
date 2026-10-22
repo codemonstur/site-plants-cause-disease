@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Urinary Obstruction",
+  "uri": "urinary_obstruction",
+  "see": {
+    "uri": "ureteral_obstruction",
+    "name": "Ureteral Obstruction"
+  }
+}

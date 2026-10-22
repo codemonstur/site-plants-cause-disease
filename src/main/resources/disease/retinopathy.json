@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Retinopathy",
+  "uri": "retinopathy",
+  "carnivoreDietSearchQueries": [
+    "Retinopathy"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alex-manages-type-1-diabetes-and-its-complications-on-a-carnivore-diet/",
+      "title": "Alex manages type 1 diabetes, retinopathy, and gastroparesis on a carnivore diet",
+      "date": "November 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/paul-manages-type-1-diabetes-as-an-accidental-carnivore/",
+      "title": "Paul Manages Type 1 Diabetes As An \u201cAccidental Carnivore\u201d",
+      "date": "October 9, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/diabetic-retinopathy/symptoms-causes/syc-20371611",
+    "text": "Diabetic retinopathy (die-uh-BET-ik ret-ih-NOP-uh-thee) is a diabetes complication that affects eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina).\n\nAt first, diabetic retinopathy might cause no symptoms or only mild vision problems. But it can lead to blindness.\n\nThe condition can develop in anyone who has type 1 or type 2 diabetes. The longer you have diabetes and the less controlled your blood sugar is, the more likely you are to develop this eye complication."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

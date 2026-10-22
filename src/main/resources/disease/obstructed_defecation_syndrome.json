@@ -1,0 +1,40 @@
+{
+  "visible": true,
+  "name": "Obstructed Defecation Syndrome",
+  "uri": "obstructed_defecation_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Obstructed Defecation Syndrome",
+    "Straining"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/how-to-render-beef-tallow/",
+    "https://carnivore.diet/sara-complex-regional-pain-syndrome-anxiety-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
+      "title": "Janice solved her digestive problems and anxiety on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/heath-improved-tendinitis-dandruff-hemorrhoids-carnivore-diet/",
+      "title": "Heath fixed his metabolic syndrome on carnivore diet",
+      "date": "February 21, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/chad-improved-anxiety-and-ptsd-on-a-carnivore-diet/",
+      "title": "Chad improved anxiety and PTSD on a carnivore diet",
+      "date": "February 21, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/22089-obstructed-defecation",
+    "text": "Obstructed defecation syndrome (ODS) is a functional pooping disorder. People with ODS have trouble evacuating their bowels, resulting in constipation. It may be for a variety of reasons, both mechanical and psychological. Treatment is usually conservative and holistic, but sometimes surgery is needed."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,32 @@
+{
+  "visible": true,
+  "name": "Pancreatitis",
+  "uri": "pancreatitis",
+  "carnivoreDietSearchQueries": [
+    "Pancreatitis"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tia-gave-up-her-love-affair-with-carbs-on-a-carnivore-diet/",
+      "title": "Tia gave up her love affair with carbs on a carnivore diet",
+      "date": "May 5, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/trudi-healed-severe-anemia-on-carnivore-diet/",
+      "title": "Trudi healed her severe anemia on a carnivore diet",
+      "date": "January 8, 2021"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227",
+    "text": "Pancreatitis is inflammation of the pancreas. Inflammation is immune system activity that can cause swelling, pain, and changes in how an organ or tissues work."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

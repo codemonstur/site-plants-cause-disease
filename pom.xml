@@ -1,0 +1,213 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.codemonstur</groupId>
+    <artifactId>plants-cause-disease</artifactId>
+    <version>1.0.0</version>
+
+    <name>${project.groupId}:${project.artifactId}</name>
+    <description>A static site generator for the plants-cause-disease website</description>
+    <url>https://github.com/codemonstur/websites</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:https://github.com/codemonstur/websites.git</connection>
+        <developerConnection>scm:git:https://github.com/codemonstur/websites.git</developerConnection>
+        <url>https://github.com/codemonstur/websites</url>
+        <tag>HEAD</tag>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>codemonstur</id>
+            <name>Jurgen Voorneveld</name>
+            <email>jegvoorneveld@gmail.com</email>
+        </developer>
+    </developers>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.release>17</maven.compiler.release>
+        <maven.version>3.6.3</maven.version>
+
+        <version.plugin.enforcer>3.5.0</version.plugin.enforcer>
+
+        <version.library.gson>2.11.0</version.library.gson>
+        <version.library.pebble>3.2.2</version.library.pebble>
+        <version.library.htmlcompressor>2.0.2</version.library.htmlcompressor>
+        <version.library.jsoup>1.18.1</version.library.jsoup>
+        <version.library.classgraph>4.8.177</version.library.classgraph>
+        <version.library.json-schema>1.5.3</version.library.json-schema>
+        <version.library.nu-validator>15.3.14</version.library.nu-validator>
+        <version.library.slf4j>1.7.36</version.library.slf4j>
+        <version.library.junit>5.11.3</version.library.junit>
+        <version.library.selenium>4.27.0</version.library.selenium>
+        <version.plugin.gpg>3.2.8</version.plugin.gpg>
+        <version.plugin.javadoc>3.12.0</version.plugin.javadoc>
+        <version.plugin.publish>0.12.0</version.plugin.publish>
+        <version.plugin.source>3.4.0</version.plugin.source>
+    </properties>
+
+    <build>
+        <plugins>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-enforcer-plugin</artifactId>
+                <version>${version.plugin.enforcer}</version>
+                <executions>
+                    <execution>
+                        <id>enforce-maven</id>
+                        <goals><goal>enforce</goal></goals>
+                        <configuration>
+                            <rules>
+                                <requireMavenVersion>
+                                    <version>${maven.version}</version>
+                                </requireMavenVersion>
+                            </rules>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>${version.plugin.source}</version>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals><goal>jar</goal></goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <version>${version.plugin.javadoc}</version>
+                <executions>
+                    <execution>
+                        <id>attach-javadocs</id>
+                        <phase>deploy</phase>
+                        <goals><goal>jar</goal></goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.5.2</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-gpg-plugin</artifactId>
+                <version>${version.plugin.gpg}</version>
+                <configuration>
+                    <passphrase>${gpg.passphrase}</passphrase>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>sign-artifacts</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>sign</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.sonatype.central</groupId>
+                <artifactId>central-publishing-maven-plugin</artifactId>
+                <version>${version.plugin.publish}</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <publishingServerId>central</publishingServerId>
+                    <autoPublish>true</autoPublish>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>${version.library.gson}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.pebbletemplates</groupId>
+            <artifactId>pebble</artifactId>
+            <version>${version.library.pebble}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.classgraph</groupId>
+            <artifactId>classgraph</artifactId>
+            <version>${version.library.classgraph}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.hazendaz</groupId>
+            <artifactId>htmlcompressor</artifactId>
+            <version>${version.library.htmlcompressor}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>${version.library.jsoup}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>${version.library.selenium}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.networknt</groupId>
+            <artifactId>json-schema-validator</artifactId>
+            <version>${version.library.json-schema}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>nu.validator</groupId>
+            <artifactId>validator</artifactId>
+            <version>${version.library.nu-validator}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.eclipse.jetty</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>${version.library.slf4j}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>${version.library.junit}</version>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+</project>

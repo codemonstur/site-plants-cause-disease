@@ -1,0 +1,185 @@
+{
+  "visible": true,
+  "name": "Hashimoto's",
+  "uri": "hashimotos",
+  "carnivoreDietSearchQueries": [
+    "Hashimoto",
+    "Hashimotos"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/getting-hung-up-on-health-markers/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amanda-improved-thyroid-hashimotos-and-food-sensitivities-on-a-carnivore-diet/",
+      "title": "Amanda improved thyroid (Hashimoto\u2019s) and food sensitivities on a carnivore diet",
+      "date": "October 18, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jill-manages-weight-pcos-and-hashimotos-on-a-carnivore-diet/",
+      "title": "Jill manages weight, PCOS, and Hashimoto\u2019s on a carnivore diet",
+      "date": "July 13, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kelly-heals-from-hashimotos-with-ketovore-diet/",
+      "title": "Kelly Heals From Hashimoto\u2019s With Ketovore Diet",
+      "date": "July 16, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
+      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tracey-reversed-her-hashimotos-on-a-carnivore-diet/",
+      "title": "Tracey reversed her Hashimoto\u2019s on a carnivore diet",
+      "date": "May 5, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jean-lowered-ths-hashimoto-carnivore-way-of-eating/",
+      "title": "Jean lowered TSH which shows Hashimoto is on the mend on from a carnivore way of eating",
+      "date": "February 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stefania-controls-autoimmune-disorders-celiac-and-hashimotos-on-a-carnivore-lifestyle/",
+      "title": "Stefania controls autoimmune disorders, celiac and Hashimotos on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/carla-heals-hashimotos-and-is-off-all-thyroid-meds-on-a-carnivore-lifestyle/",
+      "title": "Carla heals Hashimoto\u2019s and is off all thyroid meds on a Carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
+      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "date": "January 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
+      "title": "Olivia improved hair, skin, thyroid, Hashimoto\u2019s, PCOS on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/elainie-treated-autoimmune-issues-hashimotos-carnivore-diet/",
+      "title": "Elainie improved digestion, autoimmune issues, Hashimoto\u2019s on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/vivica-improved-prediabetes-and-adrenals-on-a-carnivore-diet/",
+      "title": "Vivica improved prediabetes and adrenals on a carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-manages-type-1-diabetes-on-a-low-carb-diet/",
+      "title": "Sara manages type 1 diabetes on a low-carb diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nicole-d-is-her-best-self-on-the-carnivore-diet/",
+      "title": "Nicole D Is Her Best Self On The Carnivore Diet",
+      "date": "June 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-lost-over-50kg-overcame-prediabetes-high-blood-pressure-on-a-carnivore-lifestyle/",
+      "title": "Patrick lost over 50kg, overcame prediabetes, high blood pressure on a carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tatiana-z-healed-her-gut-and-dropped-the-hormone-replacement-medicine-on-a-carnivore-diet/",
+      "title": "Tatiana Z healed her gut and dropped the hormone replacement medicine on a carnivore diet",
+      "date": "February 23, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/parveen-improved-metabolic-thyroid-and-mental-health-on-a-carnivore-diet/",
+      "title": "Parveen improved metabolic, thyroid, and mental health on a Carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/heather-healed-her-joint-pain-plantar-fasciitis-increased-energy-mental-clarity-on-a-carnivore-diet/",
+      "title": "Heather healed her joint pain, plantar fasciitis, increased energy, mental clarity on a carnivore diet",
+      "date": "February 14, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jenae-helped-heal-her-lyme-disease-and-thyroid-on-a-carnivore-diet/",
+      "title": "Jenae helped heal her Lyme disease and thyroid on a carnivore diet",
+      "date": "November 11, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rebekah-improved-sleep-energy-autoimmune-issues-carnivore-diet/",
+      "title": "Rebekah improved autoimmune issues, sleep, gained muscle on carnivore diet",
+      "date": "February 8, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kristen-improved-inflammation-hashimotos-carnivore-diet/",
+      "title": "Kristen ended chronic inflammation on a carnivore diet",
+      "date": "December 29, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nichole-improved-energy-lost-weight-carnivore-diet/",
+      "title": "Nicole improved her energy and lost weight on a carnivore diet",
+      "date": "November 29, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ernest-healed-seborrheic-keratosis-carnivore-diet/",
+      "title": "Ernest healed seborrheic keratosis on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nancy-treated-asthma-hashimotos-sciatica-carnivore-diet/",
+      "title": "Nancy improved digestion, skeletal health, skin on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gabby-lost-weight-healed-digestion-anxiety-carnivore-diet/",
+      "title": "Gabby improved hormonal imbalances on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
+      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "date": "March 7, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amanda-improved-hashimotos-on-carnivore-diet/",
+      "title": "Amanda improved thyroid (Hashimoto\u2019s) and food sensitivities on a carnivore diet",
+      "date": "October 18, 2024"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/hashimotos-disease/symptoms-causes/syc-20351855",
+    "text": "Hashimoto's disease is an autoimmune disorder affecting the thyroid gland. The thyroid is a butterfly-shaped gland located at the base of the neck just below the Adam's apple. The thyroid produces hormones that help regulate many functions in the body.\n\nAn autoimmune disorder is an illness caused by the immune system attacking healthy tissues. In Hashimoto's disease, immune-system cells lead to the death of the thyroid's hormone-producing cells. The disease usually results in a decline in hormone production (hypothyroidism)."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

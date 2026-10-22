@@ -1,0 +1,230 @@
+{
+  "visible": true,
+  "name": "Insomnia",
+  "uri": "insomnia",
+  "carnivoreDietSearchQueries": [
+    "Insomnia"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/carnivore-diet-faq/",
+    "https://carnivore.diet/carnivore-diet-success-stories/",
+    "https://carnivore.diet/getting-started-on-the-carnivore-diet-tips-by-coach-kiki-f/",
+    "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/thyroid-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/carnivore-diet-old/"
+  ],
+  "anecdotes": [
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/reagan-stuttering-insomnia-obesity/",
+      "title": "Reagan heals from stuttering, stress, anxiety, pain, aches, dizziness, insomnia, obesity",
+      "date": "July 18, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/joseph-lost-100-pounds-cured-migraines-insomnia-pre-diabetes-and-gerd-on-a-carnivore-diet/",
+      "title": "Joseph lost 100 pounds, cured migraines, insomnia, pre-diabetes, and GERD on a Carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/cameron-resolved-ibs-insomnia-anxiety-carnivore-lifestyle/",
+      "title": "Cameron resolved his IBS, insomnia, and anxiety on a carnivore lifestyle",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/david-remedies-ibs-insomnia-improves-energy-carnivore-diet/",
+      "title": "David remedies IBS and insomnia, improves mental clarity on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tani-treats-insomnia-scoliosis-conjunctivitis-carnivore-diet/",
+      "title": "Tani treats migraines, insomnia, scoliosis, conjunctivitis on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/cobus-improves-weight-hepatomegaly-insomnia-carnivore-diet/",
+      "title": "Cobus improves weight loss, hepatomegaly, and insomnia on a carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/luke-reversed-long-covid-with-the-carnivore-diet/",
+      "title": "Luke Reversed Long-COVID",
+      "date": "May 22, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/pim-improved-anxiety-depression-and-ibs-on-the-carnivore-diet/",
+      "title": "Pim improved anxiety, depression, and IBS on the carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/",
+      "title": "Ashley & Sarah fight depression on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
+      "title": "Ollie improves depersonalisation, hallucinations, and cyclothymia on a low-carb diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/joel-is-off-all-medications-and-his-doctors-on-a-carnivore-lifestyle/",
+      "title": "Joel is off all medications and his doctors on a carnivore lifestyle",
+      "date": "February 21, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/debbie-reversed-t2d-high-blood-pressure-migraines-psoriasis-on-carnivore-lifestyle/",
+      "title": "Debbie reversed T2D, high blood pressure, migraines, psoriasis on Carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/robert-healed-his-body-after-28-years-of-being-a-vegan-on-a-carnivore-diet/",
+      "title": "Robert Healed his body after 28 years of being a vegan on a carnivore diet",
+      "date": "April 3, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/volodymir-eliminated-acid-reflux-ibs-pyelonephritis-and-alzheimers-on-carnivore-diet/",
+      "title": "Volodymir eliminated acid reflux, IBS, pyelonephritis, and Alzheimer\u2019s on carnivore diet",
+      "date": "March 30, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/craig-healed-gut-migraines-sleep-and-sinusitis-on-a-carnivore-lifestyle/",
+      "title": "Craig healed gut, migraines, sleep, and sinusitis on a carnivore lifestyle",
+      "date": "March 27, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/samaria-has-reversed-tardive-dyskinesia-on-a-carnivore-lifestyle/",
+      "title": "Samaria has reversed tardive dyskinesia on a carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/andy-cured-acid-reflux-ibs-hay-fever-and-depression-on-a-carnivore-diet/",
+      "title": "Andy cured acid reflux, IBS, hay fever, and depression on a Carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nicki-k-healed-fibromyalgia-on-a-carnivore-diet/",
+      "title": "Nicki K healed Fibromyalgia on a carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/maria-improved-her-mood-athletic-performance-digestion-cognitive-and-sleep-on-a-carnivore-diet/",
+      "title": "Maria improved her moods, gained better athletic performance & cognitive function on a carnivore diet",
+      "date": "February 14, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/kiki-healing-weakness-low-thyroid-vegan-to-carnivore-diet/",
+      "title": "Kiki is healing from weakness, low thyroid, inflammation on carnivore diet",
+      "date": "October 18, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lori-improved-digestion-sugar-cravings-anxiety-carnivore-diet/",
+      "title": "Lori improved digestion, sugar cravings, and anxiety on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jurriaan-improved-mood-sleep-energy-pain-carnivore-diet/",
+      "title": "Jurriaan fixed his depression on a carnivore diet",
+      "date": "February 26, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rebekah-improved-sleep-energy-autoimmune-issues-carnivore-diet/",
+      "title": "Rebekah improved autoimmune issues, sleep, gained muscle on carnivore diet",
+      "date": "February 8, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mathieu-improved-immune-system-allergies-carnivore-diet/",
+      "title": "Mathieu improved fitness, energy, cardiovascular health on carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/woman-treats-narcolepsy-retinopathy-carnivore-diet/",
+      "title": "Woman treats Crohn\u2019s, asthma, narcolepsy, hypothyroidism on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/raymond-heals-diverticulitis-plantar-fasciitis-carnivore-diet/",
+      "title": "Raymond heals prediabetes, sugar addiction, diverticulitis on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/kelly-heals-ibs-liver-nodules-depression-carnivore-diet/",
+      "title": "Kelly heals IBS, high blood pressure, liver nodules on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/anonymous-improved-digestion-body-composition-carnivore-diet/",
+      "title": "Anonymous improved digestion, sleep, body composition on carnivore diet",
+      "date": "December 15, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/c-d-improved-plantar-fasciitis-nose-bleeds-carnivore-diet/",
+      "title": "C.D. improved plantar fasciitis and nose bleeds on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lynsey-improved-mental-health-mouth-ulcers-carnivore-diet/",
+      "title": "Lynsey treated mouth ulcers on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/david-heals-allergies-hypersensitivity-sleep-carnivore-diet/",
+      "title": "David heals allergies, hypersensitivity, sleep issues on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/leo-improved-anxiety-mood-multiple-sclerosis-carnivore-diet/",
+      "title": "Leo improved mood disorder, multiple sclerosis, digestion on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/richard-treated-arthritis-joint-pain-fatigue-carnivore-diet/",
+      "title": "Richard improved his arthritis and joint pain on a carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/margaret-heals-digestion-mood-sleep-fatigue-carnivore-diet/",
+      "title": "Margaret heals digestion, mood, sleep, and fatigue on a carnivore diet",
+      "date": "October 4, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/12119-insomnia",
+    "text": "Insomnia is when you experience disruptions in how you feel or function because you aren\u2019t sleeping well or sleeping enough. About 10% of the world\u2019s population experience insomnia that qualifies as a medical condition. It\u2019s usually not dangerous, and there are many ways \u2014 including medications and mental health options \u2014 to treat it."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

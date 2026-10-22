@@ -1,0 +1,135 @@
+{
+  "visible": true,
+  "name": "Fibromyalgia",
+  "uri": "fibromyalgia",
+  "carnivoreDietSearchQueries": [
+    "Fibromyalgia"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/patient-testimonials-eliminating-medication-on-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/yasmeen-thanks-to-carnivore-after-7-5-years-of-being-vegan-reversed-skin-ibs-and-fibromyalgia/",
+      "title": "Yasmeen thanks to Carnivore after 7.5 years of being vegan, reversed skin, IBS and fibromyalgia",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nicki-k-healed-fibromyalgia-on-a-carnivore-diet/",
+      "title": "Nicki K healed Fibromyalgia on a carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amanda-loses-weight-on-the-carnivore-diet/",
+      "title": "Amanda loses weight on the carnivore diet",
+      "date": "March 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/james-recovers-from-veganism-on-the-carnivore-diet/",
+      "title": "James recovers from veganism on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/martin-improves-ankylosing-spondylitis-psoriasis-carnivore-diet/",
+      "title": "Martin improves ankylosing spondylitis and psoriasis on the carnivore diet",
+      "date": "January 11, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lauri-is-pain-free-at-69-on-the-carnivore-diet/",
+      "title": "Lauri Is Pain-Free At 69 On The Carnivore Diet",
+      "date": "June 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kaitlyn-is-off-all-12-medications-and-lives-symptom-free-productive-life-on-carnivore-diet/",
+      "title": "Kaitlyn is off all 12 medications and lives symptom-free productive life on carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steffani-healed-chronic-pain-and-fatigue-on-a-carnivore-diet/",
+      "title": "Steffani healed chronic pain and fatigue on a Carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robyn-d-healed-5-autoimmune-diseases-and-removed-24-medications-on-a-carnivore-diet/",
+      "title": "Robyn D healed 5 autoimmune diseases and removed 24 medications on a carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tash-healed-stomach-pain-autoimmune-issues-on-carnivore-diet/",
+      "title": "Tash healed her stomach pain and autoimmune issues on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/julia-healed-joint-pain-inflammation-anxiety-on-carnivore-diet/",
+      "title": "Julia healed joint pain, inflammation and anxiety on a carnivore diet",
+      "date": "November 12, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lees-fibromyalgia-anxiety-depression-carnivore-diet/",
+      "title": "Lee\u2019s depression vanished on a carnivore diet",
+      "date": "August 7, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/krissy-digestion-chronic-pain-mood-anxiety-carnivore-diet/",
+      "title": "Krissy eliminated chronic pain on carnivore diet",
+      "date": "March 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/katya-raw-vegan-improved-digestion-bladder-kidney-carnivore/",
+      "title": "Katya improved digestion, bladder and kidney pain on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amy-improved-asthma-relationship-with-food-carnivore-diet/",
+      "title": "Amy improved skin, asthma, and relationship with food on carnivore diet",
+      "date": "December 20, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rosebud-heals-interstitial-cystitis-ibs-carnivore-diet/",
+      "title": "Rosebud heals from interstitial cystitis, IBS, depression carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/corina-eliminates-depression-anxiety-carnivore-diet/",
+      "title": "Corina eliminates depression and anxiety on carnivore diet",
+      "date": "October 29, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jenece-improved-fibromyalgia-and-shingles-on-a-carnivore-diet/",
+      "title": "Jenece improved fibromyalgia and shingles on a carnivore diet",
+      "date": "March 10, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/maranda-improved-fibromyalgia-hypoglycemia-on-carnivore-diet/",
+      "title": "Maranda improved fibromyalgia & hypoglycemia on carnivore diet",
+      "date": "March 6, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/fibromyalgia/symptoms-causes/syc-20354780",
+    "text": "Fibromyalgia is a disorder characterized by widespread musculoskeletal pain accompanied by fatigue, sleep, memory and mood issues. Researchers believe that fibromyalgia amplifies painful sensations by affecting the way your brain and spinal cord process painful and nonpainful signals."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

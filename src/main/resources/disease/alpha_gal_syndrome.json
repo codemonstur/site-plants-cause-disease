@@ -1,0 +1,26 @@
+{
+  "visible": true,
+  "name": "Alpha-gal Syndrome",
+  "uri": "alpha_gal_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Alpha-gal"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/allison-cleared-alpha-gal-symptoms-on-a-carnivore-diet/",
+      "title": "Allison cleared alpha-gal symptoms on a carnivore diet",
+      "date": "February 6, 2023"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608",
+    "text": "Alpha-gal syndrome is a type of food allergy. It makes people allergic to red meat and other products made from mammals."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Acid Reflux",
+  "uri": "acid_reflux",
+  "see": {
+    "uri": "heart_burn",
+    "name": "Heart Burn"
+  }
+}

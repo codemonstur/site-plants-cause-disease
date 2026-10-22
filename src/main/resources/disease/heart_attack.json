@@ -1,0 +1,165 @@
+{
+  "visible": true,
+  "name": "Heart Attack",
+  "uri": "heart_attack",
+  "carnivoreDietSearchQueries": [
+    "Heart Attack"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/heart-health-resources/",
+    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/",
+    "https://carnivore.diet/meaty-facts-about-cholesterol/",
+    "https://carnivore.diet/meat-the-ultimate-superfood/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/thyroid-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/alex-gets-relief-from-ptsd-weight-joint-pain-heart-burn-and-adhd-on-the-carnivore-diet/",
+    "https://carnivore.diet/evan-reverses-ankylosing-spondylitis-on-low-carb-diet/",
+    "https://carnivore.diet/janet-loses-weight-on-a-mainly-carnivore-diet/",
+    "https://carnivore.diet/troy-lowered-blood-pressure-cleared-up-eczema-carnivore-diet/",
+    "https://carnivore.diet/ryans-crohns-symptoms-healed-on-carnivore-diet/",
+    "https://carnivore.diet/david-reduced-damage-to-knees-and-gained-muscle-on-a-carnivore-lifestyle/",
+    "https://carnivore.diet/landon-changed-his-relationship-with-food-on-a-carnivore-diet/",
+    "https://carnivore.diet/david-resolved-sleep-apnea-on-a-carnivore-diet/",
+    "https://carnivore.diet/jessyca-overcame-a-life-long-eating-disorder-on-a-carnivore-diet/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/clark-lost-weight-carnivore-diet/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+    "https://carnivore.diet/stephen-improved-muscle-mass-digestion-skin-carnivore-diet/",
+    "https://carnivore.diet/jon-improved-fitness-cardiovascular-health-carnivore-diet/",
+    "https://carnivore.diet/amy-improved-asthma-relationship-with-food-carnivore-diet/",
+    "https://carnivore.diet/debbie-overcomes-eating-disorder-carnivore-diet/",
+    "https://carnivore.diet/jenni-lost-weight-improved-eczema-carnivore-diet/",
+    "https://carnivore.diet/mick-improved-blood-sugar-diabetes-joint-pain-carnivore-diet/",
+    "https://carnivore.diet/will-improves-food-addiction-strength-carnivore-diet/",
+    "https://carnivore.diet/callum-lost-weight-carnivore-diet/",
+    "https://carnivore.diet/david-heals-allergies-hypersensitivity-sleep-carnivore-diet/",
+    "https://carnivore.diet/patrick-improved-fitness-mental-health-carnivore-diet/",
+    "https://carnivore.diet/christopher-improved-nervous-system-sex-carnivore-diet/",
+    "https://carnivore.diet/eddie-heals-from-ehlers-danlos-syndrome-on-a-carnivore-diet/",
+    "https://carnivore.diet/rachels-autistic-daughter-improves-speech-and-communication-on-the-carnivore-diet/",
+    "https://carnivore.diet/ren-healing-chronic-pain-migraines-depression-carnivore-diet/",
+    "https://carnivore.diet/kurt-improved-digestion-mood-anxiety-carnivore-diet/",
+    "https://carnivore.diet/chris-improved-arthritis-tendinitis-carnivore-diet/",
+    "https://carnivore.diet/edgar-improved-speech-carnivore-diet/",
+    "https://carnivore.diet/ad-improves-digestion-mood-sleep-fitness-carnivore-diet/",
+    "https://carnivore.diet/jodelle-regained-period-lost-anxiety-carnivore-diet/",
+    "https://carnivore.diet/adam-improved-digestion-fitness-mental-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/guy-goes-on-carnivore-diet-after-widow-maker-heart-attack/",
+      "title": "Guy goes on carnivore diet after widow-maker heart attack",
+      "date": "March 29, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dannys-heart-is-doing-well-on-a-carnivore-diet/",
+      "title": "Danny S\u2019 heart is doing well on a carnivore diet",
+      "date": "October 9, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-heals-from-type-2-diabetes-osteoporosis-and-cardiovascular-disease-on-a-carnivore-diet/",
+      "title": "Daniel heals from type 2 diabetes, osteoporosis, and cardiovascular disease on a carnivore diet",
+      "date": "June 27, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bill-healed-from-diabetes-arthritis-and-depression-on-the-carnivore-diet/",
+      "title": "Bill healed from diabetes, arthritis, and depression on the carnivore diet",
+      "date": "May 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mollie-reduced-coronary-artery-calcium-cac-score-carnivore-diet/",
+      "title": "Mollie reduced coronary artery calcium (CAC) score while on a carnivore diet",
+      "date": "July 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/advait-healed-metabolic-health-ibs-migraines-fatigue-and-depression-on-the-carnivore-diet/",
+      "title": "Advait healed metabolic health, IBS, migraines, fatigue, and depression on the carnivore diet",
+      "date": "June 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
+      "title": "Ramona and Doug improved digestion and metabolic markers on the carnivore diet",
+      "date": "April 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/darby-manages-graves-disease-and-type-1-diabetes-on-low-carb-diet/",
+      "title": "Darby manages graves\u2019 disease and type 1 diabetes on low-carb diet",
+      "date": "November 26, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bruno-improved-blood-sugar-triglycerides-joint-pain-stiffness-on-a-carnivore-diet/",
+      "title": "Bruno improved blood sugar, triglycerides, joint pain, stiffness on a carnivore diet",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/",
+      "title": "Melanie put Raynaud\u2019s syndrome into remission and improved libido on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jose-got-in-control-of-his-cravings-on-a-carnivore-diet/",
+      "title": "Jose got in control of his cravings on a carnivore diet",
+      "date": "October 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/greg-reduced-coronary-artery-calcium-score-carnivore-diet/",
+      "title": "Greg reduced his Coronary Artery Calcium Score on a carnivore diet",
+      "date": "August 14, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eric-improved-cardiovascular-health-skin-carnivore-diet/",
+      "title": "Eric improved cardiovascular health on carnivore diet",
+      "date": "December 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/larry-improved-heart-failure-pancreas-carnivore-diet/",
+      "title": "Larry reversed diabetes on carnivore diet",
+      "date": "December 2, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/valerie-lost-fat-fasting-carnivore-lifestyle/",
+      "title": "Valerie lost fat on a fasting carnivore lifestyle",
+      "date": "May 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/randy-improved-diabetes-psoriasis-arthritis-carnivore-diet/",
+      "title": "Randy improved diabetes, psoriasis, arthritis, knee pain on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jeremiah-improved-cardiovascular-mental-health-carnivore-diet/",
+      "title": "Jeremiah improved cardiovascular and mental health on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/greg-improved-anxiety-and-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Greg improved anxiety and high blood pressure on a carnivore diet",
+      "date": "March 3, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+    "text": "A heart attack occurs when the flow of blood to the heart is severely reduced or blocked. The blockage is usually due to a buildup of fat, cholesterol and other substances in the heart (coronary) arteries. The fatty, cholesterol-containing deposits are called plaques. The process of plaque buildup is called atherosclerosis."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

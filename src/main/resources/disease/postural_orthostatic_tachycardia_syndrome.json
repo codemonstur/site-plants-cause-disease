@@ -1,0 +1,151 @@
+{
+  "visible": true,
+  "name": "Postural Orthostatic Tachycardia Syndrome",
+  "uri": "postural_orthostatic_tachycardia_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Postural Orthostatic Tachycardia Syndrome",
+    "POTS"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/ankur-improved-cholesterol-and-sleep-on-a-carnivore-diet/",
+    "https://carnivore.diet/leo-improved-anxiety-and-skin-issues-on-a-carnivore-diet/",
+    "https://carnivore.diet/maranda-improved-fibromyalgia-hypoglycemia-on-carnivore-diet/",
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/ashley-manages-multiple-sclerosis-on-the-carnivore-diet/",
+    "https://carnivore.diet/melissa-and-tom-are-navigating-cancer-on-the-carnivore-diet/",
+    "https://carnivore.diet/kristen-feels-alive-for-the-first-time-on-a-carnivore-diet/",
+    "https://carnivore.diet/tammy-reversed-arthritis-simple-seizures-pcos-on-a-carnivore-lifestyle/",
+    "https://carnivore.diet/aaron-got-rid-of-sugar-cravings-and-built-muscle-on-a-carnivore-based-lifestyle/",
+    "https://carnivore.diet/robert-healed-his-body-after-28-years-of-being-a-vegan-on-a-carnivore-diet/",
+    "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eddie-heals-from-ehlers-danlos-syndrome-on-a-carnivore-diet/",
+      "title": "Eddie heals from Ehlers-Danlos syndrome on a carnivore diet",
+      "date": "May 9, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jason-improves-lymes-disease-chronic-fatigue-carnivore-diet/",
+      "title": "Jason improves Chronic Fatigue on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/relief-from-eds-pots/",
+      "title": "Amy finds relief from EDS & POTS with Carnivore Diet",
+      "date": "June 3, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachel-gets-relief-from-ehlers-danlos-syndrome-dysautonomia-pots-on-the-carnivore-diet/",
+      "title": "Rachel gets relief from Ehlers-Danlos Syndrome, Dysautonomia (POTS) on the carnivore diet",
+      "date": "November 3, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/carrie-improved-mast-cell-activation-syndrome-on-a-keto-diet/",
+      "title": "Carrie improved mast cell activation syndrome on a keto diet",
+      "date": "March 10, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tiffany-overcame-decades-food-addiction-on-carnivore-diet/",
+      "title": "Tiffany overcame decades of food addiction on a carnivore diet",
+      "date": "December 31, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tips-for-cooking-carnivore-meals-by-coach-tracy-k/",
+      "title": "Tips for cooking carnivore meals by coach Tracy K",
+      "date": "December 29, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/carnivore-diet-tips-by-coach-tracy-k/",
+      "title": "Carnivore diet tips by coach Tracy K",
+      "date": "December 27, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jose-got-in-control-of-his-cravings-on-a-carnivore-diet/",
+      "title": "Jose got in control of his cravings on a carnivore diet",
+      "date": "October 24, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/ren-healing-chronic-pain-migraines-depression-carnivore-diet/",
+      "title": "Ren is healing from chronic pain, migraines, depression a carnivore diet",
+      "date": "September 5, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mark-improved-blood-pressure-fasting-meat-centric-keto-lifestyle/",
+      "title": "Mark improved respiration with a fasting keto-carnivore diet",
+      "date": "May 11, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/leri-improves-back-pain-mental-clarity-carnivore-diet/",
+      "title": "Leri drastically improves mental clarity on carnivore diet",
+      "date": "February 26, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nathan-improves-back-pain-joint-pain-sleep-carnivore-diet/",
+      "title": "Nathan improves back pain, joint pain, and sleep on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mike-improved-eczema-cravings-sleep-weight-carnivore-diet/",
+      "title": "Mike improved his eczema, cravings, sleep and weight on a carnivore diet",
+      "date": "March 13, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/autumn-improved-psoriasis-carnivore-diet/",
+      "title": "Autumn improved psoriasis on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
+      "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lucie-improved-migraines-carnivore-diet/",
+      "title": "Lucie improved migraines on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/biccy-improved-anxiety-carnivore-diet/",
+      "title": "Nick improved anxiety on a carnivore diet",
+      "date": "November 1, 2018"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

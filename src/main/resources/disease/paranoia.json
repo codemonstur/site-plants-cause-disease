@@ -1,0 +1,44 @@
+{
+  "visible": true,
+  "name": "Paranoia",
+  "uri": "paranoia",
+  "carnivoreDietSearchQueries": [
+    "Paranoia"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/better-life-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nigel-heals-schizophrenia-paranoia-depression-carnivore-diet/",
+      "title": "Nigel heals from schizophrenia, paranoia, depression on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/martin-lost-anxiety-paranoia-fatigue-rhinitis-carnivore-diet/",
+      "title": "Martin lost anxiety, paranoia, fatigue, rhinitis on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/douglas-manages-anxiety-and-blood-glucose-on-a-carnivore-diet/",
+      "title": "Douglas manages anxiety and blood glucose on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/josh-heals-ptsd-depression-carnivore-diet/",
+      "title": "Josh heals from PTSD and depression on a carnivore diet",
+      "date": "October 30, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.healthline.com/health/paranoia",
+    "text": "Paranoia can cause you to feel mistrustful of others or persecuted without a threat. Treatment can depend on the cause but may include psychotherapy and medication."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

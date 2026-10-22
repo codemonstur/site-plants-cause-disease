@@ -1,0 +1,42 @@
+{
+  "visible": true,
+  "name": "Keratosis",
+  "uri": "keratosis",
+  "carnivoreDietSearchQueries": [
+    "Keratosis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ernest-healed-seborrheic-keratosis-carnivore-diet/",
+      "title": "Ernest healed seborrheic keratosis on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kassandra-reverses-a-lifetime-of-obesity/",
+      "title": "Kassandra reverses a lifetime of obesity",
+      "date": "August 2, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sharon-healed-from-psoriasis-chronic-pain-on-carnivore-diet/",
+      "title": "Sharon H put psoriasis and chronic pain into remission and regrew hair on a carnivore diet",
+      "date": "October 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
+      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "date": "February 6, 2020"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

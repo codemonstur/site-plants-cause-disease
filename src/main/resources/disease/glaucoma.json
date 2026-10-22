@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Glaucoma",
+  "uri": "glaucoma",
+  "carnivoreDietSearchQueries": [
+    "Glaucoma"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matthew-reversed-glaucoma-digestive-disorders-and-osteoarthritis-on-carnivore-lifestyle/",
+      "title": "Matthew reversed Glaucoma, digestive disorders, and osteoarthritis on carnivore lifestyle",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mick-improved-glaucoma-and-energy-on-a-carnivore-diet/",
+      "title": "Mick improved glaucoma and energy on a carnivore diet",
+      "date": "March 3, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/glaucoma/symptoms-causes/syc-20372839",
+    "text": "Glaucoma is an eye condition that damages the optic nerve. This damage can lead to vision loss or blindness. The optic nerve sends visual information from your eye to the brain and is vital for good vision. Damage to the optic nerve is often related to high pressure in the eye. But glaucoma can happen even with typical eye pressure."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

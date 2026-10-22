@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "POTS",
+  "uri": "pots",
+  "see": {
+    "uri": "postural_orthostatic_tachycardia_syndrome",
+    "name": "Postural Orthostatic Tachycardia Syndrome"
+  }
+}

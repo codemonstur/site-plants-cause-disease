@@ -1,0 +1,127 @@
+{
+  "visible": true,
+  "name": "Indigestion",
+  "uri": "indigestion",
+  "carnivoreDietSearchQueries": [
+    "Dyspepsia",
+    "Indigestion"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/getting-started-carnivore-transition-period-by-coach-elizabeth-b/",
+    "https://carnivore.diet/better-life-carnivore-diet/",
+    "https://carnivore.diet/no-gallbladder-no-problem/",
+    "https://carnivore.diet/carnivore-diet-tips/",
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/brian-improved-digestion-and-energy-on-the-carnivore-diet/",
+      "title": "Brian improved digestion and energy on the carnivore diet",
+      "date": "August 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-transformed-weight-digestion-and-fitness-on-the-carnivore-diet/",
+      "title": "Adam transformed weight, digestion, and fitness on the carnivore diet",
+      "date": "June 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/barbara-s-heals-from-anxiety-and-digestive-issues-on-a-carnivore-diet/",
+      "title": "Barbara S heals from anxiety and digestive issues on a carnivore diet",
+      "date": "April 19, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/volodymir-eliminated-acid-reflux-ibs-pyelonephritis-and-alzheimers-on-carnivore-diet/",
+      "title": "Volodymir eliminated acid reflux, IBS, pyelonephritis, and Alzheimer\u2019s on carnivore diet",
+      "date": "March 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/devin-improved-nerve-pain-hormonal-balance-and-eliminated-seizures-on-a-carnivore-diet/",
+      "title": "Devin improved nerve pain, hormonal balance, and eliminated seizures on a carnivore diet",
+      "date": "February 17, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robert-anxiety-free-switching-carnivore-diet-lost-weight/",
+      "title": "Robert is no longer sore, is now free from anxiety on a carnivore diet",
+      "date": "August 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lori-improved-digestion-sugar-cravings-anxiety-carnivore-diet/",
+      "title": "Lori improved digestion, sugar cravings, and anxiety on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-improved-addiction-arthritis-fatigue-carnivore-diet/",
+      "title": "Michael improved mood, mental health, skin, vision on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/charlene-improves-sleep-mental-health-lyme-carnivore-diet/",
+      "title": "Charlene improves sleep, cardiovascular health, digestion on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joe-improved-metabolic-flexibility-carnivore-fasting-lifestyle/",
+      "title": "Joe improved metabolic flexibility on carnivore fasting lifestyle",
+      "date": "May 15, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matt-improved-digestion-headaches-energy-carnivore-diet/",
+      "title": "Matt improved his energy on carnivore diet",
+      "date": "March 13, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-lost-weight-improved-menstrual-cramping-carnivore-diet/",
+      "title": "Sara lost weight and improved her menstrual cramping on a carnivore diet",
+      "date": "December 17, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isabel-improved-digestion-liver-mental-health-carnivore-diet/",
+      "title": "Isabel cured her IBS on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lucie-improved-migraines-carnivore-diet/",
+      "title": "Lucie improved migraines on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amber-improved-hirsutism-carnivore-diet/",
+      "title": "Amber improved hirsutism with a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/wade-heals-anxiety-depression-strep-throat-carnivore-diet/",
+      "title": "Wade heals anxiety, depression, strep throat, joint pain on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ankur-improved-cholesterol-and-sleep-on-a-carnivore-diet/",
+      "title": "Ankur improved cholesterol and sleep on a carnivore diet",
+      "date": "March 12, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/indigestion/symptoms-causes/syc-20352211",
+    "text": "Indigestion \u2014 also called dyspepsia or an upset stomach \u2014 is discomfort in your upper abdomen. Indigestion describes certain symptoms, such as belly pain and a feeling of fullness soon after you start eating, rather than a specific disease. Indigestion can also be a symptom of other digestive disorders."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

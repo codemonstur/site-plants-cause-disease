@@ -1,0 +1,126 @@
+{
+  "visible": true,
+  "name": "Inflammatory Bowel Disease",
+  "uri": "inflammatory_bowel_disease",
+  "carnivoreDietSearchQueries": [
+    "Inflammatory Bowel",
+    "IBD"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/a-beginners-introduction-to-the-carnivore-diet/",
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/",
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
+    "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/why-all-the-fuss-over-fiber/",
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/no-gallbladder-no-problem/",
+    "https://carnivore.diet/lamb-ribs-with-chermoula/",
+    "https://carnivore.diet/what-to-eat-on-the-carnivore-diet/",
+    "https://carnivore.diet/14-days-of-carnivore-diet/",
+    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/",
+    "https://carnivore.diet/carnivore-recipes/",
+    "https://carnivore.diet/contact/",
+    "https://carnivore.diet/carnivore-diet-food-list-meal-plan/",
+    "https://carnivore.diet/guides/carnivore-guide/6-transition-bowel-movements/",
+    "https://carnivore.diet/meat-and-the-environment/",
+    "https://carnivore.diet/keto-bacon-jalapeno-cheese-ball/",
+    "https://carnivore.diet/guides/fasting-guide/food-list-meal-plan-and-shopping-list/",
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/slow-cooker-beef-bone-broth-recipe-crock-pot-option/",
+    "https://carnivore.diet/theresa-healed-crohns-disease-and-lost-weight-on-a-carnivore-lifestyle/",
+    "https://carnivore.diet/mickis-ms-in-remission-bowel-issues-gone-carnivore-diet/",
+    "https://carnivore.diet/emily-j-manages-type-1-diabetes-ibs-strength-pain-and-acne-on-a-carnivore-diet/",
+    "https://carnivore.diet/sylvia-eliminated-rheumatoid-arthritis-allergies-and-constipation-on-carnivore-diet/",
+    "https://carnivore.diet/sara-j-healed-boils-sarcopenia-and-dysphoric-pre-menstrual-disorder-on-a-carnivore-diet/",
+    "https://carnivore.diet/ahmad-improved-energy-anxiety-and-depression-on-a-carnivore-diet/",
+    "https://carnivore.diet/kelly-improved-kidney-disease-digestion-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-healed-eczema-leaky-gut-carnivore-diet/",
+      "title": "Michael C healed eczema, leaky gut, and inflammatory bowel disease on a carnivore diet",
+      "date": "May 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tanner-heals-from-crohns-disease-eczema-and-being-underweight-on-a-carnivore-diet/",
+      "title": "Tanner heals from Crohn\u2019s disease, eczema, and being underweight on a carnivore diet",
+      "date": "June 27, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kim-improved-ulcerative-colitis-boils-migraines-on-carnivore-diet/",
+      "title": "Kim improved her ulcerative colitis on a carnivore diet",
+      "date": "November 4, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cassie-healed-plantar-fasciitis-edema-carnivore-diet/",
+      "title": "Cassie healed from plantar fasciitis, edema, back pain on a carnivore diet",
+      "date": "October 13, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-treats-asthma-psoriasis-crohns-rosacea-carnivore-diet/",
+      "title": "Ashley treats asthma, psoriasis, crohn\u2019s disease, rosacea on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-heals-diabetes-ulcerative-colitis-carnivore-diet/",
+      "title": "Patrick healed from Ulcerative Colitis on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/pyroxidine-improved-skin-ibs-anxiety-carnivore-diet/",
+      "title": "Pyroxidine improved skin, IBS, and anxiety on a carnivore diet",
+      "date": "November 14, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lindsay-lost-weight-improved-skin-digestion-carnivore-diet/",
+      "title": "Lindsay lost weight and improved skin and digestion on carnivore diet",
+      "date": "November 13, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mim-improved-reproductive-urinary-health-carnivore-diet/",
+      "title": "Mim improved her eczema on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rebekah-improved-sleep-energy-autoimmune-issues-carnivore-diet/",
+      "title": "Rebekah improved autoimmune issues, sleep, gained muscle on carnivore diet",
+      "date": "February 8, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathaniel-improved-digestion-fitness-fatigue-carnivore-diet/",
+      "title": "Nathaniel improved his fitness and energy on a carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/raymond-heals-diverticulitis-plantar-fasciitis-carnivore-diet/",
+      "title": "Raymond heals prediabetes, sugar addiction, diverticulitis on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improves-digestion-weight-loss-carnivore-diet/",
+      "title": "Daniel improves his digestion and weight loss on a carnivore diet",
+      "date": "October 5, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/inflammatory-bowel-disease/symptoms-causes/syc-20353315",
+    "text": "Inflammatory bowel disease (IBD) is a term that describes disorders involving long-standing (chronic) inflammation of tissues in your digestive tract. Types of IBD include: Ulcerative colitis and Crohn's disease."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,924 @@
+{
+  "visible": true,
+  "name": "High Blood Pressure",
+  "uri": "high_blood_pressure",
+  "carnivoreDietSearchQueries": [
+    "High Blood Pressure",
+    "Hypertension",
+    "lisinopril"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/14-days-of-carnivore-diet/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/carnivore-diet-faq/",
+    "https://carnivore.diet/carnivore-diet-old/",
+    "https://carnivore.diet/better-life-carnivore-diet/",
+    "https://carnivore.diet/why-all-the-fuss-over-fiber/",
+    "https://carnivore.diet/meaty-facts-about-cholesterol/",
+    "https://carnivore.diet/health-benefits/",
+    "https://carnivore.diet/carnivore-diet-tips-by-coach-tracy-k/",
+    "https://carnivore.diet/guides/carnivore-guide/6-transition-bowel-movements/",
+    "https://carnivore.diet/cure-chronic-conditions-with-bacon-and-a-steak/",
+    "https://carnivore.diet/patient-testimonials-eliminating-medication-on-carnivore-diet/",
+    "https://carnivore.diet/a-beginners-introduction-to-the-carnivore-diet/",
+    "https://carnivore.diet/switching-to-a-healthier-meat-based-you/",
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/dont-worry-they-have-a-pill-for-that/",
+    "https://carnivore.diet/how-to-lose-weight-with-a-carnivore-diet/",
+    "https://carnivore.diet/carnivore-healthy-weight-loss-a-how-to-guide/",
+    "https://carnivore.diet/carnivore-coach-training/mock-interview/",
+    "https://carnivore.diet/carnivore-for-alzheimers-prevention-a-no-brainer/",
+    "https://carnivore.diet/pavlos-manages-t-cell-blood-counts-and-skin-condition-ctcl-on-a-carnivore-diet/",
+    "https://carnivore.diet/david-improved-digestion-fitness-liver-carnivore-diet/",
+    "https://carnivore.diet/cobus-improves-weight-hepatomegaly-insomnia-carnivore-diet/",
+    "https://carnivore.diet/anonymous-chronic-inflammation-digestive-issues-carnivore-diet/",
+    "https://carnivore.diet/william-improved-fatigue-brain-fog-acne-carnivore-diet/",
+    "https://carnivore.diet/stacey-improved-cardiovascular-health-carnivore-diet/",
+    "https://carnivore.diet/jonathan-bodybuilds-and-manages-pain-on-the-carnivore-diet/",
+    "https://carnivore.diet/jerry-found-his-abs-in-his-50s-on-a-carnivore-diet/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+    "https://carnivore.diet/paul-healed-sleep-apnea-carnivore-diet/",
+    "https://carnivore.diet/udo-improved-dental-health-mood-mental-health-carnivore-diet/",
+    "https://carnivore.diet/josh-carnivore-transformation/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rob-improves-pulmonary-fibrosis-and-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Rob improves pulmonary fibrosis and high blood pressure on a carnivore diet",
+      "date": "May 19, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/linda-improved-high-blood-pressure-and-hemochromatosis-on-the-carnivore-diet/",
+      "title": "Linda improved high blood pressure and hemochromatosis on the carnivore diet",
+      "date": "April 27, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patti-improved-sleep-apnea-high-blood-pressure-and-inflammation-on-a-carnivore-diet/",
+      "title": "Patti improved sleep apnea, high blood pressure, and inflammation on a carnivore diet",
+      "date": "April 16, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tyler-improved-weight-gerd-pain-mobility-depression-and-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Tyler improved weight, GERD, pain, mobility, depression, and high blood pressure on a carnivore diet",
+      "date": "July 1, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/demetrios-healed-from-obesity-high-blood-pressure-carnivore-diet/",
+      "title": "Demetrios healed from obesity, high blood pressure, and joint pain on the carnivore diet",
+      "date": "June 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rick-overcame-high-blood-pressure-cancer-and-poor-metabolic-health-on-a-carnivore-diet/",
+      "title": "Rick overcame high blood pressure and poor metabolic health on a carnivore diet",
+      "date": "May 23, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-lost-over-50kg-overcame-prediabetes-high-blood-pressure-on-a-carnivore-lifestyle/",
+      "title": "Patrick lost over 50kg, overcame prediabetes, high blood pressure on a carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gregory-overcame-weight-lymphedema-high-blood-pressure-prediabetes-on-a-carnivore-diet/",
+      "title": "Gregory overcame weight, lymphedema, high blood pressure, prediabetes on a carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jackie-resolved-high-blood-pressure-and-heartburn-on-a-carnivore-lifestyle/",
+      "title": "Jackie resolved high blood pressure and heartburn on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/caelin-healed-digestive-issues-testosterone-high-blood-pressure-on-a-carnivore-lifestyle/",
+      "title": "Caelin healed digestive issues, testosterone, high blood pressure on a Carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/elaine-lost-weight-reversed-type-2-diabetes-and-high-blood-pressure-on-a-carnivore-lifestyle/",
+      "title": "Elaine lost weight, reversed type 2 diabetes and high blood pressure on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/debbie-reversed-t2d-high-blood-pressure-migraines-psoriasis-on-carnivore-lifestyle/",
+      "title": "Debbie reversed T2D, high blood pressure, migraines, psoriasis on Carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ryan-resolved-high-blood-pressure-migraines-heart-burn-allergies-on-a-carnivore-diet/",
+      "title": "Ryan resolved high blood pressure, migraines, heart burn, allergies on a carnivore diet",
+      "date": "April 18, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/melissa-overcame-sugar-addiction-high-blood-pressure-and-arthritis-on-a-carnivore-diet/",
+      "title": "Melissa overcame sugar addiction, high blood pressure, and arthritis on a Carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/will-b-healed-diabetes-high-blood-pressure-and-high-cholesterol-on-a-carnivore-lifestyle/",
+      "title": "Will B healed diabetes, high blood pressure, and high cholesterol on a Carnivore lifestyle",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/spence-lowered-his-high-blood-pressure-and-lost/",
+      "title": "Spence lowered his high blood pressure and lost 100 pounds",
+      "date": "February 23, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-eliminated-gout-high-blood-pressure-on-carnivore-diet/",
+      "title": "John eliminated gout symptoms and high blood pressure on a carnivore diet",
+      "date": "November 11, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kelly-heals-ibs-liver-nodules-depression-carnivore-diet/",
+      "title": "Kelly heals IBS, high blood pressure, liver nodules on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/richard-improved-diabetes-mobility-self-esteem-and-blood-pressure-on-a-carnivore-diet/",
+      "title": "Richard improved diabetes, mobility, self-esteem, and blood pressure on a carnivore diet",
+      "date": "March 5, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/pranavan-improved-blood-pressure-and-fitness-on-the-carnivore-diet/",
+      "title": "Pranavan improved blood pressure and fitness on the carnivore diet",
+      "date": "September 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-improved-blood-pressure-and-cholesterol-on-the-carnivore-diet/",
+      "title": "Mike improved blood pressure and cholesterol on the carnivore diet",
+      "date": "August 29, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-lost-weight-improved-energy-and-blood-pressure-and-reduced-medications-on-a-carnivore-diet/",
+      "title": "Jim lost weight, improved energy and blood pressure, and reduced medications on a carnivore diet",
+      "date": "July 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-manages-obesity-blood-pressure-cholesterol-diabetes-and-chronic-pain-on-a-carnivore-diet/",
+      "title": "Daniel manages obesity, blood pressure, cholesterol, diabetes, and chronic pain on a carnivore diet",
+      "date": "July 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/reverend-matt-manages-blood-pressure-sleep-apnea-weight-and-mental-clarity-on-the-carnivore-diet/",
+      "title": "Reverend Matt manages blood pressure, sleep apnea, weight, and mental clarity on the carnivore diet",
+      "date": "July 13, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/greg-manages-gout-on-a-carnivore-diet/",
+      "title": "Greg is off blood pressure meds and has improved gout on the carnivore diet",
+      "date": "April 24, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/travis-improved-focus-anxiety-disorder-ocd-depression-psoriasis-and-blood-sugar-on-the-carnivore-diet/",
+      "title": "Travis improved focus, anxiety disorder, OCD, depression, psoriasis, and blood sugar on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stroke-survivor-lowers-blood-pressure-carnivore-diet/",
+      "title": "Two-Time Stroke Survivor Matt Lowers Blood Pressure On A Carnivore Diet",
+      "date": "June 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cindy-gets-off-blood-pressure-medication-on-carnivore-diet/",
+      "title": "Cindy gets off blood pressure medication on carnivore diet",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bruno-improved-blood-sugar-triglycerides-joint-pain-stiffness-on-a-carnivore-diet/",
+      "title": "Bruno improved blood sugar, triglycerides, joint pain, stiffness on a carnivore diet",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/travis-reduces-blood-pressure-inflammation-and-is-mentally-clearer-on-carnivore-lifestyle/",
+      "title": "Travis reduces blood pressure, inflammation and is mentally clearer on Carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dan-lost-weight-reduced-blood-pressure-reversed-inflammation-on-carnivore-lifestyle/",
+      "title": "Dan lost weight, reduced blood pressure, reversed inflammation on carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/troy-lowered-blood-pressure-cleared-up-eczema-carnivore-diet/",
+      "title": "Troy lowered his blood pressure, cleared up eczema on a carnivore diet",
+      "date": "July 1, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/paul-lost-weight-and-got-off-2-blood-pressure-medications-on-the-carnivore-lifestyle/",
+      "title": "Paul lost weight and got off 2 blood pressure medications on the carnivore lifestyle",
+      "date": "March 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/karen-is-no-longer-on-blood-pressure-and-cholesterol-medicines-on-a-carnivore-lifestyle/",
+      "title": "Karen is no longer on blood pressure and cholesterol medicines on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/zack-lowered-blood-pressure-and-inflammation-on-a-carnivore-lifestyle/",
+      "title": "Zack lowered blood pressure and inflammation on a carnivore lifestyle",
+      "date": "March 3, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-lowered-triglycerides-blood-pressure-on-carnivore-diet/",
+      "title": "Jim lowered his triglycerides and blood pressure on a carnivore diet",
+      "date": "October 26, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tracy-lowered-blood-pressure-on-carnivore-diet/",
+      "title": "Tracy lowered her blood pressure on a carnivore diet",
+      "date": "October 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kay-improved-ocd-blood-pressure-anxiety-carnivore-diet/",
+      "title": "The carnivore diet helped Kay improve blood pressure and OCD",
+      "date": "September 23, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-improved-blood-pressure-eye-sight-carnivore-diet/",
+      "title": "John improved blood pressure, eye sight, joint pain on carnivore diet",
+      "date": "March 9, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jennifer-improved-sleep-migraines-pain-cravings-carnivore-diet/",
+      "title": "Jennifer improved sleep, migraines, pain, blood pressure on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nicole-improved-cholesterol-hypertension-on-a-carnivore-diet/",
+      "title": "Nicole improved cholesterol, hypertension on a carnivore diet",
+      "date": "October 3, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/aaron-k-reversed-diabetes-and-hypertension-and-lost-weight-on-a-carnivore-diet/",
+      "title": "Aaron K reversed diabetes and hypertension and lost weight on a carnivore diet",
+      "date": "June 27, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/james-gets-off-all-psych-meds-on-a-carnivore-diet/",
+      "title": "James gets off all psych meds on a carnivore diet",
+      "date": "August 1, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rays-scale-no-longer-dies-beneath-him/",
+      "title": "Ray\u2019s Scale No Longer Dies Beneath Him",
+      "date": "June 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jasons-animal-based-low-carbohydrate-diet-and-weight-training-reversed-metabolic-syndrome/",
+      "title": "Jason\u2019s animal based low-carbohydrate diet and weight training reversed metabolic syndrome",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eric-healed-non-alcoholic-fatty-liver-disease-migraines-arthritis-on-carnivore-lifestyle/",
+      "title": "Eric healed non-alcoholic fatty liver disease, migraines, arthritis on carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jacob-overcame-his-diabetes-lost-weight-all-from-a-carnivore-lifestyle/",
+      "title": "Jacob overcame his diabetes, lost weight all from a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kim-healed-arthritis-migraines-depression-skin-and-weight-on-carnivore-lifestyle/",
+      "title": "Kim healed arthritis, migraines, depression, skin, and weight on carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cindi-experienced-less-pain-and-lost-weight-on-a-carnivore-lifestyle/",
+      "title": "Cindi experienced less pain and lost weight on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joseph-lost-100-pounds-cured-migraines-insomnia-pre-diabetes-and-gerd-on-a-carnivore-diet/",
+      "title": "Joseph lost 100 pounds, cured migraines, insomnia, pre-diabetes, and GERD on a Carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nick-is-no-longer-pre-diabetic-on-a-carnivore-lifestyle/",
+      "title": "Nick is no longer pre-diabetic on a carnivore lifestyle",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/heather-healed-digestion-sciatica-and-joint-pains-and-reduced-ms-on-a-carnivore-diet/",
+      "title": "Heather healed digestion, sciatica, and joint pains and reduced MS on a carnivore diet",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robert-healed-his-body-after-28-years-of-being-a-vegan-on-a-carnivore-diet/",
+      "title": "Robert Healed his body after 28 years of being a vegan on a carnivore diet",
+      "date": "April 3, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/volodymir-eliminated-acid-reflux-ibs-pyelonephritis-and-alzheimers-on-carnivore-diet/",
+      "title": "Volodymir eliminated acid reflux, IBS, pyelonephritis, and Alzheimer\u2019s on carnivore diet",
+      "date": "March 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rick-is-off-all-medications-for-chronic-inflammation-and-malaise-on-a-carnivore-lifestyle/",
+      "title": "Rick is off all medications for chronic inflammation and malaise on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/paula-lost-weight-and-had-increased-energy-every-day-on-a-carnivore-lifestyle/",
+      "title": "Paula lost weight and had increased energy every day on a carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/botond-achieved-health-while-losing-weight-on-the-carnivore-diet/",
+      "title": "Botond B achieved health while losing weight on the carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/misty-healed-from-alcoholism-hypertension-and-eczema-on-a-low-carb-meat-based-diet/",
+      "title": "Misty healed from alcoholism, hypertension, and eczema on a low carb meat based diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/diane-healed-autoimmune-conditions-hormones-and-migraines-on-a-carnivore-diet/",
+      "title": "Diane healed autoimmune conditions, hormones, and migraines on a carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/landon-changed-his-relationship-with-food-on-a-carnivore-diet/",
+      "title": "Landon changed his relationship with food on a carnivore diet",
+      "date": "February 16, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessyca-overcame-a-life-long-eating-disorder-on-a-carnivore-diet/",
+      "title": "Jessyca overcame a life long eating disorder on a carnivore diet",
+      "date": "December 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jeff-eliminated-type-2-diabetes-sleep-apnea-on-carnivore-diet/",
+      "title": "Jeff eliminated his type 2 diabetes and sleep apnea on a carnivore diet",
+      "date": "November 7, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bobbys-enjoying-relief-from-hidradenitis-suppurativa-on-carnivore-diet/",
+      "title": "Bobby\u2019s enjoying relief from Hidradenitis Suppurativa on a carnivore diet",
+      "date": "October 20, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amber-improved-rosacea-acid-reflux-on-carnivore-diet/",
+      "title": "Amber improved her rosacea and acid reflux on a carnivore diet",
+      "date": "October 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-improves-type-2-diabetes-carnivore-diet/",
+      "title": "Stephen is improving his type 2 diabetes on the Carnivore diet",
+      "date": "September 22, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/trudy-improved-sleep-fitness-pain-weight-carnivore-fasting/",
+      "title": "Trudy improved sleep, fitness, and pain on a carnivore fasting lifestyle",
+      "date": "May 31, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/james-improved-metabolic-function-carnivore-fasting-lifestyle/",
+      "title": "James improved his metabolic function on a carnivore fasting lifestyle",
+      "date": "May 15, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/trudy-lost-weight-came-off-medications-carnivore-diet/",
+      "title": "Trudy lost weight, and came off medications on a carnivore diet",
+      "date": "March 9, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-improved-joint-pain-hypertension-carnivore-diet/",
+      "title": "Mark improved joint pain, hypertension and gained muscle on carnivore diet",
+      "date": "February 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-improved-diabetes-cardio-vascular-health-carnivore-diet/",
+      "title": "John improved his diabetes and cardio vascular health on carnivore diet",
+      "date": "February 6, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marion-improved-back-pain-digestion-energy-carnivore-diet/",
+      "title": "Marion improved arthritis on carnivore diet",
+      "date": "February 4, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kelly-improved-kidney-disease-digestion-carnivore-diet/",
+      "title": "Kelly improved her kidney disease on a carnivore diet",
+      "date": "December 13, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-improved-diabetes-anxiety-depression-carnivore-diet/",
+      "title": "Sarah improved diabetes, anxiety and depression on carnivore diet",
+      "date": "November 20, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-diabetes-mental-health-carnivore-diet/",
+      "title": "Chris improved his diabetes and mental health with a carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marc-improved-cardiovascular-urinary-system-carnivore-diet/",
+      "title": "Marc improved digestion on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/josh-heals-ptsd-depression-carnivore-diet/",
+      "title": "Josh heals from PTSD and depression on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jared-improved-cardiovascular-health-digestion-carnivore-diet/",
+      "title": "Jared gets to be a father again on a carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matthew-treats-prediabetes-hypertension-carnivore-diet/",
+      "title": "Matthew treats prediabetes on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/william-loses-weight-improves-knee-pain-carnivore-diet/",
+      "title": "William loses weight and improves knee pain on a carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-heals-type-ii-diabetes-sleep-apnea-carnivore-diet/",
+      "title": "Chris heals obesity, type II diabetes, hypertension, apnea on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-improves-autoimmune-conditions-ibs-acne-carnivore-diet/",
+      "title": "Adam improves autoimmune conditions, constipation, acne on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/brandon-gained-libido-improved-metabolic-health-carnivore-diet/",
+      "title": "Brandon gained libido, energy, improved metabolic health on carnivore diet",
+      "date": "January 27, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/frank-improved-anxiety-asthma-carnivore-diet/",
+      "title": "Frank\u2019s asthma was gone after he went on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matt-improved-diabetes-carnivore-diet/",
+      "title": "Matt improved diabetes on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/biccy-improved-anxiety-carnivore-diet/",
+      "title": "Nick improved anxiety on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/woman-reduces-medications-solves-hunger-carnivore-diet/",
+      "title": "Woman loses weight, reduces medications, solves hunger on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ed-lost-weight-improved-energy-carnivore-diet/",
+      "title": "Ed lost weight and improved energy on a carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jon-improved-fitness-mental-health-diabetes-carnivore-diet/",
+      "title": "J\u00f3n improved mood and mental health on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improves-digestion-weight-loss-carnivore-diet/",
+      "title": "Daniel improves his digestion and weight loss on a carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eddie-heals-from-ehlers-danlos-syndrome-on-a-carnivore-diet/",
+      "title": "Eddie heals from Ehlers-Danlos syndrome on a carnivore diet",
+      "date": "May 9, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/david-lost-weight-and-got-off-medications-on-a-carnivore-diet/",
+      "title": "David lost weight and got off medications on a carnivore diet",
+      "date": "September 18, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tia-gave-up-her-love-affair-with-carbs-on-a-carnivore-diet/",
+      "title": "Tia gave up her love affair with carbs on a carnivore diet",
+      "date": "May 5, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/edward-completely-eliminated-all-medications-on-a-carnivore-diet/",
+      "title": "Edward completely eliminated all medications on a carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/oliver-trimmed-5-mins-off-10km-run-lost-13kg-carnivore-diet/",
+      "title": "Oliver trimmed 5 mins off his 10KM run, lost 13KG on a carnivore diet",
+      "date": "June 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/andy-reversed-type-2-diabetes-on-carnivore-diet/",
+      "title": "Andy reversed type 2 diabetes on a carnivore diet",
+      "date": "October 23, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nick-improved-hearing-lost-weight-carnivore-diet/",
+      "title": "Nick improved his hearing, and lost weight on a carnivore diet",
+      "date": "April 5, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jon-improved-fitness-cardiovascular-health-carnivore-diet/",
+      "title": "Jon went from pre-diabetic to ideal health on a carnivore diet",
+      "date": "January 1, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dirks-sense-of-well-being-improves-carnivore-diet/",
+      "title": "Dirk\u2019s sense of well being is the best it has ever been after changing to a Carnivore Diet",
+      "date": "November 9, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lee-improved-cardiovascular-health-angina-carnivore-diet/",
+      "title": "Lee improved cardiovascular health, fitness, angina on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/v-treated-addiction-respiratory-issues-carnivore-diet/",
+      "title": "Mr. V improved cardiovascular health, mental health, sex on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mick-improved-blood-sugar-diabetes-joint-pain-carnivore-diet/",
+      "title": "Mick improved his cardiovascular health and diabetes on a carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-improved-cardiovascular-dental-thyroid-carnivore-diet/",
+      "title": "Jim reversed blockage in carotid artery on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
+      "title": "Chris improved cardiovascular health, treated diabetes on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/shawn-treats-hyperglycemia-hypertension-gerd-carnivore-diet/",
+      "title": "Shawn treats hyperglycemia, hypertension, GERD on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/raymond-heals-diverticulitis-plantar-fasciitis-carnivore-diet/",
+      "title": "Raymond heals prediabetes, sugar addiction, diverticulitis on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/josh-treats-hypertension-diabetes-neuropathy-carnivore-diet/",
+      "title": "Josh treats foot pain, hypertension, type II diabetes on a carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jodey-improved-digestion-mood-body-composition-carnivore-diet/",
+      "title": "Jodey improved body composition on a carnivore diet",
+      "date": "November 21, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tracey-recovers-constipation-fibrocystic-breasts-carnivore-diet/",
+      "title": "Tracey recovers from allergies, fibrocystic breasts on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gabriel-treated-multiple-sclerosis-carnivore-diet/",
+      "title": "Gabriel improved MS symptoms on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bruce-fixes-migraines-psoriasis-carnivore-diet/",
+      "title": "Bruce fixes migraines, psoriasis, environmental concerns on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-resolves-pre-diabetes-hypertension-carnivore-diet/",
+      "title": "Mike resolves pre-diabetes, hypertension, energy levels on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dg-loses-weight-improves-health-carnivore-diet/",
+      "title": "D. G.loses weight and improves health on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/david-heals-allergies-hypersensitivity-sleep-carnivore-diet/",
+      "title": "David heals allergies, hypersensitivity, sleep issues on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/connor-heals-diabetes-joint-pain-immune-issues-carnivore-diet/",
+      "title": "Connor heals from diabetes, joint pain, immune issues on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/man-improves-back-injury-hypertension-energy-carnivore-diet/",
+      "title": "Man recovers faster from back surgery on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jeremiah-improved-cardiovascular-mental-health-carnivore-diet/",
+      "title": "Jeremiah improved cardiovascular and mental health on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jacob-improved-cardiovascular-health-fitness-carnivore-diet/",
+      "title": "Jacob improved cardiovascular health on carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/debbie-improved-kidney-function-mental-health-carnivore-diet/",
+      "title": "Debbie improved kidney function, mental health on carnivore diet",
+      "date": "June 12, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tro-improved-prehypertension-and-prediabetes-on-a-carnivore-diet/",
+      "title": "Tro improved prehypertension and prediabetes on a carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/shawn-manages-obesity-diabetes-nafld-carnivore-diet/",
+      "title": "Shawn W manages obesity, diabetes, NAFLD, hypertension, and depression on a carnivore diet",
+      "date": "July 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ruth-healed-from-type-2-diabetes-hypertension-and-diverticulitis-on-carnivore-diet/",
+      "title": "Ruth healed from type 2 diabetes, hypertension, and diverticulitis on carnivore diet",
+      "date": "February 23, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jon-treats-alcoholism-hypertension-anger-edema-carnivore-diet/",
+      "title": "Jon treats acne, alcoholism, hypertension, anger, edema on carnivore diet",
+      "date": "August 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rance-overcame-food-cravings-and-addictions-on-a-carnivore-diet/",
+      "title": "Rance overcame food cravings and addictions on a carnivore diet",
+      "date": "October 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ivor-improved-cholesterol-and-weight-on-a-meat-focused-diet/",
+      "title": "Ivor improved cholesterol and weight on a meat-focused diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/coach-amanda-b-heals-from-migraines-gastroparesis-ibs-gastritis-anxiety-and-sibo/",
+      "title": "Amanda B heals from migraines, gastroparesis, IBS, gastritis, anxiety, and SIBO",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachel-gets-relief-from-ehlers-danlos-syndrome-dysautonomia-pots-on-the-carnivore-diet/",
+      "title": "Rachel gets relief from Ehlers-Danlos Syndrome, Dysautonomia (POTS) on the carnivore diet",
+      "date": "November 3, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joette-improved-depression-sleep-hormones-carnivore-diet/",
+      "title": "Joette got off 24 medications on carnivore diet",
+      "date": "January 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/becky-improved-hormones-cardiovascular-health-carnivore-diet/",
+      "title": "Becky improved digestion, hormones, cardiovascular health on carnivore diet",
+      "date": "December 29, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eric-improved-cardiovascular-health-skin-carnivore-diet/",
+      "title": "Eric improved cardiovascular health on carnivore diet",
+      "date": "December 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-treated-apnea-diabetes-psoriasis-tinnitus-carnivore-diet/",
+      "title": "Mark treated apnea, diabetes, psoriasis, and tinnitus on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/anonymous-improved-digestion-body-composition-carnivore-diet/",
+      "title": "Anonymous improved digestion, sleep, body composition on carnivore diet",
+      "date": "December 15, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rowan-improved-cardiovascular-health-arthritis-carnivore-diet/",
+      "title": "Rowan improved cardiovascular health, treated arthritis on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-sleep-energy-chronic-injuries-carnivore-diet/",
+      "title": "Daniel improved sleep, energy, headaches, chronic injuries on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jack-improved-blood-sugar-cardiovascular-carnivore-diet/",
+      "title": "Jack improved diabetes on carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mary-treated-arthritis-autoimmune-issues-gout-carnivore-diet/",
+      "title": "Mary improved her autoimmune issue and diabetes on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/greg-improved-anxiety-and-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Greg improved anxiety and high blood pressure on a carnivore diet",
+      "date": "March 3, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nelson-improved-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Nelson improved high blood pressure on a carnivore diet",
+      "date": "February 22, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/william-improves-weight-and-blood-markers-on-the-carnivore-diet/",
+      "title": "William improves weight and blood markers on the carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mike-f-improved-type-1-diabetes-on-a-carnivore-diet/",
+      "title": "Mike F improved type 1 diabetes on a carnivore diet",
+      "date": "March 10, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/pierre-improved-diabetes-and-psoriasis-on-a-carnivore-diet/",
+      "title": "Pierre improved diabetes and psoriasis on a carnivore diet",
+      "date": "March 12, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
+      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "date": "March 7, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lori-improved-hypertension-and-ulcerative-colitis-on-a-carnivore-diet/",
+      "title": "Lori improved hypertension and ulcerative colitis on a carnivore diet",
+      "date": "March 3, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tracy-improved-multiple-sclerosis-testosterone-on-carnivore-diet/",
+      "title": "Tracy improved multiple sclerosis & testosterone on carnivore diet",
+      "date": "March 6, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mark-improved-blood-pressure-fasting-meat-centric-keto-lifestyle/",
+      "title": "Mark improved respiration with a fasting keto-carnivore diet",
+      "date": "May 11, 2020"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+    "text": "High blood pressure is a common condition that affects the body's arteries. It's also called hypertension. If you have high blood pressure, the force of the blood pushing against the artery walls is consistently too high. The heart has to work harder to pump blood."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

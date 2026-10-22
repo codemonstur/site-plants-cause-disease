@@ -1,0 +1,32 @@
+{
+  "visible": true,
+  "name": "Colon Polyps",
+  "uri": "colon_polyps",
+  "carnivoreDietSearchQueries": [
+    "Colon Polyps"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/why-all-the-fuss-over-fiber/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-improved-digestion-body-composition-carnivore-diet/",
+      "title": "Patrick improved digestion, mood, energy, body composition on carnivore diet",
+      "date": "November 13, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/phil-improves-crohns-disease-digestion-carnivore-diet/",
+      "title": "Phil improves Crohn\u2019s disease, autoimmune conditions on carnivore diet",
+      "date": "October 31, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/colon-polyps/symptoms-causes/syc-20352875",
+    "text": "A colon polyp is a small clump of cells that forms on the lining of the colon. Most colon polyps are harmless. But over time, some colon polyps can develop into colon cancer. Colon cancer can be fatal when found in its later stages."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

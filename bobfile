@@ -1,0 +1,17 @@
+include ../Build/bob-webapp
+
+version: 23
+release: 20
+dependencies:
+  - repository: com.google.code.gson:gson:2.10.1
+  - repository: de.neuland-bfi:jade4j:1.3.2
+
+translate
+    # Do nothing
+
+deploy
+    run-task build
+    java -cp target/
+    run-task -i run-app
+    rm -rf deploy/*
+    cp -r target/site deploy

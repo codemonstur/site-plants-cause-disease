@@ -1,0 +1,31 @@
+{
+  "visible": true,
+  "name": "Bartonellosis",
+  "uri": "bartonellosis",
+  "carnivoreDietSearchQueries": [
+    "Bartonella",
+    "Bartonellosis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cassi-overcame-ankylosing-spondylitis-bartonella-and-lyme-disease-on-a-carnivore-diet/",
+      "title": "Cassi overcame ankylosing spondylitis, Bartonella, and Lyme disease on a carnivore diet",
+      "date": "June 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chandler-reversed-non-alcoholic-fatty-liver-gi-issues-and-inflammation-on-carnivore-diet/",
+      "title": "Chandler reversed non-alcoholic fatty liver, GI issues, and inflammation on carnivore diet",
+      "date": "March 22, 2021"
+    }
+  ],
+  "definition": {
+    "source": "https://en.wikipedia.org/wiki/Bartonellosis",
+    "text": "Bartonellosis is an infectious disease produced by bacteria of the genus Bartonella. Bartonella species cause diseases such as Carri\u00f3n's disease, trench fever, cat-scratch disease, bacillary angiomatosis, peliosis hepatis, chronic bacteremia, endocarditis, chronic lymphadenopathy, and neurological disorders."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

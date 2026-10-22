@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Goiter",
+  "uri": "goiter",
+  "carnivoreDietSearchQueries": [
+    "Goiter"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tristan-jessica-improved-anxiety-and-mood-on-a-carnivore-diet/",
+      "title": "Tristan & Jessica improved anxiety and mood on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-improved-cardiovascular-dental-thyroid-carnivore-diet/",
+      "title": "Jim reversed blockage in carotid artery on a carnivore diet",
+      "date": "October 10, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/goiter/symptoms-causes/syc-20351829",
+    "text": "A goiter (GOI-tur) is the irregular growth of the thyroid gland. The thyroid is a butterfly-shaped gland located at the base of the neck just below the Adam's apple."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

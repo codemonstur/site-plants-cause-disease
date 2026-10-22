@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Exhaustion",
+  "uri": "exhaustion",
+  "see": {
+    "uri": "fatigue",
+    "name": "Fatigue"
+  }
+}

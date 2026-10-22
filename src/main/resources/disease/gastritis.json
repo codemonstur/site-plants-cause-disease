@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Gastritis",
+  "uri": "gastritis",
+  "carnivoreDietSearchQueries": [
+    "Gastritis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/coach-amanda-b-heals-from-migraines-gastroparesis-ibs-gastritis-anxiety-and-sibo/",
+      "title": "Amanda B heals from migraines, gastroparesis, IBS, gastritis, anxiety, and SIBO",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dannys-heart-is-doing-well-on-a-carnivore-diet/",
+      "title": "Danny S\u2019 heart is doing well on a carnivore diet",
+      "date": "October 9, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/gastritis/symptoms-causes/syc-20355807",
+    "text": "Gastritis is a general term for a group of conditions with one thing in common: Inflammation of the lining of the stomach. The inflammation of gastritis is most often the result of infection with the same bacterium that causes most stomach ulcers or the regular use of certain pain relievers. Drinking too much alcohol also can contribute to gastritis."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

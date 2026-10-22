@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Dyspepsia",
+  "uri": "dyspepsia",
+  "see": {
+    "uri": "indigestion",
+    "name": "Indigestion"
+  }
+}

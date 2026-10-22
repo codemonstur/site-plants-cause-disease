@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Diverticulitis",
+  "uri": "diverticulitis",
+  "see": {
+    "uri": "diverticulosis",
+    "name": "Diverticulosis"
+  }
+}

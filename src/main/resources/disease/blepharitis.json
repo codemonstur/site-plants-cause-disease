@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Blepharitis",
+  "uri": "blepharitis",
+  "carnivoreDietSearchQueries": [
+    "Blepharitis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tony-resolved-blepharitis-on-a-carnivore-diet/",
+      "title": "Tony resolved his issue with Blepharitis on a carnivore lifestyle",
+      "date": "May 5, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/blepharitis/symptoms-causes/syc-20370141",
+    "text": "Blepharitis (blef-uh-RYE-tis) is inflammation of the eyelids. Blepharitis usually affects both eyes along the edges of the eyelids.\n\nBlepharitis commonly occurs when tiny oil glands near the base of the eyelashes become clogged, causing irritation and redness. Several diseases and conditions can cause blepharitis."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

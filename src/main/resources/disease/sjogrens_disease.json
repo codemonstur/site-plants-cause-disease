@@ -1,0 +1,36 @@
+{
+  "visible": true,
+  "name": "Sjogren's Disease",
+  "uri": "sjogrens_disease",
+  "carnivoreDietSearchQueries": [
+    "Sjogren's Disease"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
+      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "date": "January 31, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mike-b-improved-rheumatoid-arthritis-on-a-carnivore-diet/",
+      "title": "Mike B improved rheumatoid arthritis on a carnivore diet",
+      "date": "March 12, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
+      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "date": "March 7, 2025"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

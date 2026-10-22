@@ -1,0 +1,119 @@
+{
+  "visible": true,
+  "name": "Stroke",
+  "uri": "stroke",
+  "carnivoreDietSearchQueries": [
+    "Stroke"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/better-life-carnivore-diet/",
+    "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/coach-program/tips-and-resources/",
+    "https://carnivore.diet/todd-overcame-gout-depression-and-anxiety-on-a-carnivore-diet/",
+    "https://carnivore.diet/ron-got-rid-of-skin-tags-snoring-back-pain-diverticulosis-toenail-fungus-anxiety/",
+    "https://carnivore.diet/troy-lowered-blood-pressure-cleared-up-eczema-carnivore-diet/",
+    "https://carnivore.diet/roger-got-control-of-weight-and-mental-health-on-a-carnivore-diet/",
+    "https://carnivore.diet/odaine-improved-mood-back-pain-inflammation-carnivore-diet/",
+    "https://carnivore.diet/maria-heals-allergies-joint-pain-migraines-carnivore-diet/",
+    "https://carnivore.diet/christopher-improved-nervous-system-sex-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-stroke-survivor-improves-health-on-carnivore-diet/",
+      "title": "Jim, stroke survivor, improves health on carnivore diet",
+      "date": "April 3, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dave-improves-stroke-symptoms-on-carnivore-diet/",
+      "title": "Dave improves stroke symptoms on carnivore diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stroke-survivor-lowers-blood-pressure-carnivore-diet/",
+      "title": "Two-Time Stroke Survivor Matt Lowers Blood Pressure On A Carnivore Diet",
+      "date": "June 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-lost-weight-improved-energy-and-blood-pressure-and-reduced-medications-on-a-carnivore-diet/",
+      "title": "Jim lost weight, improved energy and blood pressure, and reduced medications on a carnivore diet",
+      "date": "July 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
+      "title": "Ramona and Doug improved digestion and metabolic markers on the carnivore diet",
+      "date": "April 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/coach-amanda-b-heals-from-migraines-gastroparesis-ibs-gastritis-anxiety-and-sibo/",
+      "title": "Amanda B heals from migraines, gastroparesis, IBS, gastritis, anxiety, and SIBO",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lasse-no-longer-has-migraines-carnivore-diet/",
+      "title": "Lasse No Longer Has Migraines On The Carnivore Diet",
+      "date": "September 12, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessyca-overcame-a-life-long-eating-disorder-on-a-carnivore-diet/",
+      "title": "Jessyca overcame a life long eating disorder on a carnivore diet",
+      "date": "December 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ren-healing-chronic-pain-migraines-depression-carnivore-diet/",
+      "title": "Ren is healing from chronic pain, migraines, depression a carnivore diet",
+      "date": "September 5, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/valerie-lost-fat-fasting-carnivore-lifestyle/",
+      "title": "Valerie lost fat on a fasting carnivore lifestyle",
+      "date": "May 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/justin-improved-anxiety-mood-carnivore-diet/",
+      "title": "Justin healed skin rashes on a carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patricia-improved-digestion-mood-mental-health-carnivore-diet/",
+      "title": "Patricia improved arthritis and joint pain on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jacob-improved-cardiovascular-health-fitness-carnivore-diet/",
+      "title": "Jacob improved cardiovascular health on carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/debbie-improved-kidney-function-mental-health-carnivore-diet/",
+      "title": "Debbie improved kidney function, mental health on carnivore diet",
+      "date": "June 12, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/art-improved-ataxia-and-sleep-on-a-carnivore-diet/",
+      "title": "Art improved ataxia and sleep on a carnivore diet",
+      "date": "March 12, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113",
+    "text": "An ischemic stroke occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

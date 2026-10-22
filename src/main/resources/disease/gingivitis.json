@@ -1,0 +1,54 @@
+{
+  "visible": true,
+  "name": "Gingivitis",
+  "uri": "gingivitis",
+  "carnivoreDietSearchQueries": [
+    "Gingivitis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/vajid-improved-endurance-and-weight-loss-on-the-carnivore-diet/",
+      "title": "Vajid improved endurance and weight loss on the carnivore diet",
+      "date": "September 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathan-recovers-from-guillain-barre-syndrome-on-the-carnivore-diet/",
+      "title": "Nathan recovers from Guillain-Barre Syndrome on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joels-arthritis-spine-issues-and-chronic-tendinitis-in-full-remission-on-carnivore-diet/",
+      "title": "Joel\u2019s arthritis, spine issues and chronic tendinitis in full remission on carnivore diet",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joao-heals-gut-reverses-insulin-resistance-and-manages-food-addiction-on-carnivore-diet/",
+      "title": "Jo\u00e3o heals gut, reverses insulin resistance, and manages food addiction on Carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/callan-improved-skin-energy-muscle-tone-carnivore-diet/",
+      "title": "Callan improved energy, dental health and muscle tone on carnivore diet",
+      "date": "January 20, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-mental-health-joint-back-pain-carnivore-diet/",
+      "title": "Daniel improved digestion, mental health, joint, back pain on carnivore diet",
+      "date": "February 6, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/gingivitis/symptoms-causes/syc-20354453",
+    "text": "Gingivitis is a common and mild form of gum disease (periodontal disease) that causes irritation, redness and swelling (inflammation) of your gingiva, the part of your gum around the base of your teeth. It's important to take gingivitis seriously and treat it promptly. Gingivitis can lead to much more serious gum disease called periodontitis and tooth loss."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

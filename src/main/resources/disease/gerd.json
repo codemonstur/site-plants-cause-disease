@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "GERD",
+  "uri": "gerd",
+  "see": {
+    "uri": "gastroesophageal_reflux_disease",
+    "name": "Gastroesophageal Reflux Disease"
+  }
+}

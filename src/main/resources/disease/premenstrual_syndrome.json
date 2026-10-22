@@ -1,0 +1,135 @@
+{
+  "visible": true,
+  "name": "Premenstrual Syndrome",
+  "uri": "premenstrual_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Premenstrual Syndrome",
+    "PMS"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/robert-improved-ulcerative-colitis-on-the-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sabine-improved-reproductive-health-autoimmune-carnivore-diet/",
+      "title": "Sabine improved her mental and reproductive health on a carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mim-improved-reproductive-urinary-health-carnivore-diet/",
+      "title": "Mim improved her eczema on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/veerle-healed-from-pms-mood-swings-depression-and-suicidal-thoughts-on-a-carnivore-diet/",
+      "title": "Veerle healed from PMS, mood swings, depression, and suicidal thoughts on a carnivore diet",
+      "date": "February 23, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/crystal-improved-pms-sleep-carnivore-diet/",
+      "title": "Crystal improved PMS and sleep on a carnivore diet",
+      "date": "December 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marina-heals-pms-fatigue-rosacea-carnivore-diet/",
+      "title": "Marina heals from pms on a carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessalyn-improved-acne-constipation-mood-swings-carnivore-diet/",
+      "title": "Jessalyn improved acne, constipation, weight gain, and mood swings on a carnivore diet",
+      "date": "December 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sharon-healed-from-psoriasis-chronic-pain-on-carnivore-diet/",
+      "title": "Sharon H put psoriasis and chronic pain into remission and regrew hair on a carnivore diet",
+      "date": "October 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/zoe-gets-optimal-body-composition-and-heals-hormonal-imbalances-on-a-carnivore-lifestyle/",
+      "title": "Zoe gets optimal body composition and heals hormonal imbalances on a carnivore lifestyle",
+      "date": "March 3, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/getting-started-on-the-carnivore-diet-tips-by-coach-kiki-f/",
+      "title": "Getting Started On The Carnivore Diet Tips By Coach Kiki F",
+      "date": "February 1, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cara-better-energy-mood-skin-digestion-carnivore-diet/",
+      "title": "Cara discovers better energy, mood, skin and digestion on a carnivore diet",
+      "date": "November 27, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
+      "title": "Olivia improved hair, skin, thyroid, Hashimoto\u2019s, PCOS on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/anastacia-healed-bulimia-carnivore-diet/",
+      "title": "Anastacia healed bulimia on a carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/pamela-improved-digestion-reproductive-health-carnivore-diet/",
+      "title": "Pamela improved her digestion, mood, reproductive health on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kristen-improved-reproductive-health-fatigue-carnivore-diet/",
+      "title": "Kristen improved overall health on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amy-improved-adrenal-mental-reproductive-health-carnivore-diet/",
+      "title": "Amy improved adrenal health, fitness, mood, mental health on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/corina-overcomes-veganism-health-issues-carnivore-diet/",
+      "title": "Corina overcomes veganism and many health issues on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-loses-weight-resolves-pre-diabetes-carnivore-diet/",
+      "title": "Sara loses weight, resolves pre-diabetes on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/melissa-improved-mental-health-inflammation-carnivore-diet/",
+      "title": "Melissa improved energy levels, mental health, inflammation on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/corina-eliminates-depression-anxiety-carnivore-diet/",
+      "title": "Corina eliminates depression and anxiety on carnivore diet",
+      "date": "October 29, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/premenstrual-syndrome/symptoms-causes/syc-20376780",
+    "text": "Premenstrual syndrome (PMS) has a wide variety of signs and symptoms, including mood swings, tender breasts, food cravings, fatigue, irritability and depression. It's estimated that as many as 3 of every 4 menstruating women have experienced some form of premenstrual syndrome."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

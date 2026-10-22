@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Hypercarotenemia",
+  "uri": "hypercarotenemia",
+  "see": {
+    "uri": "carotenosis",
+    "name": "Carotenosis"
+  }
+}

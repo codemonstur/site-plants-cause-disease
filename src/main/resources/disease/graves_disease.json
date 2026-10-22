@@ -1,0 +1,68 @@
+{
+  "visible": true,
+  "name": "Graves' Disease",
+  "uri": "graves_disease",
+  "carnivoreDietSearchQueries": [
+    "Graves"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/coach-program/create-your-coaching-product/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/donna-manages-graves-disease-and-osteporosis-on-a-carnivore-diet/",
+      "title": "Donna manages Graves\u2019 disease and osteporosis on a carnivore diet",
+      "date": "July 13, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/darby-manages-graves-disease-and-type-1-diabetes-on-low-carb-diet/",
+      "title": "Darby manages graves\u2019 disease and type 1 diabetes on low-carb diet",
+      "date": "November 26, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-manages-type-1-diabetes-on-a-low-carb-diet/",
+      "title": "Sara manages type 1 diabetes on a low-carb diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/andrea-off-medication-for-graves-disease-on-carnivore-diet/",
+      "title": "Andrea no longer has symptoms of Grave\u2019s disease on a carnivore diet",
+      "date": "November 6, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gabby-lost-weight-healed-digestion-anxiety-carnivore-diet/",
+      "title": "Gabby improved hormonal imbalances on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/alison-improved-inflammation-and-metabolic-health-on-a-carnivore-diet/",
+      "title": "Alison improved inflammation and metabolic health on a carnivore diet",
+      "date": "February 6, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/graves-disease/symptoms-causes/syc-20356240",
+    "text": "Graves' disease is an immune system condition that affects the thyroid gland. It causes the body to make too much thyroid hormone. That condition is called hyperthyroidism."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

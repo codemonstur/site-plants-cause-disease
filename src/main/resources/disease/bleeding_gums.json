@@ -1,0 +1,87 @@
+{
+  "visible": true,
+  "name": "Bleeding Gums",
+  "uri": "bleeding_gums",
+  "carnivoreDietSearchQueries": [
+    "Bleeding Gums"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/wont-an-all-meat-diet-give-me-scurvy/",
+    "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/irina-overcame-candida-infection-vitamin-d-deficiency-and-vasculitis-on-a-carnivore-diet/",
+      "title": "Irina overcame candida infection, vitamin D deficiency, and vasculitis on a carnivore diet",
+      "date": "January 19, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
+      "title": "Janice solved her digestive problems and anxiety on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/emma-improved-eating-disorder-pain-carnivore-diet/",
+      "title": "Emma improved her eating disorder and pain on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-mental-health-joint-back-pain-carnivore-diet/",
+      "title": "Daniel improved digestion, mental health, joint, back pain on carnivore diet",
+      "date": "February 6, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/man-improves-sleep-quality-energy-strength-carnivore-diet/",
+      "title": "Man improves energy levels tremendously on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-loses-weight-resolves-pre-diabetes-carnivore-diet/",
+      "title": "Sara loses weight, resolves pre-diabetes on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/vajid-improved-endurance-and-weight-loss-on-the-carnivore-diet/",
+      "title": "Vajid improved endurance and weight loss on the carnivore diet",
+      "date": "September 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/james-recovers-from-veganism-on-the-carnivore-diet/",
+      "title": "James recovers from veganism on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rays-scale-no-longer-dies-beneath-him/",
+      "title": "Ray\u2019s Scale No Longer Dies Beneath Him",
+      "date": "June 21, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
+      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "date": "February 6, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mark-improved-mental-health-sex-lyme-disease-carnivore-diet/",
+      "title": "Mark treated Lyme disease on a carnivore diet",
+      "date": "November 1, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/symptoms/24908-bleeding-gums",
+    "text": "Buildup of dental plaque causes bleeding gums, a common symptom of gingivitis, periodontitis and other forms of gums disease. But bleeding from your gums can also indicate other issues like teeth grinding, diabetes, hormone fluctuations and vitamin deficiencies."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

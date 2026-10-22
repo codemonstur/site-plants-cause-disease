@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Periodontal Disease",
+  "uri": "periodontal_disease",
+  "see": {
+    "uri": "periodontitis",
+    "name": "Periodontitis"
+  }
+}

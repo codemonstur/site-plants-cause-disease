@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Acanthosis Nigricans",
+  "uri": "acanthosis_nigricans",
+  "carnivoreDietSearchQueries": [
+    "Acanthosis Nigricans"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-improved-diabetes-anxiety-depression-carnivore-diet/",
+      "title": "Sarah improved diabetes, anxiety and depression on carnivore diet",
+      "date": "November 20, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/acanthosis-nigricans/symptoms-causes/syc-20368983",
+    "text": "Acanthosis nigricans is a condition that causes areas of dark, thick velvety skin in body folds and creases. It typically affects the armpits, groin and neck. Acanthosis nigricans (ak-an-THOE-sis NIE-grih-kuns) tends to affect people with obesity. Rarely, the skin condition can be a sign of cancer in an internal organ, such as the stomach or liver."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

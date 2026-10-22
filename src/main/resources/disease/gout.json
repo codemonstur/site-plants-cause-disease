@@ -1,0 +1,172 @@
+{
+  "visible": true,
+  "name": "Gout",
+  "uri": "gout",
+  "carnivoreDietSearchQueries": [
+    "Gout"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/carnivore-diet-tips/",
+    "https://carnivore.diet/health-benefits/",
+    "https://carnivore.diet/guides/carnivore-guide/21-gout/",
+    "https://carnivore.diet/truth-about-kidney-health-and-gout/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/carnivore-diet-guides/",
+    "https://carnivore.diet/fasting/",
+    "https://carnivore.diet/guides/carnivore-guide/8-oxalates/",
+    "https://carnivore.diet/coach-program/coaches-knowledge-share/",
+    "https://carnivore.diet/guides/carnivore-guide/",
+    "https://carnivore.diet/carnivore-diet-tips-by-coach-tracy-k/",
+    "https://carnivore.diet/carnivore-coach-training/carnivore-training-courses/module-9/",
+    "https://carnivore.diet/frank-turned-to-carnivore-diet-heal-from-veganism/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/todd-overcame-gout-depression-and-anxiety-on-a-carnivore-diet/",
+      "title": "Todd overcame gout, depression, and anxiety on a carnivore diet",
+      "date": "October 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/scott-improved-sleep-gout-gerd-energy-libido-blood-pressure-and-weight-on-the-carnivore-diet/",
+      "title": "Scott improved sleep, gout, GERD, energy, libido, blood pressure, and weight on the carnivore diet",
+      "date": "June 27, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/greg-manages-gout-on-a-carnivore-diet/",
+      "title": "Greg is off blood pressure meds and has improved gout on the carnivore diet",
+      "date": "April 24, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gene-sees-improvements-in-gout-depression-adhd-anxiety-and-recovery-from-exercise/",
+      "title": "Gene sees improvements in gout, depression, ADHD, anxiety, and recovery from exercise",
+      "date": "November 4, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-s-healed-gout-and-increased-his-energy-and-mental-freedom-on-a-carnivore-lifestyle/",
+      "title": "Mike S healed gout and increased his energy and mental freedom on a carnivore lifestyle",
+      "date": "February 17, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-eliminated-gout-high-blood-pressure-on-carnivore-diet/",
+      "title": "John eliminated gout symptoms and high blood pressure on a carnivore diet",
+      "date": "November 11, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-gout-symptoms-on-carnivore-diet/",
+      "title": "Daniel improved his gout symptoms on a carnivore diet",
+      "date": "October 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erik-treats-asthma-obesity-focus-issues-gout-carnivore-diet/",
+      "title": "Erik treats asthma, obesity, focus issues, and gout on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/roseanne-treats-bloating-gout-emotional-eating-carnivore-diet/",
+      "title": "Roseanne treats depression, bloating, gout, inflammation on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erik-treats-asthma-obesity-focus-issues-gout-carnivore-diet-2/",
+      "title": "Erik treats asthma, obesity, focus issues, and gout on a carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/shawn-manages-obesity-diabetes-nafld-carnivore-diet/",
+      "title": "Shawn W manages obesity, diabetes, NAFLD, hypertension, and depression on a carnivore diet",
+      "date": "July 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rick-overcame-high-blood-pressure-cancer-and-poor-metabolic-health-on-a-carnivore-diet/",
+      "title": "Rick overcame high blood pressure and poor metabolic health on a carnivore diet",
+      "date": "May 23, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
+      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bruno-improved-blood-sugar-triglycerides-joint-pain-stiffness-on-a-carnivore-diet/",
+      "title": "Bruno improved blood sugar, triglycerides, joint pain, stiffness on a carnivore diet",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bryan-lost-200-pounds-on-a-carnivore-lifestyle/",
+      "title": "Bryan lost 200 pounds on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-improved-joint-pain-hypertension-carnivore-diet/",
+      "title": "Mark improved joint pain, hypertension and gained muscle on carnivore diet",
+      "date": "February 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marion-improved-back-pain-digestion-energy-carnivore-diet/",
+      "title": "Marion improved arthritis on carnivore diet",
+      "date": "February 4, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-treats-diverticulitis-gout-depression-carnivore-diet/",
+      "title": "Chris treats diverticulitis, sleep apnea, kidney stones on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-mental-health-joint-back-pain-carnivore-diet/",
+      "title": "Daniel improved digestion, mental health, joint, back pain on carnivore diet",
+      "date": "February 6, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matt-improved-diabetes-carnivore-diet/",
+      "title": "Matt improved diabetes on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/peter-improved-blood-pressure-type-2-diabetes-carnivore-diet/",
+      "title": "Peter improved blood pressure, Type-2 diabetes, Crohn\u2019s on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mary-treated-arthritis-autoimmune-issues-gout-carnivore-diet/",
+      "title": "Mary improved her autoimmune issue and diabetes on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
+      "title": "Chris improved cardiovascular health, treated diabetes on carnivore diet",
+      "date": "October 5, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/gout/symptoms-causes/syc-20372897",
+    "text": "Gout is a common and complex form of arthritis that can affect anyone. It's characterized by sudden, severe attacks of pain, swelling, redness and tenderness in one or more joints, most often in the big toe."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

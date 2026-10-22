@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Nausea",
+  "uri": "nausea",
+  "see": {
+    "uri": "vomiting",
+    "name": "Vomiting"
+  }
+}

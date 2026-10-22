@@ -1,0 +1,34 @@
+{
+  "visible": true,
+  "name": "Scurvy",
+  "uri": "scurvy",
+  "carnivoreDietSearchQueries": [
+    "Scurvy"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/wont-an-all-meat-diet-give-me-scurvy/",
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
+    "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
+    "https://carnivore.diet/stephanie-eliminated-inflammation-pain-weight-on-a-carnivore-lifestyle/",
+    "https://carnivore.diet/crystal-improved-pms-sleep-carnivore-diet/",
+    "https://carnivore.diet/kristen-improved-reproductive-health-fatigue-carnivore-diet/",
+    "https://carnivore.diet/tom-improved-digestion-pain-respiratory-issues-carnivore-diet/",
+    "https://carnivore.diet/keto-endurance-improves-fitness-joint-pain-carnivore-diet/",
+    "https://carnivore.diet/udo-improved-dental-health-mood-mental-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lycan-got-scurvy-eating-fruit-healed-carnivore-diet/",
+      "title": "Carly got scurvy from eating fruit and healed it on a carnivore diet",
+      "date": "November 21, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/24318-scurvy",
+    "text": "Scurvy is a disease caused by a serious vitamin C deficiency. Not eating enough fruits and vegetables is the main cause of the disease. Left untreated, scurvy can lead to bleeding gums, loosened teeth and bleeding under your skin. Treatment for the condition includes getting plenty of vitamin C in your diet. Dietary supplements are also available."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

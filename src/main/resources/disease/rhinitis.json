@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Rhinitis",
+  "uri": "rhinitis",
+  "carnivoreDietSearchQueries": [
+    "Rhinitis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/martin-lost-anxiety-paranoia-fatigue-rhinitis-carnivore-diet/",
+      "title": "Martin lost anxiety, paranoia, fatigue, rhinitis on carnivore diet",
+      "date": "October 31, 2018"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,60 @@
+{
+  "visible": true,
+  "name": "Gastroparesis",
+  "uri": "gastroparesis",
+  "carnivoreDietSearchQueries": [
+    "Gastroparesis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/coach-amanda-b-heals-from-migraines-gastroparesis-ibs-gastritis-anxiety-and-sibo/",
+      "title": "Amanda B heals from migraines, gastroparesis, IBS, gastritis, anxiety, and SIBO",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alex-manages-type-1-diabetes-and-its-complications-on-a-carnivore-diet/",
+      "title": "Alex manages type 1 diabetes, retinopathy, and gastroparesis on a carnivore diet",
+      "date": "November 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/maria-healed-eating-disorder-gastroparesis-osteoporosis-and-arthritis-on-carnivore-diet/",
+      "title": "Maria healed eating disorder, gastroparesis, osteoporosis, and arthritis on carnivore diet",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/angela-improves-mast-cell-activation-syndrome-and-lyme-disease-on-a-carnivore-diet/",
+      "title": "Angela improves mast cell activation syndrome and Lyme disease on a carnivore diet",
+      "date": "July 10, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachel-gets-relief-from-ehlers-danlos-syndrome-dysautonomia-pots-on-the-carnivore-diet/",
+      "title": "Rachel gets relief from Ehlers-Danlos Syndrome, Dysautonomia (POTS) on the carnivore diet",
+      "date": "November 3, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rebekah-improved-sleep-energy-autoimmune-issues-carnivore-diet/",
+      "title": "Rebekah improved autoimmune issues, sleep, gained muscle on carnivore diet",
+      "date": "February 8, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/renee-improved-chronic-inflammatory-demyelinating-polyneuropathy-on-a-carnivore-diet/",
+      "title": "Renee improved chronic inflammatory demyelinating polyneuropathy on a carnivore diet",
+      "date": "March 19, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/gastroparesis/symptoms-causes/syc-20355787",
+    "text": "Gastroparesis is a condition that affects the normal spontaneous movement of the muscles (motility) in your stomach. Ordinarily, strong muscular contractions propel food through your digestive tract. But if you have gastroparesis, your stomach's motility is slowed down or doesn't work at all, preventing your stomach from emptying properly."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

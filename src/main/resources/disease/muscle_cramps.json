@@ -1,0 +1,155 @@
+{
+  "visible": true,
+  "name": "Muscle Cramps",
+  "uri": "muscle_cramps",
+  "carnivoreDietSearchQueries": [
+    "Muscle Cramps"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/carnivore-diet-tips/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/bronson-improved-weight-and-digestion-on-the-carnivore-diet/",
+    "https://carnivore.diet/kristen-improved-reproductive-health-fatigue-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matt-improved-muscle-recovery-and-inflammation-on-a-carnivore-diet/",
+      "title": "Matt improved muscle recovery and inflammation on a carnivore diet",
+      "date": "August 29, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marcel-manages-psoriatic-arthritis-on-the-carnivore-diet/",
+      "title": "Marcel manages psoriatic arthritis on the carnivore diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jean-lowered-ths-hashimoto-carnivore-way-of-eating/",
+      "title": "Jean lowered TSH which shows Hashimoto is on the mend on from a carnivore way of eating",
+      "date": "February 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/will-transformed-is-life-with-the-carnivore-lifestyle/",
+      "title": "Will transformed is life with the carnivore lifestyle",
+      "date": "March 27, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bechelli-improves-arthritis-carnivore-diet/",
+      "title": "Bechelli improves arthritis on a carnivore diet",
+      "date": "February 25, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathan-improves-back-pain-joint-pain-sleep-carnivore-diet/",
+      "title": "Nathan improves back pain, joint pain, and sleep on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improves-digestion-fitness-mental-health-carnivore-diet/",
+      "title": "Chris improves digestion, fitness, mood, mental health on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
+      "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/victor-improved-energy-mental-health-carnivore-diet/",
+      "title": "Victor increased energy, improved mental health on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-improved-digestion-fitness-mental-health-carnivore-diet/",
+      "title": "Adam improved digestion, fitness, mood, mental health on carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
+      "title": "Ramona and Doug improved digestion and metabolic markers on the carnivore diet",
+      "date": "April 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessalyn-improved-acne-constipation-mood-swings-carnivore-diet/",
+      "title": "Jessalyn improved acne, constipation, weight gain, and mood swings on a carnivore diet",
+      "date": "December 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cameron-resolved-ibs-insomnia-anxiety-carnivore-lifestyle/",
+      "title": "Cameron resolved his IBS, insomnia, and anxiety on a carnivore lifestyle",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/getting-started-carnivore-transition-period-by-coach-elizabeth-b/",
+      "title": "Getting started & carnivore transition period by coach Elizabeth B",
+      "date": "December 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matthew-recovered-health-vegan-diet-carnivore/",
+      "title": "Matthew recovered his health from a vegan diet by going carnivore",
+      "date": "March 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joe-improved-digestion-fitness-weight-gain-carnivore-diet/",
+      "title": "Joe improved his digestion (SIBO) on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephanie-improved-reproductive-health-skin-carnivore-diet/",
+      "title": "Stephanie improved fitness and mental health on a carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lester-improved-fitness-pain-body-composition-carnivore-diet/",
+      "title": "Lester improved his fitness, pain, and body composition on a carnivore diet",
+      "date": "December 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/madison-improved-digestion-heavy-periods-carnivore-diet/",
+      "title": "Madison eliminated all symptoms of heavy periods on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
+      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/filip-improved-digestion-mood-mental-health-carnivore-diet/",
+      "title": "Filip improved his knee pain and 29 more health issues on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alex-m-improves-fitness-and-marathons-on-a-carnivore-diet/",
+      "title": "Alex M improves fitness and marathons on a carnivore diet",
+      "date": "February 6, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/muscle-cramp/symptoms-causes/syc-20350820",
+    "text": "Muscle cramps occur mostly in leg muscles, most often in the calf. Cramps usually last for seconds to minutes. After the cramp eases, the area might be sore for hours or days."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

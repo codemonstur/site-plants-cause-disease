@@ -1,0 +1,59 @@
+{
+  "visible": true,
+  "name": "NAFLD (Non-alcoholic Fatty Liver Disease)",
+  "uri": "nafld",
+  "carnivoreDietSearchQueries": [
+    "Non-alcoholic Fatty Liver Disease",
+    "NAFLD"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/getting-hung-up-on-health-markers/",
+    "https://carnivore.diet/coach-program/create-your-coaching-product/",
+    "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eric-healed-non-alcoholic-fatty-liver-disease-migraines-arthritis-on-carnivore-lifestyle/",
+      "title": "Eric healed non-alcoholic fatty liver disease, migraines, arthritis on carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chandler-reversed-non-alcoholic-fatty-liver-gi-issues-and-inflammation-on-carnivore-diet/",
+      "title": "Chandler reversed non-alcoholic fatty liver, GI issues, and inflammation on carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cobus-improved-liver-weight-loss-nafld-carnivore-diet/",
+      "title": "Cobus improved liver and weight loss, and treated NAFLD on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gregory-overcame-weight-lymphedema-high-blood-pressure-prediabetes-on-a-carnivore-diet/",
+      "title": "Gregory overcame weight, lymphedema, high blood pressure, prediabetes on a carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/shawn-manages-obesity-diabetes-nafld-carnivore-diet/",
+      "title": "Shawn W manages obesity, diabetes, NAFLD, hypertension, and depression on a carnivore diet",
+      "date": "July 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chana-heals-from-nafld-skin-issues-digestive-issues-and-pre-diabetes-on-a-carnivore-diet/",
+      "title": "Chana heals from NAFLD, skin issues, digestive issues, and pre-diabetes on a carnivore diet",
+      "date": "January 10, 2023"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/nonalcoholic-fatty-liver-disease/symptoms-causes/syc-20354567",
+    "text": "Nonalcoholic fatty liver disease, often called NAFLD, is a liver problem that affects people who drink little to no alcohol. In NAFLD, too much fat builds up in the liver. It is seen most often in people who are overweight or obese."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

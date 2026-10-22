@@ -1,0 +1,62 @@
+{
+  "visible": true,
+  "name": "Dental Cavities",
+  "uri": "dental_cavities",
+  "carnivoreDietSearchQueries": [
+    "Cavities"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/savarrah-healed-from-anxiety-depression-pmdd-utis-and-cavities-on-a-carnivore-diet/",
+      "title": "Savarrah healed from Anxiety/depression, pmdd, uti\u2019s, and cavities on a carnivore diet",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-dental-health-on-the-carnivore-diet/",
+      "title": "Chris improved dental health on the carnivore diet",
+      "date": "September 14, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chandler-reversed-non-alcoholic-fatty-liver-gi-issues-and-inflammation-on-carnivore-diet/",
+      "title": "Chandler reversed non-alcoholic fatty liver, GI issues, and inflammation on carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/katya-raw-vegan-improved-digestion-bladder-kidney-carnivore/",
+      "title": "Katya improved digestion, bladder and kidney pain on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
+      "title": "Phillip improved digestion, mood, mental health, and skin on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steve-improved-sleep-arthritis-gerd-sciatica-carnivore-diet/",
+      "title": "Steve improved dental health, digestion, mental health on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-improved-mental-health-sex-lyme-disease-carnivore-diet/",
+      "title": "Mark treated Lyme disease on a carnivore diet",
+      "date": "November 1, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/10946-cavities",
+    "text": "Cavities are holes, or areas of tooth decay, that form in your teeth surfaces. Causes include plaque buildup, eating lots of sugary snacks and poor oral hygiene. Treatments include dental fillings, root canal therapy and tooth extraction. The sooner you treat a cavity, the better your chance for a predictable outcome and optimal oral health."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

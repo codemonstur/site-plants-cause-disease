@@ -1,0 +1,20 @@
+{
+  "visible": true,
+  "name": "Rectal Prolapse",
+  "uri": "rectal_prolapse",
+  "carnivoreDietSearchQueries": [
+    "Prolapse"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/jl-healed-prolapsed-pelvic-floor-digestion-carnivore-diet/",
+    "https://carnivore.diet/melissa-improved-pcos-endometriosis-carnivore-diet/"
+  ],
+  "anecdotes": [],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/rectal-prolapse/symptoms-causes/syc-20352837",
+    "text": "Rectal prolapse happens when part of the large intestine's lowest section, the rectum, slips outside the muscular opening at the end of the digestive tract known as the anus. While rectal prolapse may cause pain, it's rarely a medical emergency."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

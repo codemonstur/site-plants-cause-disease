@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Pyelonephritis",
+  "uri": "pyelonephritis",
+  "carnivoreDietSearchQueries": [
+    "Pyelonephritis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/volodymir-eliminated-acid-reflux-ibs-pyelonephritis-and-alzheimers-on-carnivore-diet/",
+      "title": "Volodymir eliminated acid reflux, IBS, pyelonephritis, and Alzheimer\u2019s on carnivore diet",
+      "date": "March 30, 2021"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/15456-kidney-infection-pyelonephritis",
+    "text": "A kidney infection (pyelonephritis) is a type of urinary tract infection (UTI). Bacteria cause it when they move from another part of your body, like your bladder, up to one or both of your kidneys. Kidney infections can be more serious than lower UTIs. See a healthcare provider if you have symptoms of a kidney infection."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

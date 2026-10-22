@@ -1,0 +1,72 @@
+{
+  "visible": true,
+  "name": "Kidney Failure",
+  "uri": "kidney_failure",
+  "carnivoreDietSearchQueries": [
+    "Kidney Failure",
+    "Renal Failure"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/meat-the-ultimate-superfood/",
+    "https://carnivore.diet/dave-reversed-inflammatory-mental-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amy-manages-chronic-kidney-disease-and-sugar-addiction-on-a-carnivore-diet/",
+      "title": "Amy manages chronic kidney disease and sugar addiction on a carnivore diet",
+      "date": "August 15, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/suzanne-manages-type-1-diabetes-on-a-carnivore-diet/",
+      "title": "Suzanne manages type 1 diabetes on a carnivore diet",
+      "date": "April 25, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ira-improved-membranous-nephropathy-on-a-carnivore-diet/",
+      "title": "Ira improved membranous nephropathy on a carnivore diet",
+      "date": "December 5, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kaitlyn-is-off-all-12-medications-and-lives-symptom-free-productive-life-on-carnivore-diet/",
+      "title": "Kaitlyn is off all 12 medications and lives symptom-free productive life on carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/larry-improved-heart-failure-pancreas-carnivore-diet/",
+      "title": "Larry reversed diabetes on carnivore diet",
+      "date": "December 2, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lycan-got-scurvy-eating-fruit-healed-carnivore-diet/",
+      "title": "Carly got scurvy from eating fruit and healed it on a carnivore diet",
+      "date": "November 21, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-improved-digestion-immune-urinary-system-carnivore-diet/",
+      "title": "Mark improved his arthritis and autoimmune issues on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/stephanie-m-improved-lupus-and-blood-sugar-on-a-carnivore-diet/",
+      "title": "Stephanie M improved lupus and blood sugar on a carnivore diet",
+      "date": "March 27, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/17689-kidney-failure",
+    "text": "Kidney failure is a condition in which one or both of your kidneys no longer work on their own. Causes include diabetes, high blood pressure and acute kidney injuries. Symptoms include fatigue, nausea and vomiting, swelling, changes in how often you go to the bathroom and brain fog. Treatment includes dialysis or a kidney transplant."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

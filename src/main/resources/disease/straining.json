@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Straining",
+  "uri": "straining",
+  "see": {
+    "uri": "obstructed_defecation_syndrome",
+    "name": "Obstructed Defecation Syndrome"
+  }
+}

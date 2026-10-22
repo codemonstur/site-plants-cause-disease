@@ -1,0 +1,27 @@
+{
+  "visible": true,
+  "name": "Chronic Inflammatory Response Syndrome",
+  "uri": "chronic_inflammatory_response_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Chronic Inflammatory Response Syndrome"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
+    "https://carnivore.diet/jason-improves-lymes-disease-chronic-fatigue-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/helen-manages-chronic-inflammatory-response-syndrome-cirs-hereditary-spherocytosis-on-carnivore-diet/",
+      "title": "Helen manages chronic inflammatory response syndrome (CIRS), hereditary spherocytosis on carnivore diet",
+      "date": "July 26, 2023"
+    }
+  ],
+  "definition": {
+    "source": "https://www.medicinenet.com/chronic_inflammatory_response_syndrome_cirs/article.htm",
+    "text": "Chronic inflammatory response syndrome is a multisystem and multi-symptom illness that occurs when a person gets exposed to toxins such as mold spores or biotoxins found in tick or spider bites. These toxins get attached to the immune system to trigger an inflammatory response and induce hormonal changes. The immune system produces an excess of cytokines that can lead to the immune system attacking its tissues, causing inflammation and other associated symptoms."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,18 @@
+{
+  "visible": true,
+  "name": "Ureteral Obstruction",
+  "uri": "ureteral_obstruction",
+  "carnivoreDietSearchQueries": [
+    "Ureteral Obstruction",
+    "Urinary Obstruction"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/ureteral-obstruction/symptoms-causes/syc-20354676",
+    "text": "A ureteral obstruction is a blockage in one or both of the tubes (ureters) that carry urine from the kidneys to the bladder. Ureteral obstruction can be cured. However, if it's not treated, symptoms can quickly move from mild \u2014 pain, fever and infection \u2014 to severe \u2014 loss of kidney function, sepsis and death."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

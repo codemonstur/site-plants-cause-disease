@@ -1,0 +1,76 @@
+{
+  "visible": true,
+  "name": "Body Odor",
+  "uri": "body_odor",
+  "carnivoreDietSearchQueries": [
+    "Body Odor",
+    "deodorant"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/truth-about-kidney-health-and-gout/",
+    "https://carnivore.diet/meaty-facts-about-cholesterol/",
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/chris-b-improved-irritable-bowel-syndrome-on-a-carnivore-diet/",
+    "https://carnivore.diet/jason-improved-irritable-bowel-syndrome-on-a-carnivore-diet/",
+    "https://carnivore.diet/alison-improved-inflammation-and-metabolic-health-on-a-carnivore-diet/",
+    "https://carnivore.diet/neah-improves-psoriasis-and-irritable-bowel-syndrome-on-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/emily-j-manages-type-1-diabetes-ibs-strength-pain-and-acne-on-a-carnivore-diet/",
+      "title": "Emily J manages type 1 diabetes, IBS, strength, pain, and acne on a carnivore diet",
+      "date": "July 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/martin-improves-ankylosing-spondylitis-psoriasis-carnivore-diet/",
+      "title": "Martin improves ankylosing spondylitis and psoriasis on the carnivore diet",
+      "date": "January 11, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessalyn-improved-acne-constipation-mood-swings-carnivore-diet/",
+      "title": "Jessalyn improved acne, constipation, weight gain, and mood swings on a carnivore diet",
+      "date": "December 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
+      "title": "Janice solved her digestive problems and anxiety on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
+      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "date": "February 6, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/carmen-improved-digestion-heavy-periods-carnivore-diet/",
+      "title": "Carmen improved her digestion and heavy periods on a carnivore diet",
+      "date": "November 22, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tom-improved-digestion-pain-respiratory-issues-carnivore-diet/",
+      "title": "Tom improved cardiovascular health, digestion, fitness on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/margaret-heals-digestion-mood-sleep-fatigue-carnivore-diet/",
+      "title": "Margaret heals digestion, mood, sleep, and fatigue on a carnivore diet",
+      "date": "October 4, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/symptoms/17865-body-odor",
+    "text": "Body odor is caused by a mix of bacteria and sweat on your skin. Your body odor can change due to hormones, the food you eat, infection, medications or underlying conditions like diabetes. Prescription-strength antiperspirants or medications may help."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

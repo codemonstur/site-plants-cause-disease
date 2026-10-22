@@ -1,0 +1,156 @@
+{
+  "visible": true,
+  "name": "Seizures",
+  "uri": "seizures",
+  "carnivoreDietSearchQueries": [
+    "Seizures"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sean-manages-joint-pain-and-seizures-on-a-carnivore-diet/",
+      "title": "Sean manages joint pain and seizures on a carnivore diet",
+      "date": "October 13, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jason-improved-digestion-and-seizures-on-the-carnivore-diet/",
+      "title": "Jason improved digestion and seizures on the carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/leigh-has-eliminated-her-seizures-gained-energy-and-now-lifts-on-a-ketovore-lifestyle/",
+      "title": "Leigh has eliminated her seizures, gained energy and now lifts on a ketovore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tammy-reversed-arthritis-simple-seizures-pcos-on-a-carnivore-lifestyle/",
+      "title": "Tammy reversed arthritis, simple seizures, PCOS on a Carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/devin-improved-nerve-pain-hormonal-balance-and-eliminated-seizures-on-a-carnivore-diet/",
+      "title": "Devin improved nerve pain, hormonal balance, and eliminated seizures on a carnivore diet",
+      "date": "February 17, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robin-heals-epilepsy-seizures-joint-pain-carnivore-diet/",
+      "title": "Robin heals from epilepsy, seizures, and joint pain on a carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachel-gets-relief-from-ehlers-danlos-syndrome-dysautonomia-pots-on-the-carnivore-diet/",
+      "title": "Rachel gets relief from Ehlers-Danlos Syndrome, Dysautonomia (POTS) on the carnivore diet",
+      "date": "November 3, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/allie-manages-her-sons-non-verbal-autism/",
+      "title": "Allie Manages Her Son\u2019s Non-Verbal Autism",
+      "date": "August 17, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/troy-lowered-blood-pressure-cleared-up-eczema-carnivore-diet/",
+      "title": "Troy lowered his blood pressure, cleared up eczema on a carnivore diet",
+      "date": "July 1, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/seb-helps-people-overcome-depression-and-dependency-issues-fitness-on-a-carnivore-diet/",
+      "title": "Seb helps people overcome depression and dependency issues fitness on a Carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mirella-hasnt-has-a-grand-mal-absence-seizure-after-a-carnivore-diet/",
+      "title": "Mirella hasn\u2019t had a grand mal or absence seizure since staring a carnivore diet",
+      "date": "October 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steve-improved-depression-anxiety-vision-carnivore-diet/",
+      "title": "Steve improved his depression and has not had a seizure on a carnivore diet",
+      "date": "June 18, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/raenn-improves-arthritis-multiple-sclerosis-carnivore-diet/",
+      "title": "Raenn improves arthritis, multiple sclerosis, and PCOS on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/carmen-improved-digestion-heavy-periods-carnivore-diet/",
+      "title": "Carmen improved her digestion and heavy periods on a carnivore diet",
+      "date": "November 22, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/anonymous-chronic-inflammation-digestive-issues-carnivore-diet/",
+      "title": "Anonymous improved aches, pains, chronic inflammation on carnivore diet",
+      "date": "November 19, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tracey-recovers-constipation-fibrocystic-breasts-carnivore-diet/",
+      "title": "Tracey recovers from allergies, fibrocystic breasts on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/catherine-autoimmune-multiple-sclerosis-carnivore-diet/",
+      "title": "Catherine improved digestion, immune system, mental health on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/andrew-improved-epilepsy-carnivore-diet/",
+      "title": "Andrew improved his epilepsy on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/man-improves-back-injury-hypertension-energy-carnivore-diet/",
+      "title": "Man recovers faster from back surgery on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michelle-improved-skin-autoimmune-issues-carnivore-diet/",
+      "title": "Michelle improved her autoimmune issue and joint pain on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mike-f-improved-type-1-diabetes-on-a-carnivore-diet/",
+      "title": "Mike F improved type 1 diabetes on a carnivore diet",
+      "date": "March 10, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/seizure/symptoms-causes/syc-20365711",
+    "text": "A seizure is a sudden burst of electrical activity in the brain. It can cause changes in behavior, movements, feelings and levels of consciousness. Epilepsy is defined as having two or more seizures at least 24 hours apart that don't have a known cause. But epilepsy doesn't cause all seizures.\n\nThere are many types of seizures. They have a range of symptoms and vary in how much they affect your daily life. Seizure types also vary by where they begin in the brain and how far they spread. Most seizures last from 30 seconds to two minutes. A seizure that lasts longer than five minutes is a medical emergency."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

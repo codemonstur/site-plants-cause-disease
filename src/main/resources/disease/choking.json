@@ -1,0 +1,54 @@
+{
+  "visible": true,
+  "name": "Choking",
+  "uri": "choking",
+  "carnivoreDietSearchQueries": [
+    "Choking"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jason-improves-cancer-and-chemotherapy-experiences-on-a-carnivore-diet/",
+      "title": "Jason improves cancer and chemotherapy experiences on a carnivore diet",
+      "date": "May 21, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amanda-loses-weight-on-the-carnivore-diet/",
+      "title": "Amanda loses weight on the carnivore diet",
+      "date": "March 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/brett-reversed-gerd-no-longer-suffers-from-joint-and-neck-pain-on-a-carnivore-lifestyle/",
+      "title": "Brett reversed GERD, no longer suffers from joint and neck pain on a carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/liz-healed-from-depression-digestion-joint-issues-and-sugar-addiction-on-carnivore-diet/",
+      "title": "Liz healed from depression, digestion, joint issues, and sugar addiction on carnivore diet",
+      "date": "February 17, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/v-treated-addiction-respiratory-issues-carnivore-diet/",
+      "title": "Mr. V improved cardiovascular health, mental health, sex on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/raenn-improves-arthritis-multiple-sclerosis-carnivore-diet/",
+      "title": "Raenn improves arthritis, multiple sclerosis, and PCOS on a carnivore diet",
+      "date": "October 31, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/choking-first-aid",
+    "text": "When food or some other foreign object becomes stuck in the airway it can cause choking. Choking prevents oxygen from getting to the lungs and the brain. Lack of oxygen to the brain for more than 4 minutes may cause brain damage or death."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

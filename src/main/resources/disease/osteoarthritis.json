@@ -1,0 +1,68 @@
+{
+  "visible": true,
+  "name": "Osteoarthritis",
+  "uri": "osteoarthritis",
+  "carnivoreDietSearchQueries": [
+    "Osteoarthritis"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/cure-chronic-conditions-with-bacon-and-a-steak/"
+  ],
+  "anecdotes": [
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/matthew-reversed-glaucoma-digestive-disorders-and-osteoarthritis-on-carnivore-lifestyle/",
+      "title": "Matthew reversed Glaucoma, digestive disorders, and osteoarthritis on carnivore lifestyle",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/dawn-osteoarthritis-menopause-symptoms-carnivore-diet/",
+      "title": "Dawn reversed her osteoarthritis and menopause symptoms on a carnivore diet",
+      "date": "June 22, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/adam-improves-vitiligo-brain-fog-and-tbi-on-a-carnivore-diet/",
+      "title": "Adam improves vitiligo, brain fog, and TBI on a carnivore diet",
+      "date": "December 4, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/paola-healed-chronic-constipation-bloating-and-hormonal-acne-on-a-carnivore-lifestyle/",
+      "title": "Paola healed chronic constipation, bloating, and hormonal acne on a Carnivore lifestyle",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/trudy-lost-weight-came-off-medications-carnivore-diet/",
+      "title": "Trudy lost weight, and came off medications on a carnivore diet",
+      "date": "March 9, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/doug-improved-psoriasis-sciatica-fatigue-carnivore-diet/",
+      "title": "Doug improved adrenal health, psoriasis, sciatica on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/elisabeth-improved-dental-health-digestion-carnivore-diet/",
+      "title": "Elisabeth improved dental health, digestion, fitness, mood on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/richard-treated-arthritis-joint-pain-fatigue-carnivore-diet/",
+      "title": "Richard improved his arthritis and joint pain on a carnivore diet",
+      "date": "October 5, 2018"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

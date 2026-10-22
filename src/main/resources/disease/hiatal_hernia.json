@@ -1,0 +1,135 @@
+{
+  "visible": true,
+  "name": "Hiatal Hernia",
+  "uri": "hiatal_hernia",
+  "carnivoreDietSearchQueries": [
+    "Hernia"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/heath-improved-tendinitis-dandruff-hemorrhoids-carnivore-diet/",
+    "https://carnivore.diet/stephen-lost-weight-got-off-opioids-on-a-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/demetrios-healed-from-obesity-high-blood-pressure-carnivore-diet/",
+      "title": "Demetrios healed from obesity, high blood pressure, and joint pain on the carnivore diet",
+      "date": "June 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jean-lowered-ths-hashimoto-carnivore-way-of-eating/",
+      "title": "Jean lowered TSH which shows Hashimoto is on the mend on from a carnivore way of eating",
+      "date": "February 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathan-improved-depression-skin-acid-reflux-carnivore-diet/",
+      "title": "Nathan improved severe depression, sleep, acid reflux on a carnivore diet",
+      "date": "June 26, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eric-improved-cardiovascular-health-skin-carnivore-diet/",
+      "title": "Eric improved cardiovascular health on carnivore diet",
+      "date": "December 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nevada-improved-nervous-skeletal-urinary-system-carnivore-diet/",
+      "title": "Nevada improved her cauda equina syndrome on a carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improves-digestion-fitness-mental-health-carnivore-diet/",
+      "title": "Chris improves digestion, fitness, mood, mental health on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nevada-heals-pcos-prediabetes-eczema-carnivore-diet/",
+      "title": "Nevada heals PCOS, cauda equina syndrome, prediabetes on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-arthritis-tendinitis-carnivore-diet/",
+      "title": "Chris improved arthritis, tendinitis, and lost weight on carnivore diet",
+      "date": "March 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steve-improved-sleep-arthritis-gerd-sciatica-carnivore-diet/",
+      "title": "Steve improved dental health, digestion, mental health on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nancy-treated-asthma-hashimotos-sciatica-carnivore-diet/",
+      "title": "Nancy improved digestion, skeletal health, skin on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/edgar-improved-speech-carnivore-diet/",
+      "title": "Edgar improved speech on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-improved-digestion-mental-health-sex-carnivore-diet/",
+      "title": "Michael treated his back pain on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-resolves-pre-diabetes-hypertension-carnivore-diet/",
+      "title": "Mike resolves pre-diabetes, hypertension, energy levels on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/man-improves-back-injury-hypertension-energy-carnivore-diet/",
+      "title": "Man recovers faster from back surgery on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improved-sleep-energy-chronic-injuries-carnivore-diet/",
+      "title": "Daniel improved sleep, energy, headaches, chronic injuries on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/doris-improved-digestion-weight-diverticulitis-carnivore-diet/",
+      "title": "Doris improved her digestion, and diverticulitis on a carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-improved-fitness-mental-health-carnivore-diet/",
+      "title": "Patrick improved his arthritis and back pain on a carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/william-improved-digestion-mood-mental-health-carnivore-diet/",
+      "title": "William improved his digestion and mental health on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/chris-improved-arthritis-tendinitis-and-lost-weight-on-carnivore-diet/",
+      "title": "Chris Improved Arthritis and Tendinitis On a Carnivore Diet",
+      "date": "January 1, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/hiatal-hernia/symptoms-causes/syc-20373379",
+    "text": "A hiatal hernia occurs when the upper part of your stomach bulges through the large muscle separating your abdomen and chest (diaphragm). Your diaphragm has a small opening (hiatus) through which your food tube (esophagus) passes before connecting to your stomach. In a hiatal hernia, the stomach pushes up through that opening and into your chest."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,39 @@
+{
+  "visible": true,
+  "name": "Wasting",
+  "uri": "wasting",
+  "carnivoreDietSearchQueries": [
+    "Wasting",
+    "muscle wasting"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/meat-and-the-environment/",
+    "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/",
+    "https://carnivore.diet/robert-anxiety-free-switching-carnivore-diet-lost-weight/",
+    "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
+    "https://carnivore.diet/ashley-improves-fitness-mood-skin-weight-loss-carnivore-diet/",
+    "https://carnivore.diet/ethan-improved-digestion-mental-health-carnivore-diet/",
+    "https://carnivore.diet/patrick-heals-diabetes-ulcerative-colitis-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lee-improved-cardiovascular-health-angina-carnivore-diet/",
+      "title": "Lee improved cardiovascular health, fitness, angina on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/ahmad-improved-energy-anxiety-and-depression-on-a-carnivore-diet/",
+      "title": "Ahmad improved energy, anxiety, and depression on a carnivore diet",
+      "date": "February 6, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.unicef.org/nutrition/child-wasting",
+    "text": "Wasting is the most immediate, visible and life-threatening form of malnutrition. It results from the failure to prevent malnutrition among the most vulnerable children. Children with wasting are too thin and their immune systems are weak, leaving them vulnerable to developmental delays, disease and death. Some children affected by wasting also suffer from nutritional oedema, characterized by a swollen face, feet and limbs."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

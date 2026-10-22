@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Head ache",
+  "uri": "head_ache",
+  "see": {
+    "uri": "migraine",
+    "name": "Migraine"
+  }
+}

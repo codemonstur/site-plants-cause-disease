@@ -1,0 +1,16 @@
+{
+  "visible": true,
+  "name": "Gastrointestinal Perforation",
+  "uri": "gastrointestinal_perforation",
+  "carnivoreDietSearchQueries": [
+    "Gastrointestinal Perforation"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

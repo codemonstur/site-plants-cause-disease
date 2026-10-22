@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Impotence",
+  "uri": "impotence",
+  "see": {
+    "uri": "erectile_dysfunction",
+    "name": "Erectile Dysfunction"
+  }
+}

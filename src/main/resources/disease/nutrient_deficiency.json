@@ -1,0 +1,117 @@
+{
+  "visible": true,
+  "name": "Nutrient Deficiency",
+  "uri": "nutrient_deficiency",
+  "carnivoreDietSearchQueries": [
+    "Nutrient Deficiency",
+    "nutritional deficiency",
+    "nutrient deficiencies"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/how-to-lose-weight-with-a-carnivore-diet/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/no-gallbladder-no-problem/",
+    "https://carnivore.diet/meat-the-ultimate-superfood/",
+    "https://carnivore.diet/digging-up-the-real-data-on-minerals/",
+    "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/anonymous-improved-anemia-digestive-problems-carnivore-diet/",
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
+    "https://carnivore.diet/a-beginners-introduction-to-the-carnivore-diet/",
+    "https://carnivore.diet/5-reasons-carnivore-diet-can-aid-in-drug-and-alcohol-recovery/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erin-ditched-plants-eliminated-eczema/",
+      "title": "Erin ditched the plants and eliminated her eczema",
+      "date": "October 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tim-and-family-improve-health-carnivore-diet/",
+      "title": "Tim and his family improve their health on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steph-improves-mood-mental-health-carnivore-diet/",
+      "title": "Steph improves mood, mental health, weight loss on carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/william-improved-fatigue-brain-fog-acne-carnivore-diet/",
+      "title": "William improved fatigue, brain fog and acne on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/brian-improved-energy-muscles-and-mood-on-the-carnivore-diet/",
+      "title": "Brian improved energy, muscles, and mood on the carnivore diet",
+      "date": "September 8, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jonathan-improves-inflammation-and-anxiety-on-carnivore-diet/",
+      "title": "Jonathan improves inflammation and anxiety on carnivore diet",
+      "date": "August 24, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/matt-improved-neurological-issues-speech-bloating-vision-and-fatigue-on-the-carnivore-diet/",
+      "title": "Matt improved neurological issues, speech, bloating, vision, and fatigue on the carnivore diet",
+      "date": "June 27, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/leigh-ann-overcame-ptsd-insulin-resistance-and-an-eating-disorder-on-a-carnivore-diet/",
+      "title": "Leigh Ann overcame PTSD, insulin resistance, and an eating disorder on a carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tracey-recovers-constipation-fibrocystic-breasts-carnivore-diet/",
+      "title": "Tracey recovers from allergies, fibrocystic breasts on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/krissy-digestion-chronic-pain-mood-anxiety-carnivore-diet/",
+      "title": "Krissy eliminated chronic pain on carnivore diet",
+      "date": "March 28, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/danny-improved-liver-health-sleep-apnea-carnivore-diet/",
+      "title": "Danny improved digestion, liver health and sleep apnea on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/flexofighter-fluoroquinolone-toxicity-symptoms-carnivore-diet/",
+      "title": "Flexofighter improved Fluoroquinolone Toxicity Symptoms on carnivore diet",
+      "date": "October 30, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9710417/",
+    "text": "Nutrition is the source of energy that is required to carry out all the processes of human body. A balanced diet is a combination of both macro- and micronutrients. \u201cNutritional inadequacy\u201d involves an intake of nutrients that is lower than the estimated average requirement, whereas \u201cnutritional deficiency\u201d consists of severely reduced levels of one or more nutrients, making the body unable to normally perform its functions and thus leading to an increased risk of several diseases like cancer, diabetes, and heart disease."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

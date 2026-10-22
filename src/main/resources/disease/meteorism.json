@@ -1,0 +1,17 @@
+{
+  "visible": true,
+  "name": "Meteorism",
+  "uri": "meteorism",
+  "carnivoreDietSearchQueries": [
+    "Meteorism",
+    "tympanites"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "https://pubmed.ncbi.nlm.nih.gov/28613601/",
+    "text": "Meteorism is also known as tympanites. The primary feature of meteorism is an accumulation of gas in the gastrointestinal (GI) tract which causes a sensation of bloating and abdominal distension."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

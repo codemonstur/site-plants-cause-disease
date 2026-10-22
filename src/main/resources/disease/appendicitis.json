@@ -1,0 +1,21 @@
+{
+  "visible": true,
+  "name": "Appendicitis",
+  "uri": "appendicitis",
+  "carnivoreDietSearchQueries": [
+    "Appendicitis"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/patrick-improved-digestion-body-composition-carnivore-diet/",
+    "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
+    "https://carnivore.diet/doris-improved-digestion-weight-diverticulitis-carnivore-diet/"
+  ],
+  "anecdotes": [],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543",
+    "text": "Appendicitis is an inflammation of the appendix. The appendix is a finger-shaped pouch that sticks out from the colon on the lower right side of the belly, also called the abdomen. Appendicitis causes pain in the lower right abdomen. However, in most people, pain begins around the belly button and then moves. As inflammation worsens, appendicitis pain typically increases and eventually becomes serious."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

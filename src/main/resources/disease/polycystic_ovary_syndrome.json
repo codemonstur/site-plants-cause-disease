@@ -1,0 +1,190 @@
+{
+  "visible": true,
+  "name": "Polycystic Ovary Syndrome",
+  "uri": "polycystic_ovary_syndrome",
+  "carnivoreDietSearchQueries": [
+    "Polycystic Ovary Syndrome",
+    "PCOS"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/amber-improved-hirsutism-carnivore-diet/",
+    "https://carnivore.diet/how-to-lose-weight-with-a-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jill-manages-weight-pcos-and-hashimotos-on-a-carnivore-diet/",
+      "title": "Jill manages weight, PCOS, and Hashimoto\u2019s on a carnivore diet",
+      "date": "July 13, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/vicki-healed-from-menstrual-dysfunction-mood-depression/",
+      "title": "Vicki W healed from menstrual dysfunction, mood swings, depression, and anxiety",
+      "date": "November 30, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/maria-manages-pcos-ibs-and-lyme-on-a-carnivore-diet/",
+      "title": "Maria manages PCOS, IBS, and Lyme on a carnivore diet",
+      "date": "August 22, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tammy-reversed-arthritis-simple-seizures-pcos-on-a-carnivore-lifestyle/",
+      "title": "Tammy reversed arthritis, simple seizures, PCOS on a Carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/sarah-healed-from-pcos-adrenal-fatigue-depression-ibs-and-eczema-on-a-carnivore-diet/",
+      "title": "Sarah healed from PCOS, adrenal fatigue, depression, IBS, and eczema on a Carnivore diet",
+      "date": "February 20, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/melissa-improved-pcos-endometriosis-carnivore-diet/",
+      "title": "Melissa improved chronic fatigue, PCOS and endometriosis on carnivore diet",
+      "date": "January 2, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/ekaterina-ex-vegan-improved-hormonal-health-carnivore-diet/",
+      "title": "Ekaterina improved digestion, hormonal health and PCOS on carnivore diet",
+      "date": "December 18, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
+      "title": "Olivia improved hair, skin, thyroid, Hashimoto\u2019s, PCOS on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/raenn-improves-arthritis-multiple-sclerosis-carnivore-diet/",
+      "title": "Raenn improves arthritis, multiple sclerosis, and PCOS on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/leyla-improved-reproductive-health-pcos-carnivore-diet/",
+      "title": "Leyla improved reproductive health and treated PCOS on carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nevada-heals-pcos-prediabetes-eczema-carnivore-diet/",
+      "title": "Nevada heals PCOS, cauda equina syndrome, prediabetes on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/erika-improved-dental-health-pcos-psoriasis-carnivore-diet/",
+      "title": "Erika improved reproductive health, skin, PCOS, psoriasis on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tracy-improved-multiple-sclerosis-testosterone-on-carnivore-diet/",
+      "title": "Tracy improved multiple sclerosis & testosterone on carnivore diet",
+      "date": "March 6, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/craig-e-manages-pain-and-lyme-disease-on-a-carnivore-diet/",
+      "title": "Craig E manages pain and Lyme disease on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/amanda-loses-weight-on-the-carnivore-diet/",
+      "title": "Amanda loses weight on the carnivore diet",
+      "date": "March 28, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/kassandra-reverses-a-lifetime-of-obesity/",
+      "title": "Kassandra reverses a lifetime of obesity",
+      "date": "August 2, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/leigh-has-eliminated-her-seizures-gained-energy-and-now-lifts-on-a-ketovore-lifestyle/",
+      "title": "Leigh has eliminated her seizures, gained energy and now lifts on a ketovore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/debbie-reversed-t2d-high-blood-pressure-migraines-psoriasis-on-carnivore-lifestyle/",
+      "title": "Debbie reversed T2D, high blood pressure, migraines, psoriasis on Carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/isabel-resolved-migraines-digestive-issues-and-irregular-periods-on-a-carnivore-diet/",
+      "title": "Isabel resolved migraines, digestive issues and irregular periods on a carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/katie-started-the-carnivore-diet-for-weight-loss-and-is-the-healthiest-she-has-ever-been/",
+      "title": "Katie started the carnivore diet for weight loss and is the healthiest she has ever been",
+      "date": "February 16, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
+      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "date": "January 31, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/katherines-lupus-flares-have-subsided-on-carnivore-diet/",
+      "title": "Katherine\u2019s lupus flares have subsided since starting the carnivore diet",
+      "date": "November 19, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/caroline-resolved-endometriosis-on-a-carnivore-diet/",
+      "title": "Caroline resolved her endometriosis on a carnivore diet",
+      "date": "October 23, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/coach-program/create-your-coaching-product/",
+      "title": "Create your coaching product",
+      "date": "March 7, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jenni-lost-weight-improved-eczema-carnivore-diet/",
+      "title": "Jenni healed from eczema on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nevada-improved-nervous-skeletal-urinary-system-carnivore-diet/",
+      "title": "Nevada improved her cauda equina syndrome on a carnivore diet",
+      "date": "October 11, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439",
+    "text": "Polycystic ovary syndrome (PCOS) is a problem with hormones that happens during the reproductive years. If you have PCOS, you may not have periods very often. Or you may have periods that last many days. You may also have too much of a hormone called androgen in your body.\n\nWith PCOS, many small sacs of fluid develop along the outer edge of the ovary. These are called cysts. The small fluid-filled cysts contain immature eggs. These are called follicles. The follicles fail to regularly release eggs."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

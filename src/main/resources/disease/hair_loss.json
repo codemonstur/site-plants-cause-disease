@@ -1,0 +1,253 @@
+{
+  "visible": true,
+  "name": "Hair Loss",
+  "uri": "hair_loss",
+  "carnivoreDietSearchQueries": [
+    "Hair Loss"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/carnivore-diet-side-effects/",
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/better-life-carnivore-diet/",
+    "https://carnivore.diet/coach-program/coaches-knowledge-share/"
+  ],
+  "anecdotes": [
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rachel-treats-anxiety-arthritis-psoriasis-carnivore-diet/",
+      "title": "Rachel treats digestive issues, anxiety, hair loss on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/ventilator-survivor-improves-digestion-acid-reflux-a1c-and-weight-loss-on-carnivore-diet/",
+      "title": "Ventilator survivor improves digestion, acid reflux, A1C, and weight loss on carnivore diet",
+      "date": "February 27, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/bns-improved-digestion-mouth-ulcers-hair-colds-carnivore-diet/",
+      "title": "BNS improved digestion, mouth ulcers, and hair on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/adam-improved-hair-nails-skin-joint-pain-carnivore-diet/",
+      "title": "Adam improved fitness, hair, mood, mental health, nails on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/darryl-improved-hair-sex-skin-weight-loss-carnivore-diet/",
+      "title": "Darryl improved hair, sex, skin, treated back pain on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tracy-manages-weight-cancer-treatment-on-keto/",
+      "title": "Tracy manages her weight and cancer treatment on keto and carnivore",
+      "date": "October 27, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lycia-and-family-heal-on-carnivore-lifestyle/",
+      "title": "Lycia and Family Heal On Carnivore Lifestyle",
+      "date": "September 22, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/sara-j-healed-boils-sarcopenia-and-dysphoric-pre-menstrual-disorder-on-a-carnivore-diet/",
+      "title": "Sara J healed boils, sarcopenia, and dysphoric pr\u00e9-menstrual disorder on a carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jurriaan-improved-mood-sleep-energy-pain-carnivore-diet/",
+      "title": "Jurriaan fixed his depression on a carnivore diet",
+      "date": "February 26, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/asra-improves-digestion-joint-pain-mood-carnivore-diet/",
+      "title": "Asra improves her digestion, joint pain, and mood on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lori-improved-strength-lost-weight-carnivore-diet/",
+      "title": "Lori lost weight and gained strength on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/amber-improved-hirsutism-carnivore-diet/",
+      "title": "Amber improved hirsutism with a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/hilary-improved-inflammation-chronic-back-pain-carnivore-diet/",
+      "title": "Hilary improved inflammation, healed chronic back pain on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nelson-improved-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Nelson improved high blood pressure on a carnivore diet",
+      "date": "February 22, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/alysha-improved-digestion-and-depression-on-the-carnivore-diet/",
+      "title": "Alysha improved digestion and depression on the carnivore diet",
+      "date": "September 14, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/sarah-improved-weight-and-ovarian-cysts-on-a-carnivore-diet/",
+      "title": "Sarah improved weight and ovarian cysts on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rachels-autistic-daughter-improves-speech-and-communication-on-the-carnivore-diet/",
+      "title": "Rachel\u2019s autistic daughter improves speech and communication on the carnivore diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/james-recovers-from-veganism-on-the-carnivore-diet/",
+      "title": "James recovers from veganism on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nathan-recovers-from-guillain-barre-syndrome-on-the-carnivore-diet/",
+      "title": "Nathan recovers from Guillain-Barre Syndrome on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/claire-overcame-anorexia-nervosa-and-depression-on-a-low-carb-diet/",
+      "title": "Claire overcame anorexia nervosa and depression on a low-carb diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nanci-heals-osteopenia-carnivore-diet/",
+      "title": "Nanci heals from osteopenia on the carnivore diet",
+      "date": "July 20, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/donna-healed-from-adrenal-insufficiency/",
+      "title": "Donna G Healed from Adrenal Insufficiency",
+      "date": "May 5, 2022"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/carla-heals-hashimotos-and-is-off-all-thyroid-meds-on-a-carnivore-lifestyle/",
+      "title": "Carla heals Hashimoto\u2019s and is off all thyroid meds on a Carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
+      "title": "Janice solved her digestive problems and anxiety on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/crystal-improved-pms-sleep-carnivore-diet/",
+      "title": "Crystal improved PMS and sleep on a carnivore diet",
+      "date": "December 19, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/allison-lost-100-pounds-cleared-eczema-on-a-carnivore-diet/",
+      "title": "Allison lost 100 pounds and cleared eczema on a carnivore diet",
+      "date": "December 12, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jeff-is-in-control-of-sugar-cravings-on-carnivore-diet/",
+      "title": "Jeff is now in control of his sugar cravings on a Carnivore diet",
+      "date": "November 7, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/holly-healed-her-plantar-fasciitis-on-a-carnivore-diet/",
+      "title": "Holly healed her Plantar Fasciitis on a carnivore diet",
+      "date": "November 5, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/sara-complex-regional-pain-syndrome-anxiety-carnivore-diet/",
+      "title": "Sara gets relief from Complex Regional Pain Syndrome on carnivore diet",
+      "date": "August 7, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/trudy-improved-sleep-fitness-pain-weight-carnivore-fasting/",
+      "title": "Trudy improved sleep, fitness, and pain on a carnivore fasting lifestyle",
+      "date": "May 31, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nick-improved-hearing-lost-weight-carnivore-diet/",
+      "title": "Nick improved his hearing, and lost weight on a carnivore diet",
+      "date": "April 5, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/brittney-improved-mood-joint-back-pain-carnivore-diet/",
+      "title": "Brittney improved her mood, join and back pain on carnivore diet",
+      "date": "January 2, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jon-improved-fitness-cardiovascular-health-carnivore-diet/",
+      "title": "Jon went from pre-diabetic to ideal health on a carnivore diet",
+      "date": "January 1, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/terese-improved-sleep-mood-digestion-asthma-carnivore-diet/",
+      "title": "Terese increased her energy on a carnivore diet",
+      "date": "November 3, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
+      "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/steve-improved-sleep-arthritis-gerd-sciatica-carnivore-diet/",
+      "title": "Steve improved dental health, digestion, mental health on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jodelle-regained-period-lost-anxiety-carnivore-diet/",
+      "title": "Jodelle improved hypothyroidism on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/anonymous-improved-anemia-digestive-problems-carnivore-diet/",
+      "title": "Anonymous improved anemia and digestive problems on a carnivore diet",
+      "date": "October 30, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/hair-loss/symptoms-causes/syc-20372926",
+    "text": "Hair loss (alopecia) can affect just your scalp or your entire body, and it can be temporary or permanent. It can be the result of heredity, hormonal changes, medical conditions or a normal part of aging. Anyone can lose hair on their head, but it's more common in men.\n\nBaldness typically refers to excessive hair loss from your scalp. Hereditary hair loss with age is the most common cause of baldness. Some people prefer to let their hair loss run its course untreated and unhidden. Others may cover it up with hairstyles, makeup, hats or scarves. And still others choose one of the treatments available to prevent further hair loss or restore growth."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

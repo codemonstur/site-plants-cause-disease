@@ -1,0 +1,145 @@
+{
+  "visible": true,
+  "name": "Periodontitis",
+  "uri": "periodontitis",
+  "carnivoreDietSearchQueries": [
+    "Periodontal Disease",
+    "Periodontitis",
+    "gum disease"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/",
+    "https://carnivore.diet/cure-chronic-conditions-with-bacon-and-a-steak/",
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/anonymous-improved-anemia-digestive-problems-carnivore-diet/",
+      "title": "Anonymous improved anemia and digestive problems on a carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/mark-improved-mental-health-sex-lyme-disease-carnivore-diet/",
+      "title": "Mark treated Lyme disease on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tammy-heals-from-arthritis-and-depression-on-a-carnivore-diet/",
+      "title": "Tammy heals from arthritis and depression on a carnivore diet",
+      "date": "February 6, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/todd-overcame-gout-depression-and-anxiety-on-a-carnivore-diet/",
+      "title": "Todd overcame gout, depression, and anxiety on a carnivore diet",
+      "date": "October 26, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/dave-improves-stroke-symptoms-on-carnivore-diet/",
+      "title": "Dave improves stroke symptoms on carnivore diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nicole-found-mental-clarity-on-a-carnivore-diet/",
+      "title": "Nicole found mental clarity on a carnivore diet",
+      "date": "December 3, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/callan-improved-skin-energy-muscle-tone-carnivore-diet/",
+      "title": "Callan improved energy, dental health and muscle tone on carnivore diet",
+      "date": "January 20, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jim-improved-cardiovascular-dental-thyroid-carnivore-diet/",
+      "title": "Jim reversed blockage in carotid artery on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/maria-healed-battle-with-eczema-managing-her-high-histamine-issues-with-carnivore/",
+      "title": "Maria healed battle with eczema, managing her high histamine issues with carnivore",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/robin-improved-body-composition-skin-hair-nails-and-eyesight-on-a-carnivore-lifestyle/",
+      "title": "Robin improved body composition, skin, hair, nails, and eyesight on a carnivore lifestyle",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/elizabeth-treats-her-type-1-diabetes-lost-weight-and-has-more-energy-on-a-carnivore-diet/",
+      "title": "Elizabeth treats her type 1 diabetes, lost weight and has more energy on a carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jason-improved-ankylosing-spondylitis-carnivore-diet/",
+      "title": "Jason improved Ankylosing Spondylitis on carnivore diet",
+      "date": "October 11, 2020"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/pyroxidine-improved-skin-ibs-anxiety-carnivore-diet/",
+      "title": "Pyroxidine improved skin, IBS, and anxiety on a carnivore diet",
+      "date": "November 14, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lindsay-lost-weight-improved-skin-digestion-carnivore-diet/",
+      "title": "Lindsay lost weight and improved skin and digestion on carnivore diet",
+      "date": "November 13, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
+      "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/jason-improves-lymes-disease-chronic-fatigue-carnivore-diet/",
+      "title": "Jason improves Chronic Fatigue on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/",
+      "title": "Warren improved arthritis on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/gabby-lost-weight-healed-digestion-anxiety-carnivore-diet/",
+      "title": "Gabby improved hormonal imbalances on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/sara-loses-weight-resolves-pre-diabetes-carnivore-diet/",
+      "title": "Sara loses weight, resolves pre-diabetes on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/amy-healed-psoriasis-yeast-bloating-brain-fog-carnivore-diet/",
+      "title": "Amy healed psoriasis, yeast overgrowth, brain fog on carnivore diet",
+      "date": "October 30, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/periodontitis/symptoms-causes/syc-20354473",
+    "text": "Periodontitis (per-e-o-don-TIE-tis), also called gum disease, is a serious gum infection that damages the soft tissue around teeth. Without treatment, periodontitis can destroy the bone that supports your teeth. This can cause teeth to loosen or lead to tooth loss."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

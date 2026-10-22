@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Babesiosis",
+  "uri": "babesiosis",
+  "carnivoreDietSearchQueries": [
+    "Babesiosis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/suzis-multiple-sclerosis-stopped-progressing-since-eating-the-carnivore-way/",
+      "title": "Suzi\u2019s Multiple Sclerosis stopped progressing since eating the carnivore way",
+      "date": "February 15, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.cdc.gov/babesiosis/about/index.html",
+    "text": "Babesiosis is a disease caused by microscopic parasites that infect red blood cells. A parasite is an organism (living thing) that lives on or inside another organism. Although there are many different species (types) of Babesia parasite found in animals, only a few infect people. The most common species to infect people in the United States is Babesia microti."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

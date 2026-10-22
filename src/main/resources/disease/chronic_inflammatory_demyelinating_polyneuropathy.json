@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Chronic Inflammatory Demyelinating Polyneuropathy",
+  "uri": "chronic_inflammatory_demyelinating_polyneuropathy",
+  "carnivoreDietSearchQueries": [
+    "Chronic Inflammatory Demyelinating Polyneuropathy"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dennis-manages-chronic-inflammatory-demyelinating-polyneuropathy-cidp-on-carnivore-diet/",
+      "title": "Dennis manages chronic inflammatory demyelinating polyneuropathy (CIDP) on carnivore diet",
+      "date": "February 6, 2023"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/renee-improved-chronic-inflammatory-demyelinating-polyneuropathy-on-a-carnivore-diet/",
+      "title": "Renee improved chronic inflammatory demyelinating polyneuropathy on a carnivore diet",
+      "date": "March 19, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/cidp-chronic-inflammatory-demyelinating-polyneuropathy",
+    "text": "CIDP chronic inflammatory demyelinating polyneuropathy is an autoimmune condition that affects the myelin sheath around your peripheral nerves. This causes worsening symptoms, like muscle weakness and abnormal sensations, over at least eight weeks. CIDP is treatable, but it can come back (relapse), which may require ongoing treatment."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

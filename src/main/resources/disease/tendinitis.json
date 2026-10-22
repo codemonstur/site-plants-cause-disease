@@ -1,0 +1,78 @@
+{
+  "visible": true,
+  "name": "Tendinitis",
+  "uri": "tendinitis",
+  "carnivoreDietSearchQueries": [
+    "Tendinitis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joels-arthritis-spine-issues-and-chronic-tendinitis-in-full-remission-on-carnivore-diet/",
+      "title": "Joel\u2019s arthritis, spine issues and chronic tendinitis in full remission on carnivore diet",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lee-anne-healed-from-severe-onset-of-tendinitis-lower-back-pain-long-menstrual-cycles-hot-flashes-migraines-yeast-infections-fibroids-mmpi-depression-anxiety-and-more-on-a-carnivore-diet/",
+      "title": "Lee Anne healed her severe tendinitis, depression, anxiety on a carnivore diet",
+      "date": "February 13, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chandler-treats-vasculitis-tendinitis-carnivore-diet/",
+      "title": "Chandler treats vasculitis, tendinitis, piriformis syndrome on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-arthritis-tendinitis-carnivore-diet/",
+      "title": "Chris improved arthritis, tendinitis, and lost weight on carnivore diet",
+      "date": "March 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/heath-improved-tendinitis-dandruff-hemorrhoids-carnivore-diet/",
+      "title": "Heath fixed his metabolic syndrome on carnivore diet",
+      "date": "February 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/eric-improved-cardiovascular-health-skin-carnivore-diet/",
+      "title": "Eric improved cardiovascular health on carnivore diet",
+      "date": "December 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-improved-digestion-body-composition-carnivore-diet/",
+      "title": "Patrick improved digestion, mood, energy, body composition on carnivore diet",
+      "date": "November 13, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-digestion-mood-carnivore-diet/",
+      "title": "Chris improved digestion and mood on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dain-improved-sleep-anxiety-dandruff-tinnitus-carnivore-diet/",
+      "title": "Dain improves in sleep, anxiety, dandruff, tinnitus on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-arthritis-tendinitis-and-lost-weight-on-carnivore-diet/",
+      "title": "Chris Improved Arthritis and Tendinitis On a Carnivore Diet",
+      "date": "January 1, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/tendinitis/symptoms-causes/syc-20378243",
+    "text": "Tendinitis is inflammation of the thick fibrous cords that attach muscle to bone. These cords are called tendons. The condition causes pain and tenderness just outside a joint. Tendinitis can occur in any tendon. But it's most common around shoulders, elbows, wrists, knees and heels."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

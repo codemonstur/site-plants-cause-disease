@@ -1,0 +1,171 @@
+{
+  "visible": true,
+  "name": "Ulcerative Colitis",
+  "uri": "ulcerative_colitis",
+  "carnivoreDietSearchQueries": [
+    "Ulcerative Colitis"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
+    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/",
+    "https://carnivore.diet/patient-testimonials-eliminating-medication-on-carnivore-diet/",
+    "https://carnivore.diet/no-gallbladder-no-problem/",
+    "https://carnivore.diet/carnivore-diet-success-stories/",
+    "https://carnivore.diet/fasting-coach-certification/mock-interview/",
+    "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
+    "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-improved-diarrhea-and-ulcerative-colitis-on-the-carnivore-diet/",
+      "title": "Mike improved diarrhea and ulcerative colitis on the carnivore diet",
+      "date": "October 31, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-on-the-carnivore-diet/",
+      "title": "Robert improved ulcerative colitis on the carnivore diet",
+      "date": "August 29, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/travis-improved-mental-health-skin-issues-ulcerative-colitis-carnivore-diet/",
+      "title": "Travis improved mental health, skin issues, and ulcerative colitis on a carnivore diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kat-heals-from-ulcerative-colitis-asthma-and-lyme-disease-on-the-carnivore-diet/",
+      "title": "Kat heals from ulcerative colitis, asthma, and Lyme disease on the carnivore diet",
+      "date": "October 12, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ex-plant-eater-josie-defeats-ulcerative-colitis/",
+      "title": "Ex-Plant Eater Josie Defeats Ulcerative Colitis",
+      "date": "June 26, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-healed-ulcerative-colitis-on-keto-and-seborrheic-dermatitis-on-carnivore-lifestyle/",
+      "title": "Stephen healed Ulcerative Colitis on Keto and Seborrheic Dermatitis on carnivore lifestyle",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/swetas-carnivore-lifestyle-reversed-ulcerative-colitis-and-got-her-off-medication/",
+      "title": "Sweta\u2019s carnivore lifestyle reversed ulcerative colitis and got her off medication",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/grant-no-ulcerative-colitis-symptoms-on-a-carnivore-diet/",
+      "title": "Grant no longer has ulcerative colitis symptoms on a carnivore diet",
+      "date": "December 12, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kim-improved-ulcerative-colitis-boils-migraines-on-carnivore-diet/",
+      "title": "Kim improved her ulcerative colitis on a carnivore diet",
+      "date": "November 4, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/douglas-improved-digestion-ulcerative-colitis-carnivore-diet/",
+      "title": "Douglas improved digestion and treated ulcerative colitis on carnivore diet",
+      "date": "November 2, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alberto-resolves-ulcerative-colitis-energy-carnivore-diet/",
+      "title": "Alberto resolves ulcerative colitis, improves energy on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-carnivore-diet/",
+      "title": "Robert improved his ulcerative colitis on a carnivore diet",
+      "date": "January 27, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-heals-diabetes-ulcerative-colitis-carnivore-diet/",
+      "title": "Patrick healed from Ulcerative Colitis on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bruce-ileostomy-improved-ulcerative-colitis-carnivore-diet/",
+      "title": "Bruce, despite ileostomy, improved ulcerative colitis on carnivore diet",
+      "date": "October 11, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lee-improves-acid-reflux-and-digestion-on-a-carnivore-diet/",
+      "title": "Lee improves acid reflux and digestion on a carnivore diet",
+      "date": "April 26, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bruce-improved-digestion-and-ileostomy-output-on-a-carnivore-diet/",
+      "title": "Bruce improved digestion and ileostomy output on a carnivore diet",
+      "date": "August 29, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/francesco-manages-anger-and-depression-on-a-carnivore-lifestyle/",
+      "title": "Francesco manages anger and depression on a carnivore lifestyle",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jan-p-restored-her-gut-brain-chain-on-a-carnivore-lifestyle/",
+      "title": "Jan P restored her \u2018gut-brain\u2019 chain on a Carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kelly-improved-kidney-disease-digestion-carnivore-diet/",
+      "title": "Kelly improved her kidney disease on a carnivore diet",
+      "date": "December 13, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-treats-autoimmune-conditions-psoriasis-carnivore-diet/",
+      "title": "Adam treats autoimmune conditions, joint pain, psoriasis on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-arthritis-tendinitis-carnivore-diet/",
+      "title": "Chris improved arthritis, tendinitis, and lost weight on carnivore diet",
+      "date": "March 21, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/edgar-improved-speech-carnivore-diet/",
+      "title": "Edgar improved speech on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/daniel-improves-digestion-weight-loss-carnivore-diet/",
+      "title": "Daniel improves his digestion and weight loss on a carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lori-improved-hypertension-and-ulcerative-colitis-on-a-carnivore-diet/",
+      "title": "Lori improved hypertension and ulcerative colitis on a carnivore diet",
+      "date": "March 3, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/ulcerative-colitis/symptoms-causes/syc-20353326",
+    "text": "Ulcerative colitis (UL-sur-uh-tiv koe-LIE-tis) is an inflammatory bowel disease (IBD) that causes inflammation and ulcers (sores) in your digestive tract. Ulcerative colitis affects the innermost lining of your large intestine, also called the colon, and rectum. In most people, symptoms usually develop over time, rather than suddenly."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

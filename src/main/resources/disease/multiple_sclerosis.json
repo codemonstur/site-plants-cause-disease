@@ -1,0 +1,128 @@
+{
+  "visible": true,
+  "name": "Multiple Sclerosis",
+  "uri": "multiple_sclerosis",
+  "carnivoreDietSearchQueries": [
+    "Multiple Sclerosis"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/wayne-improved-psoriasis-dandruff-multiple-sclerosis-carnivore-diet/",
+      "title": "Wayne improved psoriasis, dandruff, and multiple sclerosis on a carnivore diet",
+      "date": "March 8, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-manages-multiple-sclerosis-on-the-carnivore-diet/",
+      "title": "Ashley manages multiple sclerosis on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kevin-is-fighting-off-multiple-sclerosis-on-a-carnivore-diet/",
+      "title": "Kevin is fighting off multiple sclerosis on a carnivore diet",
+      "date": "June 10, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/suzis-multiple-sclerosis-stopped-progressing-since-eating-the-carnivore-way/",
+      "title": "Suzi\u2019s Multiple Sclerosis stopped progressing since eating the carnivore way",
+      "date": "February 15, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/raenn-improves-arthritis-multiple-sclerosis-carnivore-diet/",
+      "title": "Raenn improves arthritis, multiple sclerosis, and PCOS on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erin-treats-multiple-sclerosis-carnivore-diet/",
+      "title": "Erin treats Multiple Sclerosis, feels good on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/elsie-improved-hair-nails-skin-digestion-carnivore-diet/",
+      "title": "Elsie improved multiple sclerosis, and digestion on a carnivore diet",
+      "date": "November 22, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/leo-improved-anxiety-mood-multiple-sclerosis-carnivore-diet/",
+      "title": "Leo improved mood disorder, multiple sclerosis, digestion on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/woman-heals-multiple-sclerosis-ms-carnivore-diet/",
+      "title": "Woman heals from multiple sclerosis (MS) on a carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/todd-overcame-gout-depression-and-anxiety-on-a-carnivore-diet/",
+      "title": "Todd overcame gout, depression, and anxiety on a carnivore diet",
+      "date": "October 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/xavier-no-longer-has-ms-symptoms-on-carnivore-diet/",
+      "title": "Xavier no longer has MS symptoms on a carnivore diet",
+      "date": "June 3, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mickis-ms-in-remission-bowel-issues-gone-carnivore-diet/",
+      "title": "Micki\u2019s MS is in remission and her bowel issues are gone all with a carnivore diet",
+      "date": "February 15, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ginamarie-treated-symptoms-of-ms-on-carnivore-diet/",
+      "title": "Ginamarie no longer suffers from symptoms of MS on a carnivore diet",
+      "date": "November 1, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/emily-improves-bipolar-disorder-ms-carnivore-diet/",
+      "title": "Emily improves bipolar disorder and MS on a carnivore diet",
+      "date": "November 26, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gabriel-treated-multiple-sclerosis-carnivore-diet/",
+      "title": "Gabriel improved MS symptoms on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/tracy-improved-multiple-sclerosis-testosterone-on-carnivore-diet/",
+      "title": "Tracy improved multiple sclerosis & testosterone on carnivore diet",
+      "date": "March 6, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rebecca-managed-multiple-sclerosis-and-eczema-on-a-carnivore-diet/",
+      "title": "Rebecca managed multiple sclerosis and eczema on a carnivore diet",
+      "date": "February 6, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/maranda-improved-fibromyalgia-hypoglycemia-on-carnivore-diet/",
+      "title": "Maranda improved fibromyalgia & hypoglycemia on carnivore diet",
+      "date": "March 6, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+    "text": "Multiple sclerosis (MS) is a potentially disabling disease of the brain and spinal cord (central nervous system). In MS, the immune system attacks the protective sheath (myelin) that covers nerve fibers and causes communication problems between your brain and the rest of your body. Eventually, the disease can cause permanent damage or deterioration of the nerve fibers."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

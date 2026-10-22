@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Stomach Ulcer",
+  "uri": "stomach_ulcer",
+  "see": {
+    "uri": "peptic_ulcer",
+    "name": "Peptic Ulcer"
+  }
+}

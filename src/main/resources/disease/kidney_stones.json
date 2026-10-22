@@ -1,0 +1,93 @@
+{
+  "visible": true,
+  "name": "Kidney Stones",
+  "uri": "kidney_stones",
+  "carnivoreDietSearchQueries": [
+    "Kidney Stones"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/a-beginners-introduction-to-the-carnivore-diet/",
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/guides/carnivore-guide/9-gall-bladder/",
+    "https://carnivore.diet/matt-healed-joint-pain-following-carnivore-diet/",
+    "https://carnivore.diet/william-improved-fatigue-brain-fog-acne-carnivore-diet/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jean-heals-kidney-stones-unitary-tract-issues-carnivore-diet/",
+      "title": "Jean heals from kidney stones on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-treats-diverticulitis-gout-depression-carnivore-diet/",
+      "title": "Chris treats diverticulitis, sleep apnea, kidney stones on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/claire-reverses-osteoporosis-puts-on-muscle-carnivore/",
+      "title": "Claire Reverses Osteoporosis and Puts On Muscle In Her 60s On A Carnivore Diet",
+      "date": "August 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nicole-d-is-her-best-self-on-the-carnivore-diet/",
+      "title": "Nicole D Is Her Best Self On The Carnivore Diet",
+      "date": "June 18, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
+      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessyca-overcame-a-life-long-eating-disorder-on-a-carnivore-diet/",
+      "title": "Jessyca overcame a life long eating disorder on a carnivore diet",
+      "date": "December 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dwayne-improved-asthma-mood-skin-kidney-stones-carnivore-diet/",
+      "title": "Dwayne improved asthma, mood and skin a carnivore diet",
+      "date": "March 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/milian-healed-hemorrhoids-digestion-issues-carnivore-diet/",
+      "title": "Milian heals hemorrhoids on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-improved-digestion-immune-urinary-system-carnivore-diet/",
+      "title": "Mark improved his arthritis and autoimmune issues on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-improved-psoriatic-arthritis-on-the-carnivore-diet/",
+      "title": "Stephen improved psoriatic arthritis and depression on the carnivore diet",
+      "date": "October 19, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
+      "title": "Chris improved cardiovascular health, treated diabetes on carnivore diet",
+      "date": "October 5, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755",
+    "text": "Kidney stones (also called renal calculi, nephrolithiasis or urolithiasis) are hard deposits made of minerals and salts that form inside your kidneys."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

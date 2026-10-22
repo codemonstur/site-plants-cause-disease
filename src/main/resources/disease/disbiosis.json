@@ -1,0 +1,17 @@
+{
+  "visible": true,
+  "name": "Disbiosis",
+  "uri": "disbiosis",
+  "carnivoreDietSearchQueries": [
+    "Disbacteriosis",
+    "Disbiosis"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "https://en.wikipedia.org/wiki/Dysbiosis",
+    "text": "Dysbiosis (also called dysbacteriosis) is characterized by a disruption to the microbiome resulting in an imbalance in the microbiota, changes in their functional composition and metabolic activities, or a shift in their local distribution."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

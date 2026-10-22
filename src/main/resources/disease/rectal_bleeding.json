@@ -1,0 +1,16 @@
+{
+  "visible": true,
+  "name": "Rectal Bleeding",
+  "uri": "rectal_bleeding",
+  "carnivoreDietSearchQueries": [
+    "Rectal Bleeding"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/symptoms/14612-rectal-bleeding",
+    "text": "Rectal bleeding is a symptom of many different conditions, including hemorrhoids, anal fissures, inflammatory bowel disease (IBD) and colorectal cancer. You may notice rectal bleeding on your toilet paper when you wipe or when you see blood in your stool. It\u2019s important to contact a healthcare provider about rectal bleeding. Not all causes are serious, but some of them are."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

@@ -1,0 +1,116 @@
+{
+  "visible": true,
+  "name": "Lupus",
+  "uri": "lupus",
+  "carnivoreDietSearchQueries": [
+    "Lupus"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephanie-m-improved-lupus-and-blood-sugar-on-a-carnivore-diet/",
+      "title": "Stephanie M improved lupus and blood sugar on a carnivore diet",
+      "date": "March 27, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kristin-improved-digestion-and-lupus-on-a-carnivore-diet/",
+      "title": "Kristin improved digestion and lupus on a carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
+      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "date": "January 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/katherines-lupus-flares-have-subsided-on-carnivore-diet/",
+      "title": "Katherine\u2019s lupus flares have subsided since starting the carnivore diet",
+      "date": "November 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/andrea-improved-fatigue-and-hormones-on-a-carnivore-diet/",
+      "title": "Andrea improved fatigue and hormones on a carnivore diet",
+      "date": "March 19, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-b-improved-rheumatoid-arthritis-on-a-carnivore-diet/",
+      "title": "Mike B improved rheumatoid arthritis on a carnivore diet",
+      "date": "March 12, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cindy-resolved-liver-issues-headaches-fatigue-brain-lesions-all-from-a-carnivore-lifestyle/",
+      "title": "Cindy resolved liver issues, headaches, fatigue, brain lesions all from a Carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rick-is-off-all-medications-for-chronic-inflammation-and-malaise-on-a-carnivore-lifestyle/",
+      "title": "Rick is off all medications for chronic inflammation and malaise on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robyn-d-healed-5-autoimmune-diseases-and-removed-24-medications-on-a-carnivore-diet/",
+      "title": "Robyn D healed 5 autoimmune diseases and removed 24 medications on a carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/julia-healed-joint-pain-inflammation-anxiety-on-carnivore-diet/",
+      "title": "Julia healed joint pain, inflammation and anxiety on a carnivore diet",
+      "date": "November 12, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/deidres-psoriasis-cleared-hair-thicker-carnivore-diet/",
+      "title": "Deidre\u2019s psoriasis has cleared up, hair growing thicker on a carnivore diet",
+      "date": "August 7, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joette-improved-depression-sleep-hormones-carnivore-diet/",
+      "title": "Joette got off 24 medications on carnivore diet",
+      "date": "January 3, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erik-treats-asthma-obesity-focus-issues-gout-carnivore-diet/",
+      "title": "Erik treats asthma, obesity, focus issues, and gout on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alex-improved-pain-carnivore-diet/",
+      "title": "Alex improved his pain on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rob-treated-ankylosing-spondylitis-arthritis-carnivore-diet/",
+      "title": "Rob improved his ankylosing spondylitis on a carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joannas-crohns-lupus-symptoms-alleviated-carnivore-diet/",
+      "title": "Joanna\u2019s Crohn\u2019s have alleviated on carnivore diet",
+      "date": "February 11, 2018"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

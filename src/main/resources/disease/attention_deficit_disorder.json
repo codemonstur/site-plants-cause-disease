@@ -1,0 +1,42 @@
+{
+  "visible": true,
+  "name": "Attention Deficit Disorder",
+  "uri": "attention_deficit_disorder",
+  "carnivoreDietSearchQueries": [
+    "Attention Deficit Disorder"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alexander-improves-focus-attention-and-gastrointestinal-issues-on-a-carnivore-diet/",
+      "title": "Alexander improves focus, attention, and gastrointestinal issues on a carnivore diet",
+      "date": "June 15, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-improves-cardiovascular-health-joint-pain-carnivore-diet/",
+      "title": "Jim improves cardiovascular health, joint pain, weight loss on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/diane-treats-migraines-adhd-sleep-issues-carnivore-diet/",
+      "title": "Diane treats ADD on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/robert-anxiety-free-switching-carnivore-diet-lost-weight/",
+      "title": "Robert is no longer sore, is now free from anxiety on a carnivore diet",
+      "date": "August 24, 2020"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

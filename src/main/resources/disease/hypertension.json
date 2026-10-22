@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Hypertension",
+  "uri": "hypertension",
+  "see": {
+    "uri": "high_blood_pressure",
+    "name": "High Blood Pressure"
+  }
+}

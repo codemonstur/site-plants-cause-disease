@@ -1,0 +1,462 @@
+{
+  "visible": true,
+  "name": "Eczema",
+  "uri": "eczema",
+  "carnivoreDietSearchQueries": [
+    "Eczema"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kevin-lost-weight-improved-eczema-mental-clarity-energy-carnivore-diet/",
+      "title": "Kevin lost weight and improved eczema, mental clarity, and energy on a carnivore diet",
+      "date": "March 6, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michelle-improved-eczema-and-mental-health-on-the-carnivore-diet/",
+      "title": "Michelle improved eczema and mental health on the carnivore diet",
+      "date": "September 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tanner-heals-from-crohns-disease-eczema-and-being-underweight-on-a-carnivore-diet/",
+      "title": "Tanner heals from Crohn\u2019s disease, eczema, and being underweight on a carnivore diet",
+      "date": "June 27, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/josh-manages-eczema-on-a-low-carb-diet/",
+      "title": "Josh manages eczema on a low-carb diet",
+      "date": "December 20, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/elizabeth-healed-eczema-asthma-on-a-carnivore-lifestyle/",
+      "title": "Elizabeth S healed eczema, asthma on a carnivore lifestyle",
+      "date": "February 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matt-healed-eczema-dandruff-skin-burning-gut-issues-low-energy-on-animal-based-diet/",
+      "title": "Matt healed eczema, dandruff, skin burning, gut issues, low energy on animal based diet",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/maria-healed-battle-with-eczema-managing-her-high-histamine-issues-with-carnivore/",
+      "title": "Maria healed battle with eczema, managing her high histamine issues with carnivore",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/troy-lowered-blood-pressure-cleared-up-eczema-carnivore-diet/",
+      "title": "Troy lowered his blood pressure, cleared up eczema on a carnivore diet",
+      "date": "July 1, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-healed-eczema-leaky-gut-carnivore-diet/",
+      "title": "Michael C healed eczema, leaky gut, and inflammatory bowel disease on a carnivore diet",
+      "date": "May 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alexandra-lost-weight-resolved-acid-reflux-eczema-inflammation-joint-pain-all-on-a-carnivore-lifestyle/",
+      "title": "Alexandra lost weight, resolved acid reflux, eczema, inflammation, joint pain all on a carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/misty-healed-from-alcoholism-hypertension-and-eczema-on-a-low-carb-meat-based-diet/",
+      "title": "Misty healed from alcoholism, hypertension, and eczema on a low carb meat based diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jessie-cleared-up-eczema-inflammation-and-pains-on-a-carnivore-lifestyle/",
+      "title": "Jessie cleared up eczema, inflammation, and pains on a carnivore lifestyle",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/priscilla-eliminated-joint-pain-eczema-and-binge-eating-disorder-on-a-carnivore-diet/",
+      "title": "Priscilla eliminated joint pain, eczema, and binge eating disorder on a carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-healed-from-pcos-adrenal-fatigue-depression-ibs-and-eczema-on-a-carnivore-diet/",
+      "title": "Sarah healed from PCOS, adrenal fatigue, depression, IBS, and eczema on a Carnivore diet",
+      "date": "February 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/allison-lost-100-pounds-cleared-eczema-on-a-carnivore-diet/",
+      "title": "Allison lost 100 pounds and cleared eczema on a carnivore diet",
+      "date": "December 12, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/erin-ditched-plants-eliminated-eczema/",
+      "title": "Erin ditched the plants and eliminated her eczema",
+      "date": "October 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tracy-improved-mental-health-eczema-asthma-carnivore-diet/",
+      "title": "Tracy improved her mental health, eczema, and asthma on a carnivore diet",
+      "date": "September 22, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ex-vegan-heals-eczema-regains-health-carnivore-diet/",
+      "title": "Ex-vegan heals his eczema and regains his health on a carnivore diet",
+      "date": "August 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jenni-lost-weight-improved-eczema-carnivore-diet/",
+      "title": "Jenni healed from eczema on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/carly-treats-endometriosis-digestion-eczema-carnivore-diet/",
+      "title": "Carly treats endometriosis, digestion, eczema, joint pain on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/neal-improves-prediabetes-energy-levels-carnivore-diet/",
+      "title": "Neal cleared his eczema on a carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-treats-depression-acne-eczema-bloating-carnivore-diet/",
+      "title": "Adam treats depression, acne, eczema, dry skin, bloating on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mike-improved-eczema-cravings-sleep-weight-carnivore-diet/",
+      "title": "Mike improved his eczema, cravings, sleep and weight on a carnivore diet",
+      "date": "March 13, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sean-resolved-chest-pains-bloating-gas-eczema-carnivore-diet/",
+      "title": "Sean resolved bad acne, chest pains, bloating, eczema on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mim-improved-reproductive-urinary-health-carnivore-diet/",
+      "title": "Mim improved her eczema on a carnivore diet",
+      "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stepanka-improves-depression-anorexia-and-bulimia-on-a-carnivore-diet/",
+      "title": "Stepanka improves depression, anorexia, and bulimia on a carnivore diet",
+      "date": "June 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jeffrey-improved-psoriasis-and-ankylosing-spondylitis-on-carnivore-diet/",
+      "title": "Jeffrey improved psoriasis and ankylosing spondylitis on carnivore diet",
+      "date": "December 2, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dom-improved-autoimmune-issues-on-a-carnivore-diet/",
+      "title": "Dom improved autoimmune issues on a carnivore diet",
+      "date": "September 8, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/holly-and-matts-autistic-son-improves-on-a-carnivore-diet/",
+      "title": "Holly and Matt\u2019s autistic son improves on a carnivore diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/travis-improved-focus-anxiety-disorder-ocd-depression-psoriasis-and-blood-sugar-on-the-carnivore-diet/",
+      "title": "Travis improved focus, anxiety disorder, OCD, depression, psoriasis, and blood sugar on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/irina-overcame-candida-infection-vitamin-d-deficiency-and-vasculitis-on-a-carnivore-diet/",
+      "title": "Irina overcame candida infection, vitamin D deficiency, and vasculitis on a carnivore diet",
+      "date": "January 19, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lauren-manages-eating-disorders-mood-and-skin-issues-on-a-low-carb-diet/",
+      "title": "Lauren manages eating disorders, mood, and skin issues on a low-carb diet",
+      "date": "December 21, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michelle-ran-first-marathon-on-low-carb-diet/",
+      "title": "Michelle ran her first half-marathon at 61 on a low-carb diet",
+      "date": "December 20, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/donna-healed-from-adrenal-insufficiency/",
+      "title": "Donna G Healed from Adrenal Insufficiency",
+      "date": "May 5, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kimberly-resolved-adult-onset-cystic-acne-and-lost-15lbs/",
+      "title": "Kimberly resolved adult-onset cystic acne and lost 15lbs",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sharon-healed-from-psoriasis-chronic-pain-on-carnivore-diet/",
+      "title": "Sharon H put psoriasis and chronic pain into remission and regrew hair on a carnivore diet",
+      "date": "October 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/thomas-cleared-his-acne-lost-weight-and-eliminated-overeating-on-a-carnivore-lifestyle/",
+      "title": "Thomas cleared his acne, lost weight and eliminated overeating on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rick-is-off-all-medications-for-chronic-inflammation-and-malaise-on-a-carnivore-lifestyle/",
+      "title": "Rick is off all medications for chronic inflammation and malaise on a Carnivore lifestyle",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-j-healed-boils-sarcopenia-and-dysphoric-pre-menstrual-disorder-on-a-carnivore-diet/",
+      "title": "Sara J healed boils, sarcopenia, and dysphoric pr\u00e9-menstrual disorder on a carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/theresa-healed-crohns-disease-and-lost-weight-on-a-carnivore-lifestyle/",
+      "title": "Theresa healed Crohn\u2019s Disease and lost weight on a carnivore lifestyle",
+      "date": "March 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/pieter-achieved-health-and-weight-loss-results-on-a-carnivore-diet/",
+      "title": "Pieter achieved health and weight loss results on a carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rhonda-improved-her-digestive-issues-lost-weight-and-reduced-pain-after-going-on-an-animal-based-diet/",
+      "title": "Rhonda improved her digestive issues, lost weight, and reduced pain after going on an animal based diet",
+      "date": "February 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
+      "title": "Janice solved her digestive problems and anxiety on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jerry-found-his-abs-in-his-50s-on-a-carnivore-diet/",
+      "title": "Jerry found his abs in his 50s on a carnivore diet",
+      "date": "January 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/crystal-improved-pms-sleep-carnivore-diet/",
+      "title": "Crystal improved PMS and sleep on a carnivore diet",
+      "date": "December 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sondra-has-mental-clarity-carnivore-diet/",
+      "title": "Sondra gained mental clarity on a carnivore diet",
+      "date": "December 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/krissy-digestion-chronic-pain-mood-anxiety-carnivore-diet/",
+      "title": "Krissy eliminated chronic pain on carnivore diet",
+      "date": "March 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/dwayne-improved-asthma-mood-skin-kidney-stones-carnivore-diet/",
+      "title": "Dwayne improved asthma, mood and skin a carnivore diet",
+      "date": "March 28, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lori-improved-digestion-sugar-cravings-anxiety-carnivore-diet/",
+      "title": "Lori improved digestion, sugar cravings, and anxiety on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-lost-weight-improved-pain-skin-carnivore-diet/",
+      "title": "John lost weight, improved his pain and skin on a carnivore diet",
+      "date": "February 26, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-improved-blood-sugar-mental-health-carnivore-diet/",
+      "title": "Stephen improved blood sugar, dental health, digestion on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mark-treated-apnea-diabetes-psoriasis-tinnitus-carnivore-diet/",
+      "title": "Mark treated apnea, diabetes, psoriasis, and tinnitus on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/asra-improves-digestion-joint-pain-mood-carnivore-diet/",
+      "title": "Asra improves her digestion, joint pain, and mood on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ernest-healed-seborrheic-keratosis-carnivore-diet/",
+      "title": "Ernest healed seborrheic keratosis on a carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nevada-improved-nervous-skeletal-urinary-system-carnivore-diet/",
+      "title": "Nevada improved her cauda equina syndrome on a carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/randi-improved-digestion-mental-health-skin-carnivore-diet/",
+      "title": "Randi improved her skin on a carnivore diet",
+      "date": "October 11, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sabine-improved-reproductive-health-autoimmune-carnivore-diet/",
+      "title": "Sabine improved her mental and reproductive health on a carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/charlene-improves-sleep-mental-health-lyme-carnivore-diet/",
+      "title": "Charlene improves sleep, cardiovascular health, digestion on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/woman-treats-narcolepsy-retinopathy-carnivore-diet/",
+      "title": "Woman treats Crohn\u2019s, asthma, narcolepsy, hypothyroidism on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/emanuel-treats-depression-brain-fog-eczema-carnivore-diet/",
+      "title": "Emanuel treats excess weight, depression, brain fog on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nevada-heals-pcos-prediabetes-eczema-carnivore-diet/",
+      "title": "Nevada heals PCOS, cauda equina syndrome, prediabetes on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/shelly-improved-brain-fog-energy-skin-carnivore-diet/",
+      "title": "Shelly improved her brain fog, energy and skin on a carnivore diet",
+      "date": "February 28, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nirav-improved-physique-joint-pain-carnivore-diet/",
+      "title": "Nirav improved physique and joint pain on carnivore diet",
+      "date": "November 2, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lynsey-improved-mental-health-mouth-ulcers-carnivore-diet/",
+      "title": "Lynsey treated mouth ulcers on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/milian-healed-hemorrhoids-digestion-issues-carnivore-diet/",
+      "title": "Milian heals hemorrhoids on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/adam-overcomes-plant-based-diet-improvements-carnivore-diet/",
+      "title": "Adam overcomes plant-based diet, has improvements on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/justin-improved-anxiety-mood-carnivore-diet/",
+      "title": "Justin healed skin rashes on a carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/wade-improved-mood-mental-health-skin-sleep-carnivore-diet/",
+      "title": "Wade improved mood, mental health, skin, sleep on carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robin-heals-epilepsy-seizures-joint-pain-carnivore-diet/",
+      "title": "Robin heals from epilepsy, seizures, and joint pain on a carnivore diet",
+      "date": "September 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/rebecca-managed-multiple-sclerosis-and-eczema-on-a-carnivore-diet/",
+      "title": "Rebecca managed multiple sclerosis and eczema on a carnivore diet",
+      "date": "February 6, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/nelson-improved-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Nelson improved high blood pressure on a carnivore diet",
+      "date": "February 22, 2025"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/lycia-and-family-heal-on-carnivore-lifestyle/",
+      "title": "Lycia and Family Heal On Carnivore Lifestyle",
+      "date": "September 22, 2022"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273",
+    "text": "Atopic dermatitis (eczema) is a condition that causes dry, itchy and inflamed skin. It's common in young children but can occur at any age. Atopic dermatitis is long lasting (chronic) and tends to flare sometimes. It can be irritating but it's not contagious."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

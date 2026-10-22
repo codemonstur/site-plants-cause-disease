@@ -1,0 +1,16 @@
+{
+  "visible": true,
+  "name": "Peritonitis",
+  "uri": "peritonitis",
+  "carnivoreDietSearchQueries": [
+    "Peritonitis"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/peritonitis/symptoms-causes/syc-20376247",
+    "text": "Peritonitis is a serious condition that starts in the abdomen. That's the area of the body between the chest and the pelvis. Peritonitis happens when the thin layer of tissue inside the abdomen becomes inflamed. The tissue layer is called the peritoneum. Peritonitis usually happens due to an infection from bacteria or fungi."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

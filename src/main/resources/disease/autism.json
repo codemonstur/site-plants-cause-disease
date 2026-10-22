@@ -1,0 +1,99 @@
+{
+  "visible": true,
+  "name": "Autism",
+  "uri": "autism",
+  "carnivoreDietSearchQueries": [
+    "Autism"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/autism-tips-by-coach-alitheia/",
+    "https://carnivore.diet/health-benefits/",
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/coach-program/coaches-knowledge-share/",
+    "https://carnivore.diet/beatriz-healed-rheumatoid-arthritis-on-a-carnivore-diet/",
+    "https://carnivore.diet/anthony-improved-fat-loss-muscle-asthma-and-sleep-on-a-carnivore-lifestyle/",
+    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/allie-manages-her-sons-non-verbal-autism/",
+      "title": "Allie Manages Her Son\u2019s Non-Verbal Autism",
+      "date": "August 17, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/thomas-heals-arthritis-autism-skin-psoriasis-carnivore-diet/",
+      "title": "Thomas heals from arthritis, autism, and skin psoriasis on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/christian-improved-hearing-gained-weight-autism-carnivore-diet/",
+      "title": "Christian improved hearing, gained weight, treated autism on carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/emily-improves-autism-mental-health-carnivore-diet/",
+      "title": "Emily improves autism, mental health, and weight loss on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/connor-improved-autism-ibs-carnivore-diet/",
+      "title": "Connor improved his autism and IBS with the carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sim-improved-autism-depression-anxiety-carnivore-diet/",
+      "title": "Sim improved autism, depression and anxiety on a carnivore diet",
+      "date": "October 29, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-improved-weight-and-ovarian-cysts-on-a-carnivore-diet/",
+      "title": "Sarah improved weight and ovarian cysts on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/holly-and-matts-autistic-son-improves-on-a-carnivore-diet/",
+      "title": "Holly and Matt\u2019s autistic son improves on a carnivore diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rachels-autistic-daughter-improves-speech-and-communication-on-the-carnivore-diet/",
+      "title": "Rachel\u2019s autistic daughter improves speech and communication on the carnivore diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sade-manages-her-borderline-personality-disorder-on-a-carnivore-diet/",
+      "title": "Sade manages her borderline personality disorder on a carnivore diet",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/taylor-improved-tourettes-weight-digestion-carnivore-diet/",
+      "title": "Taylor improved his tourettes, weight and digestion on a carnivore diet",
+      "date": "November 20, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/corina-overcomes-veganism-health-issues-carnivore-diet/",
+      "title": "Corina overcomes veganism and many health issues on a carnivore diet",
+      "date": "October 31, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/autism-spectrum-disorder/symptoms-causes/syc-20352928",
+    "text": "Autism spectrum disorder is a condition related to brain development that impacts how a person perceives and socializes with others, causing problems in social interaction and communication. The disorder also includes limited and repetitive patterns of behavior. The term \"spectrum\" in autism spectrum disorder refers to the wide range of symptoms and severity."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

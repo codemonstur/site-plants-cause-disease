@@ -1,0 +1,24 @@
+{
+  "visible": true,
+  "name": "Rickets",
+  "uri": "rickets",
+  "carnivoreDietSearchQueries": [
+    "Rickets"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/anonymous-improved-anemia-digestive-problems-carnivore-diet/",
+      "title": "Anonymous improved anemia and digestive problems on a carnivore diet",
+      "date": "October 30, 2018"
+    }
+  ],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/rickets/symptoms-causes/syc-20351943",
+    "text": "Rickets is the softening and weakening of bones in children, usually because of an extreme and prolonged vitamin D deficiency. Rare inherited problems also can cause rickets."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

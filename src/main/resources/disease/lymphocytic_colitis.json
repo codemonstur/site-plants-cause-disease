@@ -1,0 +1,30 @@
+{
+  "visible": true,
+  "name": "Lymphocytic Colitis",
+  "uri": "lymphocytic_colitis",
+  "carnivoreDietSearchQueries": [
+    "Lymphocytic Colitis"
+  ],
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/aaron-b-healed-from-lymphatic-colitis-and-ankylosing-spondylitis-on-the-carnivore-diet/",
+      "title": "Aaron B healed from Lymphocytic Colitis and Ankylosing Spondylitis on the carnivore diet",
+      "date": "February 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-improves-autoimmune-conditions-arthritis-carnivore-diet/",
+      "title": "Sarah improves autoimmune conditions, arthritis, weight on carnivore diet",
+      "date": "September 30, 2019"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/24634-lymphocytic-colitis",
+    "text": "Lymphocytic colitis is a type of microscopic colitis, which is a type of inflammatory bowel disease. Inflammatory bowel diseases are chronic diseases that cause ongoing inflammation in your intestines. Colitis means inflammation of the large intestine (colon). Microscopic colitis is colitis that can only be seen under a microscope. Scientists recognize the different types of microscopic colitis by analyzing the cells in your intestinal lining."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

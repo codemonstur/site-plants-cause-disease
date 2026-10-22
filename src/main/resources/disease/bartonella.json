@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Bartonella",
+  "uri": "bartonella",
+  "see": {
+    "uri": "bartonellosis",
+    "name": "Bartonellosis"
+  }
+}

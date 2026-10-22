@@ -1,0 +1,16 @@
+{
+  "visible": true,
+  "name": "Vaginitis",
+  "uri": "vaginitis",
+  "carnivoreDietSearchQueries": [
+    "Vaginitis"
+  ],
+  "filteredAnecdotes": [],
+  "definition": {
+    "source": "https://www.mayoclinic.org/diseases-conditions/vaginitis/symptoms-causes/syc-20354707",
+    "text": "Vaginitis is an inflammation of the vagina that can result in discharge, itching and pain. The cause is usually a change in the balance of vaginal bacteria or an infection. Reduced estrogen levels after menopause and some skin disorders also can cause vaginitis."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

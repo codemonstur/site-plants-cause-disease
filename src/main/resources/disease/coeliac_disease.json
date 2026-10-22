@@ -1,0 +1,9 @@
+{
+  "visible": true,
+  "name": "Coeliac Disease",
+  "uri": "coeliac_disease",
+  "see": {
+    "uri": "celiac_disease",
+    "name": "Celiac Disease"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "visible": true,
+  "name": "Leaky Gut",
+  "uri": "leaky_gut",
+  "carnivoreDietSearchQueries": [
+    "Leaky Gut"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/plants-are-out-to-poison-you/",
+    "https://carnivore.diet/anti-nutrients/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marti-healed-leaky-gut-on-a-carnivore-diet/",
+      "title": "Marti healed leaky gut on a carnivore diet",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jules-carnivore-lifestyle-healed-leaky-gut-resolve-multiple-mental-health-issues/",
+      "title": "Jules\u2019 Carnivore lifestyle healed leaky gut, resolve multiple mental health issues",
+      "date": "October 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michael-healed-eczema-leaky-gut-carnivore-diet/",
+      "title": "Michael C healed eczema, leaky gut, and inflammatory bowel disease on a carnivore diet",
+      "date": "May 31, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/gregory-overcame-weight-lymphedema-high-blood-pressure-prediabetes-on-a-carnivore-diet/",
+      "title": "Gregory overcame weight, lymphedema, high blood pressure, prediabetes on a carnivore diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sylvia-eliminated-rheumatoid-arthritis-allergies-and-constipation-on-carnivore-diet/",
+      "title": "Sylvia eliminated Rheumatoid Arthritis, allergies, and constipation on carnivore diet",
+      "date": "November 24, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/julia-reached-pre-pregnancy-weight-reduced-thyroid-medication-on-a-carnivore-lifestyle/",
+      "title": "Julia reached pre-pregnancy weight, reduced thyroid medication on a carnivore lifestyle",
+      "date": "March 27, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/parveen-improved-metabolic-thyroid-and-mental-health-on-a-carnivore-diet/",
+      "title": "Parveen improved metabolic, thyroid, and mental health on a Carnivore diet",
+      "date": "February 21, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rhonda-improved-her-digestive-issues-lost-weight-and-reduced-pain-after-going-on-an-animal-based-diet/",
+      "title": "Rhonda improved her digestive issues, lost weight, and reduced pain after going on an animal based diet",
+      "date": "February 20, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/laura-healed-allergies-asthma-gi-issues-on-carnivore-diet/",
+      "title": "Laura healed her allergies, asthma, GI issues on a carnivore diet",
+      "date": "December 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/brian-improved-tears-strains-on-carnivore-diet/",
+      "title": "Brian no longer suffers from tears and strains on a carnivore diet",
+      "date": "October 23, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cassie-healed-plantar-fasciitis-edema-carnivore-diet/",
+      "title": "Cassie healed from plantar fasciitis, edema, back pain on a carnivore diet",
+      "date": "October 13, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ex-vegan-heals-eczema-regains-health-carnivore-diet/",
+      "title": "Ex-vegan heals his eczema and regains his health on a carnivore diet",
+      "date": "August 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/katya-raw-vegan-improved-digestion-bladder-kidney-carnivore/",
+      "title": "Katya improved digestion, bladder and kidney pain on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/martin-heartburn-and-sleep-on-a-carnivore-diet/",
+      "title": "Martin heartburn and sleep on a carnivore diet",
+      "date": "December 3, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/terese-improved-sleep-mood-digestion-asthma-carnivore-diet/",
+      "title": "Terese increased her energy on a carnivore diet",
+      "date": "November 3, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/christopher-improves-allergies-vision-leaky-gut-carnivore-diet/",
+      "title": "Christopher improves allergies, vision, athlete\u2019s foot on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isabel-improved-digestion-liver-mental-health-carnivore-diet/",
+      "title": "Isabel cured her IBS on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/",
+      "title": "Warren improved arthritis on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/wade-heals-anxiety-depression-strep-throat-carnivore-diet/",
+      "title": "Wade heals anxiety, depression, strep throat, joint pain on carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": false,
+      "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
+      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "date": "March 7, 2025"
+    }
+  ],
+  "definition": {
+    "source": "https://my.clevelandclinic.org/health/diseases/22724-leaky-gut-syndrome",
+    "text": "Leaky gut syndrome is a hypothetical condition that\u2019s not currently recognized as a medical diagnosis. It\u2019s based on the concept of increased intestinal permeability, which occurs in some gastrointestinal diseases."
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}

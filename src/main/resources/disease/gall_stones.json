@@ -1,0 +1,33 @@
+{
+  "visible": true,
+  "name": "Gall Stones",
+  "uri": "gall_stones",
+  "carnivoreDietSearchQueries": [
+    "Gall Stones"
+  ],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/anti-nutrients/",
+    "https://carnivore.diet/guides/carnivore-guide/9-gall-bladder/"
+  ],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ron-got-rid-of-skin-tags-snoring-back-pain-diverticulosis-toenail-fungus-anxiety/",
+      "title": "Ron got rid of skin tags, snoring, back pain, diverticulosis, toenail fungus, anxiety",
+      "date": "November 4, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/david-improved-diverticulitis-strength-energy-carnivore-diet/",
+      "title": "David improved his diverticulitis, strength and energy on a carnivore diet",
+      "date": "December 17, 2019"
+    }
+  ],
+  "definition": {
+    "source": "",
+    "text": ""
+  },
+  "papers": [],
+  "articles": [],
+  "videos": []
+}
