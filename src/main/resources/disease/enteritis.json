@@ -5,10 +5,15 @@
   "carnivoreDietSearchQueries": [
     "Enteritis"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/emma-improved-digestion-mental-health-skin-carnivore-diet/"
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/emma-improved-digestion-mental-health-skin-carnivore-diet/",
+      "title": "Emma improved digestion, mood/mental health, and skin on carnivore diet",
+      "date": "November 1, 2019"
+    }
   ],
-  "anecdotes": [],
   "definition": {
     "source": "https://my.clevelandclinic.org/health/diseases/23049-enteritis-inflammation-small-intestine",
     "text": "Enteritis is inflammation of your small intestine. The most common causes are viral and bacterial infections. Enteritis can also include your stomach (gastroenteritis) or your large intestine (enterocolitis). Enteritis caused by infection is often gastroenteritis. Common examples are food poisoning and the stomach flu."

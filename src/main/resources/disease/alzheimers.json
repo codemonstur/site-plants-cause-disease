@@ -7,21 +7,22 @@
   ],
   "filteredAnecdotes": [
     "https://carnivore.diet/carnivore-for-alzheimers-prevention-a-no-brainer/",
-    "https://carnivore.diet/ashley-manages-multiple-sclerosis-on-the-carnivore-diet/",
     "https://carnivore.diet/meat-the-ultimate-superfood/",
-    "https://carnivore.diet/health-benefits/"
+    "https://carnivore.diet/health-benefits/",
+    "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
+    "https://carnivore.diet/gina-manages-ibs-anemia-joint-pain-migraines-anxiety-and-mood-on-the-carnivore-diet-2/"
   ],
   "anecdotes": [
     {
       "visible": true,
       "uri": "https://carnivore.diet/lisa-started-carnivore-diet-to-prevent-alzheimers-inflammation-and-depression/",
-      "title": "Lisa started Carnivore diet to prevent Alzheimer\u2019s, inflammation, and depression",
+      "title": "Lisa started Carnivore diet to prevent Alzheimer&#039;s, inflammation, and depression",
       "date": "April 18, 2021"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/volodymir-eliminated-acid-reflux-ibs-pyelonephritis-and-alzheimers-on-carnivore-diet/",
-      "title": "Volodymir eliminated acid reflux, IBS, pyelonephritis, and Alzheimer\u2019s on carnivore diet",
+      "title": "Volodymir eliminated acid reflux, IBS, pyelonephritis, and Alzheimer&#039;s on carnivore diet",
       "date": "March 30, 2021"
     },
     {
@@ -32,14 +33,8 @@
     },
     {
       "visible": true,
-      "uri": "https://carnivore.diet/gina-manages-ibs-anemia-joint-pain-migraines-anxiety-and-mood-on-the-carnivore-diet-2/",
-      "title": "Gina manages IBS, anemia, joint pain, migraines, anxiety, and mood on the carnivore diet",
-      "date": "April 25, 2023"
-    },
-    {
-      "visible": true,
       "uri": "https://carnivore.diet/gina-manages-ibs-anemia-joint-pain-migraines-anxiety-and-mood-on-the-carnivore-diet/",
-      "title": "Gina manages IBS, anemia, joint pain, migraines, anxiety, and mood on the carnivore diet",
+      "title": "Gina Manages IBS, Anemia &amp; More With Carnivore Diet",
       "date": "March 24, 2023"
     },
     {
@@ -49,49 +44,49 @@
       "date": "March 26, 2021"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-manages-multiple-sclerosis-on-the-carnivore-diet/",
+      "title": "Ashley manages multiple sclerosis on the carnivore diet",
+      "date": "March 22, 2023"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
-      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "title": "Gina Reversed Lupus, Sjogren&#039;s, Hashimoto&#039;s, and Mental Health Issues on a carnivore diet",
       "date": "January 31, 2021"
     },
     {
-      "visible": false,
-      "uri": "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
-      "title": "Cognitive function tips by coach Elizabeth B",
-      "date": "December 26, 2020"
-    },
-    {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
       "title": "Mariela restored her health from the damage of veganism",
       "date": "November 27, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
       "title": "Isaac lost weight (58 lbs) on a carnivore diet",
       "date": "March 21, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/larry-improved-heart-failure-pancreas-carnivore-diet/",
       "title": "Larry reversed diabetes on carnivore diet",
       "date": "December 2, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/dirks-sense-of-well-being-improves-carnivore-diet/",
-      "title": "Dirk\u2019s sense of well being is the best it has ever been after changing to a Carnivore Diet",
+      "title": "Dirk&#039;s sense of well being is the best it has ever been after changing to a Carnivore Diet",
       "date": "November 9, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/woman-improves-stomach-oral-eye-skin-issues-carnivore-diet/",
       "title": "Woman improves stomach, oral, eye and skin issues on a carnivore diet",
       "date": "October 30, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/barry-using-carnivore-diet-prevent-disease/",
       "title": "Barry is using a carnivore diet to prevent disease",
       "date": "February 28, 2019"

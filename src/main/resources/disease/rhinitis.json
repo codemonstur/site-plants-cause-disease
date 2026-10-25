@@ -8,7 +8,7 @@
   "filteredAnecdotes": [],
   "anecdotes": [
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/martin-lost-anxiety-paranoia-fatigue-rhinitis-carnivore-diet/",
       "title": "Martin lost anxiety, paranoia, fatigue, rhinitis on carnivore diet",
       "date": "October 31, 2018"

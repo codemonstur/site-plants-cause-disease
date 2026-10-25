@@ -16,7 +16,6 @@
     "https://carnivore.diet/meat-the-ultimate-superfood/",
     "https://carnivore.diet/digging-up-the-real-data-on-minerals/",
     "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
-    "https://carnivore.diet/anonymous-improved-anemia-digestive-problems-carnivore-diet/",
     "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
     "https://carnivore.diet/a-beginners-introduction-to-the-carnivore-diet/",
     "https://carnivore.diet/5-reasons-carnivore-diet-can-aid-in-drug-and-alcohol-recovery/"
@@ -59,51 +58,57 @@
       "date": "November 1, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/anonymous-improved-anemia-digestive-problems-carnivore-diet/",
+      "title": "Anonymous improved anemia and digestive problems on a carnivore diet",
+      "date": "October 30, 2018"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/brian-improved-energy-muscles-and-mood-on-the-carnivore-diet/",
       "title": "Brian improved energy, muscles, and mood on the carnivore diet",
       "date": "September 8, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/jonathan-improves-inflammation-and-anxiety-on-carnivore-diet/",
-      "title": "Jonathan improves inflammation and anxiety on carnivore diet",
+      "title": "Jonathan improves inflammation and anxiety on carnivore diet Jonathan improves inflammation and anxiety on carnivore diet",
       "date": "August 24, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/matt-improved-neurological-issues-speech-bloating-vision-and-fatigue-on-the-carnivore-diet/",
       "title": "Matt improved neurological issues, speech, bloating, vision, and fatigue on the carnivore diet",
       "date": "June 27, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/leigh-ann-overcame-ptsd-insulin-resistance-and-an-eating-disorder-on-a-carnivore-diet/",
-      "title": "Leigh Ann overcame PTSD, insulin resistance, and an eating disorder on a carnivore diet",
+      "title": "Leigh Ann Overcame Eating Disorder &amp; More on Carnivore Diet",
       "date": "March 22, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/tracey-recovers-constipation-fibrocystic-breasts-carnivore-diet/",
       "title": "Tracey recovers from allergies, fibrocystic breasts on carnivore diet",
       "date": "November 1, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/krissy-digestion-chronic-pain-mood-anxiety-carnivore-diet/",
       "title": "Krissy eliminated chronic pain on carnivore diet",
       "date": "March 28, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/danny-improved-liver-health-sleep-apnea-carnivore-diet/",
       "title": "Danny improved digestion, liver health and sleep apnea on carnivore diet",
       "date": "November 1, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/flexofighter-fluoroquinolone-toxicity-symptoms-carnivore-diet/",
-      "title": "Flexofighter improved Fluoroquinolone Toxicity Symptoms on carnivore diet",
+      "title": "Flexofighter Beat Fluoroquinolone Toxicity Symptoms on Carnivore",
       "date": "October 30, 2019"
     }
   ],

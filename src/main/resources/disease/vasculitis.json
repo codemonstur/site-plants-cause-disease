@@ -5,14 +5,10 @@
   "carnivoreDietSearchQueries": [
     "Vasculitis"
   ],
-  "filteredAnecdotes": [],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/irina-overcame-candida-infection-vitamin-d-deficiency-and-vasculitis-on-a-carnivore-diet/"
+  ],
   "anecdotes": [
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/irina-overcame-candida-infection-vitamin-d-deficiency-and-vasculitis-on-a-carnivore-diet/",
-      "title": "Irina overcame candida infection, vitamin D deficiency, and vasculitis on a carnivore diet",
-      "date": "January 19, 2023"
-    },
     {
       "visible": true,
       "uri": "https://carnivore.diet/chandler-treats-vasculitis-tendinitis-carnivore-diet/",
@@ -22,7 +18,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
-      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "title": "Noelle improved hypertension and Hashimoto&#039;s on a carnivore diet",
       "date": "March 7, 2025"
     }
   ],

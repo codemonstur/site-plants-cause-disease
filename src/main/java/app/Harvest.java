@@ -24,6 +24,8 @@ public enum Harvest {;
         final var gson = new Gson();
         final var diseases = loadDiseases(gson, listDiseases());
 
+        findAnecdotes(diseases);
+
         final var articleUrls = loadArticleUrls();
         final var knownWords = loadKnownWords();
 
@@ -37,6 +39,18 @@ public enum Harvest {;
     private static List<String> loadArticleUrls() throws IOException {
         return Arrays.asList(loadResource("/articles.txt", UTF_8).split("\n"));
     }
+    private static void findAnecdotes(final Disease[] diseases) {
+        final var carnivoreDiet = new HarvestCarnivoreDiet();
+
+        for (final var disease : diseases) {
+            if (disease.carnivoreDietSearchQueries() != null) {
+                for (final var query : disease.carnivoreDietSearchQueries()) {
+                    carnivoreDiet.findAnecdotes(disease.uri(), disease.filteredAnecdotes(), disease.anecdotes(), query);
+                }
+            }
+        }
+    }
+
     private static void findNewDiseases(final List<String> articleUrls, final Set<String> knownWords) {
         final var repo = new PageRepository();
 

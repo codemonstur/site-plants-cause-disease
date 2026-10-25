@@ -5,10 +5,15 @@
   "carnivoreDietSearchQueries": [
     "Caries"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/trevor-heals-from-depersonalization-body-pain-and-being-bed-ridden-on-a-carnivore-diet/"
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/trevor-heals-from-depersonalization-body-pain-and-being-bed-ridden-on-a-carnivore-diet/",
+      "title": "Trevor Overcomes Body Pain &amp; More On Carnivore Diet",
+      "date": "January 10, 2023"
+    }
   ],
-  "anecdotes": [],
   "definition": {
     "source": "https://www.ncbi.nlm.nih.gov/books/NBK551699/",
     "text": "Dental caries is a common chronic infectious resulting from tooth-adherent cariogenic bacteria, primarily Streptococcus Mutans, which metabolize sugars to produce acid, demineralizing the tooth structure over time."

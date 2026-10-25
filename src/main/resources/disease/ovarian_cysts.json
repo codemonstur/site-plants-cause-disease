@@ -5,11 +5,7 @@
   "carnivoreDietSearchQueries": [
     "Ovarian Cysts"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/katie-started-the-carnivore-diet-for-weight-loss-and-is-the-healthiest-she-has-ever-been/",
-    "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
-    "https://carnivore.diet/nevada-heals-pcos-prediabetes-eczema-carnivore-diet/"
-  ],
+  "filteredAnecdotes": [],
   "anecdotes": [
     {
       "visible": true,
@@ -26,7 +22,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/lees-fibromyalgia-anxiety-depression-carnivore-diet/",
-      "title": "Lee\u2019s depression vanished on a carnivore diet",
+      "title": "Lee&#039;s depression vanished on a carnivore diet",
       "date": "August 7, 2020"
     },
     {
@@ -40,6 +36,24 @@
       "uri": "https://carnivore.diet/mim-improved-reproductive-urinary-health-carnivore-diet/",
       "title": "Mim improved her eczema on a carnivore diet",
       "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/katie-started-the-carnivore-diet-for-weight-loss-and-is-the-healthiest-she-has-ever-been/",
+      "title": "Katie started the carnivore diet for weight loss and is the healthiest she has ever been",
+      "date": "February 16, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
+      "title": "Olivia improved hair, skin, thyroid, Hashimoto&#039;s, PCOS on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nevada-heals-pcos-prediabetes-eczema-carnivore-diet/",
+      "title": "Nevada heals PCOS, cauda equina syndrome, prediabetes on carnivore diet",
+      "date": "September 30, 2019"
     }
   ],
   "definition": {

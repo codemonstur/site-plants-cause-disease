@@ -10,33 +10,9 @@
     "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
     "https://carnivore.diet/carnivore-for-alzheimers-prevention-a-no-brainer/",
     "https://carnivore.diet/cognitive-function-tips-by-coach-elizabeth-b/",
-    "https://carnivore.diet/sara-manages-type-1-diabetes-on-a-low-carb-diet/",
-    "https://carnivore.diet/nanci-heals-osteopenia-carnivore-diet/",
-    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
-    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
-    "https://carnivore.diet/danny-improved-liver-health-sleep-apnea-carnivore-diet/",
-    "https://carnivore.diet/aaron-treats-auto-immune-issues-depression-carnivore-diet/",
-    "https://carnivore.diet/sarah-improves-autoimmune-conditions-arthritis-carnivore-diet/",
-    "https://carnivore.diet/rishi-improved-digestion-body-composition-carnivore-diet/",
-    "https://carnivore.diet/alex-improved-pain-carnivore-diet/",
-    "https://carnivore.diet/stephen-improved-psoriatic-arthritis-and-depression-on-the-carnivore-diet/",
-    "https://carnivore.diet/stepanka-improves-depression-anorexia-and-bulimia-on-a-carnivore-diet/",
-    "https://carnivore.diet/bill-healed-from-diabetes-arthritis-and-depression-on-the-carnivore-diet/",
-    "https://carnivore.diet/laura-improved-anxiety-depression-skin-issues-carnivore-diet/",
-    "https://carnivore.diet/todd-overcame-gout-depression-and-anxiety-on-a-carnivore-diet/",
-    "https://carnivore.diet/alysha-improved-digestion-and-depression-on-the-carnivore-diet/",
-    "https://carnivore.diet/mary-improved-fatigue-depression-and-anxiety-on-the-carnivore-diet/",
-    "https://carnivore.diet/pim-improved-anxiety-depression-and-ibs-on-the-carnivore-diet/",
-    "https://carnivore.diet/marina-manages-depression-and-weight-on-a-carnivore-diet/",
-    "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/"
+    "https://carnivore.diet/vajid-improved-endurance-and-weight-loss-on-the-carnivore-diet/"
   ],
   "anecdotes": [
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/vajid-improved-endurance-and-weight-loss-on-the-carnivore-diet/",
-      "title": "Vajid improved endurance and weight loss on the carnivore diet",
-      "date": "September 7, 2023"
-    },
     {
       "visible": true,
       "uri": "https://carnivore.diet/katya-raw-vegan-improved-digestion-bladder-kidney-carnivore/",
@@ -46,7 +22,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
-      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "title": "Mike Improved Skin, Chronic Pain, &amp; More on Carnivore Diet",
       "date": "February 6, 2020"
     },
     {
@@ -74,7 +50,121 @@
       "date": "October 10, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-manages-type-1-diabetes-on-a-low-carb-diet/",
+      "title": "Sara manages type 1 diabetes on a low-carb diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nanci-heals-osteopenia-carnivore-diet/",
+      "title": "Nanci heals from osteopenia on the carnivore diet",
+      "date": "July 20, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/danny-improved-liver-health-sleep-apnea-carnivore-diet/",
+      "title": "Danny improved digestion, liver health and sleep apnea on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/aaron-treats-auto-immune-issues-depression-carnivore-diet/",
+      "title": "Aaron treats auto-immune issues and depression on carnivore diet",
+      "date": "October 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sarah-improves-autoimmune-conditions-arthritis-carnivore-diet/",
+      "title": "Sarah improves autoimmune conditions, arthritis, weight on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rishi-improved-digestion-body-composition-carnivore-diet/",
+      "title": "Rishi improved digestion and body composition on a carnivore diet",
+      "date": "November 9, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alex-improved-pain-carnivore-diet/",
+      "title": "Alex improved his pain on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-improved-psoriatic-arthritis-and-depression-on-the-carnivore-diet/",
+      "title": "Stephen improved psoriatic arthritis and depression on the carnivore diet",
+      "date": "October 19, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stepanka-improves-depression-anorexia-and-bulimia-on-a-carnivore-diet/",
+      "title": "Stepanka improves depression, anorexia, and bulimia on a carnivore diet",
+      "date": "June 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/bill-healed-from-diabetes-arthritis-and-depression-on-the-carnivore-diet/",
+      "title": "Bill healed from diabetes, arthritis, and depression on the carnivore diet",
+      "date": "May 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/laura-improved-anxiety-depression-skin-issues-carnivore-diet/",
+      "title": "Laura improved anxiety, depression, and skin issues on a carnivore diet",
+      "date": "March 13, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/todd-overcame-gout-depression-and-anxiety-on-a-carnivore-diet/",
+      "title": "Todd overcame gout, depression, and anxiety on a carnivore diet",
+      "date": "October 26, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alysha-improved-digestion-and-depression-on-the-carnivore-diet/",
+      "title": "Alysha improved digestion and depression on the carnivore diet",
+      "date": "September 14, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mary-improved-fatigue-depression-and-anxiety-on-the-carnivore-diet/",
+      "title": "Mary improved fatigue, depression, and anxiety on the carnivore diet",
+      "date": "September 8, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/pim-improved-anxiety-depression-and-ibs-on-the-carnivore-diet/",
+      "title": "Pim improved anxiety, depression, and IBS on the carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marina-manages-depression-and-weight-on-a-carnivore-diet/",
+      "title": "Marina manages depression and weight on a carnivore diet Marina lost weight on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/",
+      "title": "Ashley &amp; Sarah overcome depression on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/stephen-improved-psoriatic-arthritis-on-the-carnivore-diet/",
       "title": "Stephen improved psoriatic arthritis and depression on the carnivore diet",
       "date": "October 19, 2024"

@@ -12,8 +12,8 @@
     "https://carnivore.diet/no-gallbladder-no-problem/",
     "https://carnivore.diet/carnivore-diet-success-stories/",
     "https://carnivore.diet/fasting-coach-certification/mock-interview/",
-    "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
-    "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/"
+    "https://carnivore.diet/robert-improved-ulcerative-colitis-carnivore-diet/",
+    "https://carnivore.diet/bruce-improved-digestion-and-ileostomy-output-on-a-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -25,13 +25,13 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-on-the-carnivore-diet/",
-      "title": "Robert improved ulcerative colitis on the carnivore diet",
+      "title": "From Carbs to Carnivore: How Robert Found Strength in Simplicity",
       "date": "August 29, 2023"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/travis-improved-mental-health-skin-issues-ulcerative-colitis-carnivore-diet/",
-      "title": "Travis improved mental health, skin issues, and ulcerative colitis on a carnivore diet",
+      "title": "Travis Improved Mental Health &amp; More On Carnivore Diet",
       "date": "January 6, 2023"
     },
     {
@@ -55,7 +55,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/swetas-carnivore-lifestyle-reversed-ulcerative-colitis-and-got-her-off-medication/",
-      "title": "Sweta\u2019s carnivore lifestyle reversed ulcerative colitis and got her off medication",
+      "title": "Sweta&#039;s carnivore lifestyle reversed ulcerative colitis and got her off medication",
       "date": "December 30, 2021"
     },
     {
@@ -84,12 +84,6 @@
     },
     {
       "visible": true,
-      "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-carnivore-diet/",
-      "title": "Robert improved his ulcerative colitis on a carnivore diet",
-      "date": "January 27, 2019"
-    },
-    {
-      "visible": true,
       "uri": "https://carnivore.diet/patrick-heals-diabetes-ulcerative-colitis-carnivore-diet/",
       "title": "Patrick healed from Ulcerative Colitis on a carnivore diet",
       "date": "October 31, 2018"
@@ -108,14 +102,8 @@
     },
     {
       "visible": true,
-      "uri": "https://carnivore.diet/bruce-improved-digestion-and-ileostomy-output-on-a-carnivore-diet/",
-      "title": "Bruce improved digestion and ileostomy output on a carnivore diet",
-      "date": "August 29, 2023"
-    },
-    {
-      "visible": true,
       "uri": "https://carnivore.diet/francesco-manages-anger-and-depression-on-a-carnivore-lifestyle/",
-      "title": "Francesco manages anger and depression on a carnivore lifestyle",
+      "title": "Francesco heals Ulcerative Colitis and depression on a carnivore lifestyle",
       "date": "November 24, 2021"
     },
     {
@@ -159,6 +147,18 @@
       "uri": "https://carnivore.diet/lori-improved-hypertension-and-ulcerative-colitis-on-a-carnivore-diet/",
       "title": "Lori improved hypertension and ulcerative colitis on a carnivore diet",
       "date": "March 3, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
+      "title": "Ramona and Doug improved digestion and metabolic markers on the carnivore diet",
+      "date": "April 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
+      "title": "Chris improved cardiovascular health, treated diabetes on carnivore diet",
+      "date": "October 5, 2019"
     }
   ],
   "definition": {

@@ -10,10 +10,8 @@
     "https://carnivore.diet/plants-are-out-to-poison-you/",
     "https://carnivore.diet/anti-nutrients/",
     "https://carnivore.diet/guides/carnivore-guide/9-gall-bladder/",
-    "https://carnivore.diet/matt-healed-joint-pain-following-carnivore-diet/",
-    "https://carnivore.diet/william-improved-fatigue-brain-fog-acne-carnivore-diet/",
-    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
-    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+    "https://carnivore.diet/chris-treats-diverticulitis-gout-depression-carnivore-diet/",
+    "https://carnivore.diet/milian-healed-hemorrhoids-digestion-issues-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -21,12 +19,6 @@
       "uri": "https://carnivore.diet/jean-heals-kidney-stones-unitary-tract-issues-carnivore-diet/",
       "title": "Jean heals from kidney stones on a carnivore diet",
       "date": "October 31, 2019"
-    },
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/chris-treats-diverticulitis-gout-depression-carnivore-diet/",
-      "title": "Chris treats diverticulitis, sleep apnea, kidney stones on carnivore diet",
-      "date": "September 30, 2019"
     },
     {
       "visible": true,
@@ -43,7 +35,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
-      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "title": "Dunja healed Hashimoto&#039;s and Alex healed perforated colon",
       "date": "May 6, 2022"
     },
     {
@@ -57,12 +49,6 @@
       "uri": "https://carnivore.diet/dwayne-improved-asthma-mood-skin-kidney-stones-carnivore-diet/",
       "title": "Dwayne improved asthma, mood and skin a carnivore diet",
       "date": "March 28, 2020"
-    },
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/milian-healed-hemorrhoids-digestion-issues-carnivore-diet/",
-      "title": "Milian heals hemorrhoids on a carnivore diet",
-      "date": "October 31, 2018"
     },
     {
       "visible": true,
@@ -81,6 +67,30 @@
       "uri": "https://carnivore.diet/chris-improved-diabetes-respiratory-issues-carnivore-diet/",
       "title": "Chris improved cardiovascular health, treated diabetes on carnivore diet",
       "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/matt-healed-joint-pain-following-carnivore-diet/",
+      "title": "Matt no longer has joint pain following a carnivore diet",
+      "date": "October 26, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/william-improved-fatigue-brain-fog-acne-carnivore-diet/",
+      "title": "William improved fatigue, brain fog and acne on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
     }
   ],
   "definition": {

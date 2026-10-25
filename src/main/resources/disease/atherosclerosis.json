@@ -8,11 +8,22 @@
   "filteredAnecdotes": [
     "https://carnivore.diet/meat-the-ultimate-superfood/",
     "https://carnivore.diet/thyroid-function-tips-by-coach-elizabeth-b/",
-    "https://carnivore.diet/heart-health-resources/",
-    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
-    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+    "https://carnivore.diet/heart-health-resources/"
   ],
-  "anecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    }
+  ],
   "definition": {
     "source": "https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/symptoms-causes/syc-20350569",
     "text": "Atherosclerosis is a specific type of arteriosclerosis. Atherosclerosis is the buildup of fats, cholesterol and other substances in and on the artery walls. This buildup is called plaque. The plaque can cause arteries to narrow, blocking blood flow. The plaque can also burst, leading to a blood clot. Although atherosclerosis is often considered a heart problem, it can affect arteries anywhere in the body. Atherosclerosis can be treated. Healthy lifestyle habits can help prevent atherosclerosis."

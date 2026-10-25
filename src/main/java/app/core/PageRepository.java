@@ -50,11 +50,13 @@ public final class PageRepository {
         return new ChromeDriver(options);
     }
 
-    public static synchronized String downloadPage(final String url) {
-//        return Jsoup.connect(url).execute().body();
-
-        chrome().get(url);
-        return chrome().getPageSource();
+    public static synchronized String downloadPage(final String url) throws IOException {
+        // Jsoup is used instead of Selenium/Chrome: it is lighter, needs no browser and works
+        // for carnivore.diet. Switch back to chrome().get(url) if JavaScript rendering is needed.
+        return Jsoup.connect(url)
+            .userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+            .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
+            .get().outerHtml();
     }
 
 }

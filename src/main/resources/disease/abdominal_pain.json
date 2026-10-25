@@ -8,16 +8,9 @@
   ],
   "filteredAnecdotes": [
     "https://carnivore.diet/anti-nutrients/",
-    "https://carnivore.diet/david-t-overcame-depression-obesity-pain-from-car-accident-on-carnivore-diet/",
-    "https://carnivore.diet/nathan-improves-back-pain-joint-pain-sleep-carnivore-diet/",
     "https://carnivore.diet/the-red-meat-cancer-risk-doesnt-add-up/",
-    "https://carnivore.diet/chandler-reversed-non-alcoholic-fatty-liver-gi-issues-and-inflammation-on-carnivore-diet/",
-    "https://carnivore.diet/william-improved-joint-pain-depression-anxiety-carnivore-diet/",
-    "https://carnivore.diet/laney-lost-weight-improved-anemia-fatigue-carnivore-diet/",
-    "https://carnivore.diet/stephen-lost-weight-got-off-opioids-on-a-carnivore-diet/",
-    "https://carnivore.diet/zane-improved-fitness-mental-health-arthritis-carnivore-diet/",
-    "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/",
-    "https://carnivore.diet/carnivore-diet-tips/"
+    "https://carnivore.diet/carnivore-diet-tips/",
+    "https://carnivore.diet/getting-started-carnivore-transition-period-by-coach-elizabeth-b/"
   ],
   "anecdotes": [
     {
@@ -59,7 +52,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/joel-improved-crohns-disease-skin-fitness-carnivore-diet/",
-      "title": "Joel improved Crohn\u2019s disease on carnivore diet",
+      "title": "Joel improved Crohn&#039;s disease on carnivore diet",
       "date": "December 17, 2019"
     },
     {
@@ -113,7 +106,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/galen-healed-crohns-disease-chronic-fatigue-carnivore-diet/",
-      "title": "Galen healed Crohn\u2019s disease on a carnivore diet",
+      "title": "Galen healed Crohn&#039;s disease on a carnivore diet",
       "date": "October 30, 2018"
     },
     {
@@ -137,101 +130,143 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
-      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "title": "M. G. treated celiac, Crohn&#039;s disease, carpal tunnel, TMJ on carnivore diet",
       "date": "November 1, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/david-t-overcame-depression-obesity-pain-from-car-accident-on-carnivore-diet/",
+      "title": "David T overcame depression, obesity, pain from car accident on carnivore diet",
+      "date": "June 22, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/nathan-improves-back-pain-joint-pain-sleep-carnivore-diet/",
+      "title": "Nathan improves back pain, joint pain, and sleep on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chandler-reversed-non-alcoholic-fatty-liver-gi-issues-and-inflammation-on-carnivore-diet/",
+      "title": "Chandler reversed non-alcoholic fatty liver, GI issues, and inflammation on carnivore diet",
+      "date": "March 22, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/william-improved-joint-pain-depression-anxiety-carnivore-diet/",
+      "title": "William got his life back on carnivore diet",
+      "date": "January 2, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/laney-lost-weight-improved-anemia-fatigue-carnivore-diet/",
+      "title": "Laney lost weight, improved anemia and fatigue on a carnivore diet",
+      "date": "November 25, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-lost-weight-got-off-opioids-on-a-carnivore-diet/",
+      "title": "Stephen lost weight, improved arthritis, and got off opioids on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/zane-improved-fitness-mental-health-arthritis-carnivore-diet/",
+      "title": "Zane improved his mood and fitness on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/",
+      "title": "Warren improved arthritis on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/brian-improved-headaches-fatigue-on-carnivore-diet/",
       "title": "Brian improved his headaches and fatigue on a carnivore diet",
       "date": "October 20, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/tammy-heals-from-arthritis-and-depression-on-a-carnivore-diet/",
       "title": "Tammy heals from arthritis and depression on a carnivore diet",
       "date": "February 6, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/daniel-improves-digestion-weight-loss-carnivore-diet/",
       "title": "Daniel improves his digestion and weight loss on a carnivore diet",
       "date": "October 5, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/eric-improved-fatigue-and-mental-health-on-the-carnivore-diet/",
       "title": "Eric improved fatigue and mental health on the carnivore diet",
       "date": "September 14, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/marina-manages-depression-and-weight-on-a-carnivore-diet/",
-      "title": "Marina manages depression and weight on a carnivore diet",
+      "title": "Marina manages depression and weight on a carnivore diet Marina lost weight on a carnivore diet",
       "date": "August 17, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/valerie-improved-digestion-bloating-on-carnivore-diet/",
       "title": "Valerie improved her digestion and bloating on a carnivore diet",
       "date": "November 3, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/kurt-improved-digestion-mood-anxiety-carnivore-diet/",
       "title": "Kurt improved his digestion, mood and anxiety on a carnivore diet",
       "date": "March 28, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/jenni-lost-weight-improved-eczema-carnivore-diet/",
       "title": "Jenni healed from eczema on a carnivore diet",
       "date": "October 30, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/kristen-improved-reproductive-health-fatigue-carnivore-diet/",
       "title": "Kristen improved overall health on a carnivore diet",
       "date": "October 10, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/bronson-improved-weight-and-digestion-on-the-carnivore-diet/",
       "title": "Bronson improved weight and digestion on the carnivore diet",
       "date": "September 14, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/jake-improved-acid-reflux-and-emotional-stability-on-a-carnivore-diet/",
-      "title": "Jake improved acid reflux and emotional stability on a carnivore diet",
+      "title": "Jake improved acid reflux and emotional stability on a carnivore diet Jake improved GERD on a carnivore diet",
       "date": "August 17, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/ramona-and-doug-improved-digestion-metabolic-markers-on-carnivore-diet/",
       "title": "Ramona and Doug improved digestion and metabolic markers on the carnivore diet",
       "date": "April 28, 2023"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/jessalyn-improved-acne-constipation-mood-swings-carnivore-diet/",
-      "title": "Jessalyn improved acne, constipation, weight gain, and mood swings on a carnivore diet",
+      "title": "Jessalyn Improved Acne, Constipation &amp; More on Carnivore Diet",
       "date": "December 18, 2022"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/claire-overcomes-microscopic-colitis-on-the-carnivore-diet/",
       "title": "Claire heals microscopic colitis on the carnivore diet",
       "date": "July 3, 2022"
     },
     {
-      "visible": false,
-      "uri": "https://carnivore.diet/getting-started-carnivore-transition-period-by-coach-elizabeth-b/",
-      "title": "Getting started & carnivore transition period by coach Elizabeth B",
-      "date": "December 27, 2020"
-    },
-    {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
       "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
       "date": "November 1, 2018"

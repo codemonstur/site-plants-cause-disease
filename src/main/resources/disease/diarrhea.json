@@ -18,10 +18,7 @@
     "https://carnivore.diet/guides/carnivore-guide/6-transition-bowel-movements/",
     "https://carnivore.diet/guides/carnivore-guide/5-common-transition-symptoms/",
     "https://carnivore.diet/carnivore-coach-training/carnivore-training-courses/module-7/",
-    "https://carnivore.diet/carnivore-diet-old/",
-    "https://carnivore.diet/michel-improved-performance-on-carnivore-diet/",
-    "https://carnivore.diet/joels-arthritis-spine-issues-and-chronic-tendinitis-in-full-remission-on-carnivore-diet/",
-    "https://carnivore.diet/steve-reduced-symptoms-restless-leg-syndrome-on-carnivore-diet/"
+    "https://carnivore.diet/carnivore-diet-old/"
   ],
   "anecdotes": [
     {
@@ -33,7 +30,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/",
-      "title": "Ashley & Sarah fight depression on a carnivore diet",
+      "title": "Ashley &amp; Sarah overcome depression on a carnivore diet",
       "date": "August 17, 2023"
     },
     {
@@ -51,13 +48,13 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/rachels-autistic-daughter-improves-speech-and-communication-on-the-carnivore-diet/",
-      "title": "Rachel\u2019s autistic daughter improves speech and communication on the carnivore diet",
+      "title": "Rachel&#039;s autistic daughter improves speech and communication on the carnivore diet",
       "date": "April 25, 2023"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/rory-improved-joint-pain-skin-gut-energy-carnivore-diet/",
-      "title": "Rory improved Joint Pain, Skin problems, Gut Health, and aches On The Carnivore Diet",
+      "title": "Rory Improved Joint Pain, Gut Health, &amp; More on Carnivore Diet",
       "date": "March 22, 2023"
     },
     {
@@ -93,7 +90,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
-      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "title": "Dunja healed Hashimoto&#039;s and Alex healed perforated colon",
       "date": "May 6, 2022"
     },
     {
@@ -123,7 +120,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/brett-reversed-gerd-no-longer-suffers-from-joint-and-neck-pain-on-a-carnivore-lifestyle/",
-      "title": "Brett reversed GERD, no longer suffers from joint and neck pain on a carnivore lifestyle",
+      "title": "Brett Reversed GERD, Eliminated Joint Pain With Carnivore Diet",
       "date": "December 30, 2021"
     },
     {
@@ -165,7 +162,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/coreys-carnivore-journey-allowed-him-to-overcome-a-weight-loss-plateau/",
-      "title": "Corey\u2019s carnivore journey allowed him to overcome a weight loss plateau",
+      "title": "Corey&#039;s carnivore journey allowed him to overcome a weight loss plateau",
       "date": "October 9, 2021"
     },
     {
@@ -177,7 +174,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/ryans-crohns-symptoms-healed-on-carnivore-diet/",
-      "title": "Ryan Healed his Crohn\u2019s disease symptoms on a carnivore diet",
+      "title": "Ryan Healed his Crohn&#039;s disease symptoms on a carnivore diet",
       "date": "June 4, 2021"
     },
     {
@@ -333,7 +330,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
-      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "title": "M. G. treated celiac, Crohn&#039;s disease, carpal tunnel, TMJ on carnivore diet",
       "date": "November 1, 2018"
     },
     {
@@ -369,7 +366,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/galen-healed-crohns-disease-chronic-fatigue-carnivore-diet/",
-      "title": "Galen healed Crohn\u2019s disease on a carnivore diet",
+      "title": "Galen healed Crohn&#039;s disease on a carnivore diet",
       "date": "October 30, 2018"
     },
     {
@@ -407,6 +404,24 @@
       "uri": "https://carnivore.diet/shaun-improves-digestion-energy-levels-carnivore-diet/",
       "title": "Shaun improves weight loss, digestion, and energy levels on a carnivore diet",
       "date": "September 30, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/michel-improved-performance-on-carnivore-diet/",
+      "title": "Michel improved performance on carnivore diet",
+      "date": "May 5, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/joels-arthritis-spine-issues-and-chronic-tendinitis-in-full-remission-on-carnivore-diet/",
+      "title": "Joel&#039;s arthritis, spine issues and chronic tendinitis in full remission on carnivore diet",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steve-reduced-symptoms-restless-leg-syndrome-on-carnivore-diet/",
+      "title": "Steve reduced symptoms of restless leg syndrome on a carnivore diet",
+      "date": "November 19, 2020"
     }
   ],
   "definition": {

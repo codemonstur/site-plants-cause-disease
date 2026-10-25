@@ -7,9 +7,7 @@
     "Coeliac"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/anti-nutrients/",
-    "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/",
-    "https://carnivore.diet/john-lost-weight-improved-pain-skin-carnivore-diet/"
+    "https://carnivore.diet/anti-nutrients/"
   ],
   "anecdotes": [
     {
@@ -21,7 +19,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
-      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "title": "M. G. treated celiac, Crohn&#039;s disease, carpal tunnel, TMJ on carnivore diet",
       "date": "November 1, 2018"
     },
     {
@@ -91,7 +89,19 @@
       "date": "September 30, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/",
+      "title": "Melanie put Raynaud&#039;s syndrome into remission and improved libido on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/john-lost-weight-improved-pain-skin-carnivore-diet/",
+      "title": "John lost weight, improved his pain and skin on a carnivore diet",
+      "date": "February 26, 2020"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/tammy-heals-from-arthritis-and-depression-on-a-carnivore-diet/",
       "title": "Tammy heals from arthritis and depression on a carnivore diet",
       "date": "February 6, 2025"

@@ -7,14 +7,7 @@
   ],
   "filteredAnecdotes": [
     "https://carnivore.diet/wont-an-all-meat-diet-give-me-scurvy/",
-    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
-    "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
-    "https://carnivore.diet/stephanie-eliminated-inflammation-pain-weight-on-a-carnivore-lifestyle/",
-    "https://carnivore.diet/crystal-improved-pms-sleep-carnivore-diet/",
-    "https://carnivore.diet/kristen-improved-reproductive-health-fatigue-carnivore-diet/",
-    "https://carnivore.diet/tom-improved-digestion-pain-respiratory-issues-carnivore-diet/",
-    "https://carnivore.diet/keto-endurance-improves-fitness-joint-pain-carnivore-diet/",
-    "https://carnivore.diet/udo-improved-dental-health-mood-mental-health-carnivore-diet/"
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/"
   ],
   "anecdotes": [
     {
@@ -22,6 +15,48 @@
       "uri": "https://carnivore.diet/lycan-got-scurvy-eating-fruit-healed-carnivore-diet/",
       "title": "Carly got scurvy from eating fruit and healed it on a carnivore diet",
       "date": "November 21, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
+      "title": "Ollie improves depersonalisation, hallucinations, and cyclothymia on a low-carb diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephanie-eliminated-inflammation-pain-weight-on-a-carnivore-lifestyle/",
+      "title": "Stephanie Eliminated Inflammation &amp; Weight With Carnivore Diet",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/crystal-improved-pms-sleep-carnivore-diet/",
+      "title": "Crystal improved PMS and sleep on a carnivore diet",
+      "date": "December 19, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/kristen-improved-reproductive-health-fatigue-carnivore-diet/",
+      "title": "Kristen improved overall health on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tom-improved-digestion-pain-respiratory-issues-carnivore-diet/",
+      "title": "Tom improved cardiovascular health, digestion, fitness on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/keto-endurance-improves-fitness-joint-pain-carnivore-diet/",
+      "title": "Keto Endurance improves fitness, joint pain, weight loss on carnivore diet",
+      "date": "October 5, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/udo-improved-dental-health-mood-mental-health-carnivore-diet/",
+      "title": "Udo lost weight and improved mental health on a carnivore diet",
+      "date": "October 10, 2018"
     }
   ],
   "definition": {

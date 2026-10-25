@@ -9,12 +9,7 @@
     "https://carnivore.diet/how-to-lose-weight-with-a-carnivore-diet/",
     "https://carnivore.diet/health-benefits/",
     "https://carnivore.diet/coach-program/coaches-knowledge-share/",
-    "https://carnivore.diet/conferences/",
-    "https://carnivore.diet/emily-j-manages-type-1-diabetes-ibs-strength-pain-and-acne-on-a-carnivore-diet/",
-    "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
-    "https://carnivore.diet/lasse-no-longer-has-migraines-carnivore-diet/",
-    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
-    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+    "https://carnivore.diet/conferences/"
   ],
   "anecdotes": [
     {
@@ -32,7 +27,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/mirella-hasnt-has-a-grand-mal-absence-seizure-after-a-carnivore-diet/",
-      "title": "Mirella hasn\u2019t had a grand mal or absence seizure since staring a carnivore diet",
+      "title": "Mirella hasn&#039;t had a grand mal or absence seizure since staring a carnivore diet",
       "date": "October 28, 2020"
     },
     {
@@ -42,7 +37,37 @@
       "date": "June 18, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/emily-j-manages-type-1-diabetes-ibs-strength-pain-and-acne-on-a-carnivore-diet/",
+      "title": "Emily J manages type 1 diabetes, IBS, strength, pain, and acne on a carnivore diet",
+      "date": "July 7, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ollie-improves-depersonalisation-hallucinations-and-cyclothymia-on-a-low-carb-diet/",
+      "title": "Ollie improves depersonalisation, hallucinations, and cyclothymia on a low-carb diet",
+      "date": "January 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lasse-no-longer-has-migraines-carnivore-diet/",
+      "title": "Lasse No Longer Has Migraines On The Carnivore Diet",
+      "date": "September 12, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/beatriz-healed-rheumatoid-arthritis-on-a-carnivore-diet/",
       "title": "Beatriz healed rheumatoid arthritis on a carnivore diet",
       "date": "April 1, 2025"

@@ -11,7 +11,6 @@
     "https://carnivore.diet/coach-program/coaches-knowledge-share/",
     "https://carnivore.diet/carnivore-diet-old/",
     "https://carnivore.diet/patient-testimonials-eliminating-medication-on-carnivore-diet/",
-    "https://carnivore.diet/carly-treats-endometriosis-digestion-eczema-carnivore-diet/",
     "https://carnivore.diet/carnivore-diet-faq/",
     "https://carnivore.diet/carnivore-diet-success-stories/"
   ],
@@ -25,13 +24,13 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/maria-manages-pcos-ibs-and-lyme-on-a-carnivore-diet/",
-      "title": "Maria manages PCOS, IBS, and Lyme on a carnivore diet",
+      "title": "Maria manages PCOS, IBS, and Lyme on a carnivore diet Maria manages PCOS, IBS, and Lyme on a carnivore diet",
       "date": "August 22, 2023"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/craig-e-manages-pain-and-lyme-disease-on-a-carnivore-diet/",
-      "title": "Craig E manages pain and Lyme disease on a carnivore diet",
+      "title": "Craig E manages pain and Lyme disease on a carnivore diet Craig manages pain on carnivore diet",
       "date": "August 17, 2023"
     },
     {
@@ -49,7 +48,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/astrids-lyme-and-cfs-in-remission-thanks-to-a-carnivore-lifestyle/",
-      "title": "Astrid\u2019s Lyme and CFS in remission thanks to a Carnivore lifestyle",
+      "title": "Astrid&#039;s Lyme and CFS in remission thanks to a Carnivore lifestyle",
       "date": "March 30, 2021"
     },
     {
@@ -131,7 +130,13 @@
       "date": "October 22, 2021"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/carly-treats-endometriosis-digestion-eczema-carnivore-diet/",
+      "title": "Carly treats endometriosis, digestion, eczema, joint pain on carnivore diet",
+      "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/kevin-is-fighting-off-multiple-sclerosis-on-a-carnivore-diet/",
       "title": "Kevin is fighting off multiple sclerosis on a carnivore diet",
       "date": "June 10, 2022"

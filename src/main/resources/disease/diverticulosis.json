@@ -9,7 +9,8 @@
   "filteredAnecdotes": [
     "https://carnivore.diet/",
     "https://carnivore.diet/carnivore-diet-success-stories/",
-    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/"
+    "https://carnivore.diet/is-dietary-fiber-necessary-for-a-healthy-diet-2/",
+    "https://carnivore.diet/chris-treats-diverticulitis-gout-depression-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -26,14 +27,8 @@
     },
     {
       "visible": true,
-      "uri": "https://carnivore.diet/chris-treats-diverticulitis-gout-depression-carnivore-diet/",
-      "title": "Chris treats diverticulitis, sleep apnea, kidney stones on carnivore diet",
-      "date": "September 30, 2019"
-    },
-    {
-      "visible": true,
       "uri": "https://carnivore.diet/raymond-heals-diverticulitis-plantar-fasciitis-carnivore-diet/",
-      "title": "Raymond heals prediabetes, sugar addiction, diverticulitis on carnivore diet",
+      "title": "Raymond Heals Prediabetes and More With the Carnivore Diet",
       "date": "September 30, 2019"
     },
     {
@@ -63,7 +58,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
-      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "title": "Dunja healed Hashimoto&#039;s and Alex healed perforated colon",
       "date": "May 6, 2022"
     },
     {
@@ -75,7 +70,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
-      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "title": "Mike Improved Skin, Chronic Pain, &amp; More on Carnivore Diet",
       "date": "February 6, 2020"
     },
     {

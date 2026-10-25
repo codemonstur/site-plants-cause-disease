@@ -9,9 +9,7 @@
   "filteredAnecdotes": [
     "https://carnivore.diet/carnivore-diet-tips/",
     "https://carnivore.diet/no-gallbladder-no-problem/",
-    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
-    "https://carnivore.diet/rob-eliminated-gerd-sleep-apnoea-snoring-and-nocturia-on-a-carnivore-lifestyle/",
-    "https://carnivore.diet/tyler-improved-weight-gerd-pain-mobility-depression-and-high-blood-pressure-on-a-carnivore-diet/"
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -35,7 +33,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/brett-reversed-gerd-no-longer-suffers-from-joint-and-neck-pain-on-a-carnivore-lifestyle/",
-      "title": "Brett reversed GERD, no longer suffers from joint and neck pain on a carnivore lifestyle",
+      "title": "Brett Reversed GERD, Eliminated Joint Pain With Carnivore Diet",
       "date": "December 30, 2021"
     },
     {
@@ -65,7 +63,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/rays-scale-no-longer-dies-beneath-him/",
-      "title": "Ray\u2019s Scale No Longer Dies Beneath Him",
+      "title": "Ray&#039;s Scale No Longer Dies Beneath Him",
       "date": "June 21, 2022"
     },
     {
@@ -77,7 +75,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/katherines-lupus-flares-have-subsided-on-carnivore-diet/",
-      "title": "Katherine\u2019s lupus flares have subsided since starting the carnivore diet",
+      "title": "Katherine&#039;s lupus flares have subsided since starting the carnivore diet",
       "date": "November 19, 2020"
     },
     {
@@ -109,6 +107,18 @@
       "uri": "https://carnivore.diet/elton-improved-rumination-syndrome-carnivore-diet/",
       "title": "Elton improved his rumination syndrome of a carnivore diet",
       "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rob-eliminated-gerd-sleep-apnoea-snoring-and-nocturia-on-a-carnivore-lifestyle/",
+      "title": "Rob eliminated GERD, sleep apnoea (snoring), and nocturia on a Carnivore lifestyle",
+      "date": "December 30, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/tyler-improved-weight-gerd-pain-mobility-depression-and-high-blood-pressure-on-a-carnivore-diet/",
+      "title": "Tyler improved weight, GERD, pain, mobility, depression, and high blood pressure on a carnivore diet",
+      "date": "July 1, 2023"
     }
   ],
   "definition": {

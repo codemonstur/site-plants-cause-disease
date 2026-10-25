@@ -5,11 +5,7 @@
   "carnivoreDietSearchQueries": [
     "Incontinence"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/amanda-loses-weight-on-the-carnivore-diet/",
-    "https://carnivore.diet/melissa-overcame-sugar-addiction-high-blood-pressure-and-arthritis-on-a-carnivore-diet/",
-    "https://carnivore.diet/amy-improved-asthma-relationship-with-food-carnivore-diet/"
-  ],
+  "filteredAnecdotes": [],
   "anecdotes": [
     {
       "visible": true,
@@ -30,7 +26,25 @@
       "date": "October 5, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/amanda-loses-weight-on-the-carnivore-diet/",
+      "title": "Amanda loses weight on the carnivore diet",
+      "date": "March 28, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/melissa-overcame-sugar-addiction-high-blood-pressure-and-arthritis-on-a-carnivore-diet/",
+      "title": "Melissa overcame sugar addiction, high blood pressure, and arthritis on a Carnivore diet",
+      "date": "March 26, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/amy-improved-asthma-relationship-with-food-carnivore-diet/",
+      "title": "Amy improved skin, asthma, and relationship with food on carnivore diet",
+      "date": "December 20, 2019"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/carl-improved-anxiety-and-depression-on-a-carnivore-diet/",
       "title": "Carl improved anxiety and depression on a carnivore diet",
       "date": "March 3, 2025"

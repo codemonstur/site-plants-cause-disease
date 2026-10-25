@@ -5,14 +5,10 @@
   "carnivoreDietSearchQueries": [
     "Gingivitis"
   ],
-  "filteredAnecdotes": [],
+  "filteredAnecdotes": [
+    "https://carnivore.diet/vajid-improved-endurance-and-weight-loss-on-the-carnivore-diet/"
+  ],
   "anecdotes": [
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/vajid-improved-endurance-and-weight-loss-on-the-carnivore-diet/",
-      "title": "Vajid improved endurance and weight loss on the carnivore diet",
-      "date": "September 7, 2023"
-    },
     {
       "visible": true,
       "uri": "https://carnivore.diet/nathan-recovers-from-guillain-barre-syndrome-on-the-carnivore-diet/",
@@ -22,7 +18,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/joels-arthritis-spine-issues-and-chronic-tendinitis-in-full-remission-on-carnivore-diet/",
-      "title": "Joel\u2019s arthritis, spine issues and chronic tendinitis in full remission on carnivore diet",
+      "title": "Joel&#039;s arthritis, spine issues and chronic tendinitis in full remission on carnivore diet",
       "date": "December 30, 2021"
     },
     {

@@ -5,10 +5,7 @@
   "carnivoreDietSearchQueries": [
     "Hernia"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/heath-improved-tendinitis-dandruff-hemorrhoids-carnivore-diet/",
-    "https://carnivore.diet/stephen-lost-weight-got-off-opioids-on-a-carnivore-diet/"
-  ],
+  "filteredAnecdotes": [],
   "anecdotes": [
     {
       "visible": true,
@@ -119,7 +116,19 @@
       "date": "October 10, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/heath-improved-tendinitis-dandruff-hemorrhoids-carnivore-diet/",
+      "title": "Heath fixed his metabolic syndrome on carnivore diet",
+      "date": "February 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/stephen-lost-weight-got-off-opioids-on-a-carnivore-diet/",
+      "title": "Stephen lost weight, improved arthritis, and got off opioids on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/chris-improved-arthritis-tendinitis-and-lost-weight-on-carnivore-diet/",
       "title": "Chris Improved Arthritis and Tendinitis On a Carnivore Diet",
       "date": "January 1, 2018"

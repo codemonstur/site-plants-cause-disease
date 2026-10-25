@@ -8,21 +8,21 @@
   "filteredAnecdotes": [],
   "anecdotes": [
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
-      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "title": "Gina Reversed Lupus, Sjogren&#039;s, Hashimoto&#039;s, and Mental Health Issues on a carnivore diet",
       "date": "January 31, 2021"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/mike-b-improved-rheumatoid-arthritis-on-a-carnivore-diet/",
       "title": "Mike B improved rheumatoid arthritis on a carnivore diet",
       "date": "March 12, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
-      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "title": "Noelle improved hypertension and Hashimoto&#039;s on a carnivore diet",
       "date": "March 7, 2025"
     }
   ],

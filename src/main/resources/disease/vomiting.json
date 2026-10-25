@@ -9,12 +9,7 @@
   "filteredAnecdotes": [
     "https://carnivore.diet/carnivore-diet-side-effects/",
     "https://carnivore.diet/no-gallbladder-no-problem/",
-    "https://carnivore.diet/carnivore-diet-tips/",
-    "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
-    "https://carnivore.diet/mimi-improved-rheumatoid-arthritis-parkinsons-disease-and-osteopenia-on-the-carnivore-diet/",
-    "https://carnivore.diet/josh-carnivore-transformation/",
-    "https://carnivore.diet/lauren-improves-digestion-fitness-skin-carnivore-diet/",
-    "https://carnivore.diet/rob-treated-ankylosing-spondylitis-arthritis-carnivore-diet/"
+    "https://carnivore.diet/carnivore-diet-tips/"
   ],
   "anecdotes": [
     {
@@ -92,7 +87,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/mg-treated-celiac-chrons-disease-carpal-tunnel-carnivore-diet/",
-      "title": "M. G. treated celiac, Crohn\u2019s disease, carpal tunnel, TMJ on carnivore diet",
+      "title": "M. G. treated celiac, Crohn&#039;s disease, carpal tunnel, TMJ on carnivore diet",
       "date": "November 1, 2018"
     },
     {
@@ -128,7 +123,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/marina-manages-depression-and-weight-on-a-carnivore-diet/",
-      "title": "Marina manages depression and weight on a carnivore diet",
+      "title": "Marina manages depression and weight on a carnivore diet Marina lost weight on a carnivore diet",
       "date": "August 17, 2023"
     },
     {
@@ -234,31 +229,61 @@
       "date": "September 30, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
+      "title": "Phillip improved digestion, mood, mental health, and skin on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mimi-improved-rheumatoid-arthritis-parkinsons-disease-and-osteopenia-on-the-carnivore-diet/",
+      "title": "Mimi improved rheumatoid arthritis, Parkinson&#039;s disease, and osteopenia on the carnivore diet",
+      "date": "March 7, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/josh-carnivore-transformation/",
+      "title": "Josh Carnivore Transformation",
+      "date": "November 9, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lauren-improves-digestion-fitness-skin-carnivore-diet/",
+      "title": "Lauren improves her skin on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/rob-treated-ankylosing-spondylitis-arthritis-carnivore-diet/",
+      "title": "Rob improved his ankylosing spondylitis on a carnivore diet",
+      "date": "October 5, 2018"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/chad-improved-anxiety-and-ptsd-on-a-carnivore-diet/",
       "title": "Chad improved anxiety and PTSD on a carnivore diet",
       "date": "February 21, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/lauren/",
       "title": "Lauren",
       "date": "May 30, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/renee-improved-chronic-inflammatory-demyelinating-polyneuropathy-on-a-carnivore-diet/",
       "title": "Renee improved chronic inflammatory demyelinating polyneuropathy on a carnivore diet",
       "date": "March 19, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/jenny-improved-neuropathy-and-fatigue-on-a-carnivore-diet/",
       "title": "Jenny improved neuropathy and fatigue on a carnivore diet",
       "date": "March 6, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/rebecca-managed-multiple-sclerosis-and-eczema-on-a-carnivore-diet/",
       "title": "Rebecca managed multiple sclerosis and eczema on a carnivore diet",
       "date": "February 6, 2025"

@@ -6,26 +6,12 @@
     "Rheumatoid Arthritis",
     "Rheuma"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/dawn-osteoarthritis-menopause-symptoms-carnivore-diet/",
-    "https://carnivore.diet/sara-manages-type-1-diabetes-on-a-low-carb-diet/",
-    "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
-    "https://carnivore.diet/alex-improved-pain-carnivore-diet/",
-    "https://carnivore.diet/jeffrey-improved-psoriasis-and-ankylosing-spondylitis-on-carnivore-diet/",
-    "https://carnivore.diet/sean-manages-joint-pain-and-seizures-on-a-carnivore-diet/",
-    "https://carnivore.diet/phil-improved-arthritis-and-muscle-mass-on-the-carnivore-diet/",
-    "https://carnivore.diet/ventilator-survivor-improves-digestion-acid-reflux-a1c-and-weight-loss-on-carnivore-diet/",
-    "https://carnivore.diet/aaron-b-healed-from-lymphatic-colitis-and-ankylosing-spondylitis-on-the-carnivore-diet/",
-    "https://carnivore.diet/cindy-gets-off-blood-pressure-medication-on-carnivore-diet/",
-    "https://carnivore.diet/julia-healed-joint-pain-inflammation-anxiety-on-carnivore-diet/",
-    "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/",
-    "https://carnivore.diet/leo-improved-anxiety-mood-multiple-sclerosis-carnivore-diet/"
-  ],
+  "filteredAnecdotes": [],
   "anecdotes": [
     {
       "visible": true,
       "uri": "https://carnivore.diet/mimi-improved-rheumatoid-arthritis-parkinsons-disease-and-osteopenia-on-the-carnivore-diet/",
-      "title": "Mimi improved rheumatoid arthritis, Parkinson\u2019s disease, and osteopenia on the carnivore diet",
+      "title": "Mimi improved rheumatoid arthritis, Parkinson&#039;s disease, and osteopenia on the carnivore diet",
       "date": "March 7, 2024"
     },
     {
@@ -97,7 +83,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/anne-has-put-her-frozen-shoulder-adhesive-capsulitis-in-remission-on-carnivore-diet/",
-      "title": "Anne has put her frozen shoulder (adhesive capsulitis) in remission on carnivore diet",
+      "title": "Anne Put Frozen Shoulder In Remission On Carnivore Diet",
       "date": "December 30, 2021"
     },
     {
@@ -149,25 +135,103 @@
       "date": "February 6, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/dawn-osteoarthritis-menopause-symptoms-carnivore-diet/",
+      "title": "Dawn Reversed Her Osteoarthritis With the Carnivore Diet",
+      "date": "June 22, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-manages-type-1-diabetes-on-a-low-carb-diet/",
+      "title": "Sara manages type 1 diabetes on a low-carb diet",
+      "date": "April 25, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/janice-solved-digestive-problems-anxiety-on-carnivore-diet/",
+      "title": "Janice solved her digestive problems and anxiety on a carnivore diet",
+      "date": "February 8, 2021"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alex-improved-pain-carnivore-diet/",
+      "title": "Alex improved his pain on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jeffrey-improved-psoriasis-and-ankylosing-spondylitis-on-carnivore-diet/",
+      "title": "Jeffrey improved psoriasis and ankylosing spondylitis on carnivore diet",
+      "date": "December 2, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/sean-manages-joint-pain-and-seizures-on-a-carnivore-diet/",
+      "title": "Sean manages joint pain and seizures on a carnivore diet",
+      "date": "October 13, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/phil-improved-arthritis-and-muscle-mass-on-the-carnivore-diet/",
+      "title": "Phil improved arthritis and muscle mass on the carnivore diet",
+      "date": "August 30, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ventilator-survivor-improves-digestion-acid-reflux-a1c-and-weight-loss-on-carnivore-diet/",
+      "title": "Ventilator Survivor Improves Digestion, A1C On Carnivore Diet",
+      "date": "February 27, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/aaron-b-healed-from-lymphatic-colitis-and-ankylosing-spondylitis-on-the-carnivore-diet/",
+      "title": "Aaron B healed from Lymphocytic Colitis and Ankylosing Spondylitis on the carnivore diet",
+      "date": "February 6, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/cindy-gets-off-blood-pressure-medication-on-carnivore-diet/",
+      "title": "Cindy Gets Off Blood Pressure Medication With the Carnivore Diet",
+      "date": "May 6, 2022"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/julia-healed-joint-pain-inflammation-anxiety-on-carnivore-diet/",
+      "title": "Julia healed joint pain, inflammation and anxiety on a carnivore diet",
+      "date": "November 12, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/warren-improved-arthritis-carnivore-diet/",
+      "title": "Warren improved arthritis on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/leo-improved-anxiety-mood-multiple-sclerosis-carnivore-diet/",
+      "title": "Leo improved mood disorder, multiple sclerosis, digestion on carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/beatriz-healed-rheumatoid-arthritis-on-a-carnivore-diet/",
       "title": "Beatriz healed rheumatoid arthritis on a carnivore diet",
       "date": "April 1, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/mike-b-improved-rheumatoid-arthritis-on-a-carnivore-diet/",
       "title": "Mike B improved rheumatoid arthritis on a carnivore diet",
       "date": "March 12, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
-      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "title": "Noelle improved hypertension and Hashimoto&#039;s on a carnivore diet",
       "date": "March 7, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/mick-improved-glaucoma-and-energy-on-a-carnivore-diet/",
       "title": "Mick improved glaucoma and energy on a carnivore diet",
       "date": "March 3, 2025"

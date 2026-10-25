@@ -7,15 +7,9 @@
   ],
   "filteredAnecdotes": [
     "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
-    "https://carnivore.diet/lycia-and-family-heal-on-carnivore-lifestyle/"
+    "https://carnivore.diet/milian-healed-hemorrhoids-digestion-issues-carnivore-diet/"
   ],
   "anecdotes": [
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/milian-healed-hemorrhoids-digestion-issues-carnivore-diet/",
-      "title": "Milian heals hemorrhoids on a carnivore diet",
-      "date": "October 31, 2018"
-    },
     {
       "visible": true,
       "uri": "https://carnivore.diet/adam-healed-from-psoriasis-on-the-carnivore-diet/",
@@ -79,7 +73,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
-      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "title": "Mike Improved Skin, Chronic Pain, &amp; More on Carnivore Diet",
       "date": "February 6, 2020"
     },
     {
@@ -103,7 +97,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/raymond-heals-diverticulitis-plantar-fasciitis-carnivore-diet/",
-      "title": "Raymond heals prediabetes, sugar addiction, diverticulitis on carnivore diet",
+      "title": "Raymond Heals Prediabetes and More With the Carnivore Diet",
       "date": "September 30, 2019"
     },
     {
@@ -129,6 +123,12 @@
       "uri": "https://carnivore.diet/christopher-improved-nervous-system-sex-carnivore-diet/",
       "title": "Christopher improved cardiovascular health, nervous system on carnivore diet",
       "date": "October 10, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/lycia-and-family-heal-on-carnivore-lifestyle/",
+      "title": "Lycia and Family Heal On Carnivore Lifestyle",
+      "date": "September 22, 2022"
     }
   ],
   "definition": {

@@ -7,11 +7,8 @@
     "ADHD"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/jim-improves-cardiovascular-health-joint-pain-carnivore-diet/",
-    "https://carnivore.diet/alexander-improves-focus-attention-and-gastrointestinal-issues-on-a-carnivore-diet/",
     "https://carnivore.diet/better-life-carnivore-diet/",
-    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
-    "https://carnivore.diet/marion-improved-back-pain-digestion-energy-carnivore-diet/"
+    "https://carnivore.diet/luke-reversed-long-covid-with-the-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -49,12 +46,6 @@
       "uri": "https://carnivore.diet/alex-beats-fungal-infection-improves-gut-health-carnivore-diet/",
       "title": "Alex beats fungal infection, ADHD, improves gut health on carnivore diet",
       "date": "November 1, 2018"
-    },
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/luke-reversed-long-covid-with-the-carnivore-diet/",
-      "title": "Luke Reversed Long-COVID",
-      "date": "May 22, 2025"
     },
     {
       "visible": true,
@@ -157,6 +148,30 @@
       "uri": "https://carnivore.diet/kelly-treats-arthritis-cardiovascular-health-carnivore-diet/",
       "title": "Kelly treats arthritis, digestion, cardiovascular health on carnivore diet",
       "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jim-improves-cardiovascular-health-joint-pain-carnivore-diet/",
+      "title": "Jim improves cardiovascular health, joint pain, weight loss on carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alexander-improves-focus-attention-and-gastrointestinal-issues-on-a-carnivore-diet/",
+      "title": "Alexander improves focus, attention, and gastrointestinal issues on a carnivore diet",
+      "date": "June 15, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/marion-improved-back-pain-digestion-energy-carnivore-diet/",
+      "title": "Marion improved arthritis on carnivore diet",
+      "date": "February 4, 2020"
     }
   ],
   "definition": {

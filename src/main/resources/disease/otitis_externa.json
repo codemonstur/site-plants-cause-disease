@@ -8,9 +8,9 @@
   "filteredAnecdotes": [],
   "anecdotes": [
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/mark-treated-apnea-diabetes-psoriasis-tinnitus-carnivore-diet/",
-      "title": "Mark treated apnea, diabetes, psoriasis, and tinnitus on carnivore diet",
+      "title": "Mark Treated Apnea, Diabetes, &amp; More With Carnivore Diet",
       "date": "November 1, 2019"
     }
   ],

@@ -8,8 +8,7 @@
   ],
   "filteredAnecdotes": [
     "https://carnivore.diet/getting-hung-up-on-health-markers/",
-    "https://carnivore.diet/coach-program/create-your-coaching-product/",
-    "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/"
+    "https://carnivore.diet/coach-program/create-your-coaching-product/"
   ],
   "anecdotes": [
     {
@@ -45,8 +44,14 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/chana-heals-from-nafld-skin-issues-digestive-issues-and-pre-diabetes-on-a-carnivore-diet/",
-      "title": "Chana heals from NAFLD, skin issues, digestive issues, and pre-diabetes on a carnivore diet",
+      "title": "Chana Conquered NAFLD, Skin Issues, &amp; More on Carnivore Diet",
       "date": "January 10, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
+      "title": "Phillip improved digestion, mood, mental health, and skin on carnivore diet",
+      "date": "November 1, 2019"
     }
   ],
   "definition": {

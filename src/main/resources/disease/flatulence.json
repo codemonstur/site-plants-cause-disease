@@ -7,8 +7,7 @@
     "Flatulence"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/carnivore-and-the-art-of-pooping/",
-    "https://carnivore.diet/ekaterina-ex-vegan-improved-hormonal-health-carnivore-diet/"
+    "https://carnivore.diet/carnivore-and-the-art-of-pooping/"
   ],
   "anecdotes": [
     {
@@ -46,6 +45,12 @@
       "uri": "https://carnivore.diet/gabby-lost-weight-healed-digestion-anxiety-carnivore-diet/",
       "title": "Gabby improved hormonal imbalances on a carnivore diet",
       "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ekaterina-ex-vegan-improved-hormonal-health-carnivore-diet/",
+      "title": "Ekaterina improved digestion, hormonal health and PCOS on carnivore diet",
+      "date": "December 18, 2019"
     }
   ],
   "definition": {

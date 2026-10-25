@@ -7,39 +7,37 @@
     "Hashimotos"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/getting-hung-up-on-health-markers/",
-    "https://carnivore.diet/mariela-restored-health-damage-veganism/",
-    "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/"
+    "https://carnivore.diet/getting-hung-up-on-health-markers/"
   ],
   "anecdotes": [
     {
       "visible": true,
       "uri": "https://carnivore.diet/amanda-improved-thyroid-hashimotos-and-food-sensitivities-on-a-carnivore-diet/",
-      "title": "Amanda improved thyroid (Hashimoto\u2019s) and food sensitivities on a carnivore diet",
+      "title": "Amanda improved thyroid (Hashimoto&#039;s) and food sensitivities on a carnivore diet",
       "date": "October 18, 2024"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/jill-manages-weight-pcos-and-hashimotos-on-a-carnivore-diet/",
-      "title": "Jill manages weight, PCOS, and Hashimoto\u2019s on a carnivore diet",
+      "title": "Jill manages weight, PCOS, and Hashimoto&#039;s on a carnivore diet",
       "date": "July 13, 2023"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/kelly-heals-from-hashimotos-with-ketovore-diet/",
-      "title": "Kelly Heals From Hashimoto\u2019s With Ketovore Diet",
+      "title": "Kelly Heals From Hashimoto&#039;s With Ketovore Diet",
       "date": "July 16, 2022"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/dunja-healed-hashimotos-and-alex-healed-perforated-colon/",
-      "title": "Dunja healed Hashimoto\u2019s and Alex healed perforated colon",
+      "title": "Dunja healed Hashimoto&#039;s and Alex healed perforated colon",
       "date": "May 6, 2022"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/tracey-reversed-her-hashimotos-on-a-carnivore-diet/",
-      "title": "Tracey reversed her Hashimoto\u2019s on a carnivore diet",
+      "title": "Tracey reversed her Hashimoto&#039;s on a carnivore diet",
       "date": "May 5, 2022"
     },
     {
@@ -63,19 +61,19 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/gina-healed-lupus-sjogrens-hashimotos-on-carnivore-diet/",
-      "title": "Gina Reversed Lupus, Sjogren\u2019s, Hashimoto\u2019s, and Mental Health Issues on a carnivore diet",
+      "title": "Gina Reversed Lupus, Sjogren&#039;s, Hashimoto&#039;s, and Mental Health Issues on a carnivore diet",
       "date": "January 31, 2021"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
-      "title": "Olivia improved hair, skin, thyroid, Hashimoto\u2019s, PCOS on carnivore diet",
+      "title": "Olivia improved hair, skin, thyroid, Hashimoto&#039;s, PCOS on carnivore diet",
       "date": "November 1, 2019"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/elainie-treated-autoimmune-issues-hashimotos-carnivore-diet/",
-      "title": "Elainie improved digestion, autoimmune issues, Hashimoto\u2019s on carnivore diet",
+      "title": "Elainie improved digestion, autoimmune issues, Hashimoto&#039;s on carnivore diet",
       "date": "November 1, 2019"
     },
     {
@@ -165,14 +163,26 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/noelle-improved-hypertension-hashimotos-on-a-carnivore-diet/",
-      "title": "Noelle improved hypertension and Hashimoto\u2019s on a carnivore diet",
+      "title": "Noelle improved hypertension and Hashimoto&#039;s on a carnivore diet",
       "date": "March 7, 2025"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/amanda-improved-hashimotos-on-carnivore-diet/",
-      "title": "Amanda improved thyroid (Hashimoto\u2019s) and food sensitivities on a carnivore diet",
+      "title": "Amanda improved thyroid (Hashimoto&#039;s) and food sensitivities on a carnivore diet",
       "date": "October 18, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/mariela-restored-health-damage-veganism/",
+      "title": "Mariela restored her health from the damage of veganism",
+      "date": "November 27, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/isaac-lost-weight-improved-health-carnivore-diet/",
+      "title": "Isaac lost weight (58 lbs) on a carnivore diet",
+      "date": "March 21, 2020"
     }
   ],
   "definition": {

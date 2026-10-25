@@ -11,8 +11,7 @@
     "https://carnivore.diet/meat-the-ultimate-superfood/",
     "https://carnivore.diet/plants-are-out-to-poison-you/",
     "https://carnivore.diet/debunking-proper-nutrition/",
-    "https://carnivore.diet/anti-nutrients/",
-    "https://carnivore.diet/debbie-improved-kidney-function-mental-health-carnivore-diet/"
+    "https://carnivore.diet/anti-nutrients/"
   ],
   "anecdotes": [
     {
@@ -20,6 +19,12 @@
       "uri": "https://carnivore.diet/ramiro-improves-weight-loss-mood-focus-energy-carnivore-diet/",
       "title": "Ramiro improves weight loss, mood, focus, and energy on a carnivore diet",
       "date": "September 30, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/debbie-improved-kidney-function-mental-health-carnivore-diet/",
+      "title": "Debbie improved kidney function, mental health on carnivore diet",
+      "date": "June 12, 2018"
     }
   ],
   "definition": {

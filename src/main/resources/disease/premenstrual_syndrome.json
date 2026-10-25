@@ -7,7 +7,7 @@
     "PMS"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/robert-improved-ulcerative-colitis-on-the-carnivore-diet/"
+    "https://carnivore.diet/getting-started-on-the-carnivore-diet-tips-by-coach-kiki-f/"
   ],
   "anecdotes": [
     {
@@ -43,7 +43,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/jessalyn-improved-acne-constipation-mood-swings-carnivore-diet/",
-      "title": "Jessalyn improved acne, constipation, weight gain, and mood swings on a carnivore diet",
+      "title": "Jessalyn Improved Acne, Constipation &amp; More on Carnivore Diet",
       "date": "December 18, 2022"
     },
     {
@@ -60,12 +60,6 @@
     },
     {
       "visible": true,
-      "uri": "https://carnivore.diet/getting-started-on-the-carnivore-diet-tips-by-coach-kiki-f/",
-      "title": "Getting Started On The Carnivore Diet Tips By Coach Kiki F",
-      "date": "February 1, 2021"
-    },
-    {
-      "visible": true,
       "uri": "https://carnivore.diet/cara-better-energy-mood-skin-digestion-carnivore-diet/",
       "title": "Cara discovers better energy, mood, skin and digestion on a carnivore diet",
       "date": "November 27, 2019"
@@ -73,7 +67,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/olivia-improved-reproductive-health-hashimotos-carnivore-diet/",
-      "title": "Olivia improved hair, skin, thyroid, Hashimoto\u2019s, PCOS on carnivore diet",
+      "title": "Olivia improved hair, skin, thyroid, Hashimoto&#039;s, PCOS on carnivore diet",
       "date": "November 1, 2019"
     },
     {
@@ -123,6 +117,12 @@
       "uri": "https://carnivore.diet/corina-eliminates-depression-anxiety-carnivore-diet/",
       "title": "Corina eliminates depression and anxiety on carnivore diet",
       "date": "October 29, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-on-the-carnivore-diet/",
+      "title": "From Carbs to Carnivore: How Robert Found Strength in Simplicity",
+      "date": "August 29, 2023"
     }
   ],
   "definition": {

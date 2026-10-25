@@ -7,8 +7,7 @@
     "Straining"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/how-to-render-beef-tallow/",
-    "https://carnivore.diet/sara-complex-regional-pain-syndrome-anxiety-carnivore-diet/"
+    "https://carnivore.diet/how-to-render-beef-tallow/"
   ],
   "anecdotes": [
     {
@@ -24,7 +23,13 @@
       "date": "February 21, 2020"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/sara-complex-regional-pain-syndrome-anxiety-carnivore-diet/",
+      "title": "Sara gets relief from Complex Regional Pain Syndrome on carnivore diet",
+      "date": "August 7, 2020"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/chad-improved-anxiety-and-ptsd-on-a-carnivore-diet/",
       "title": "Chad improved anxiety and PTSD on a carnivore diet",
       "date": "February 21, 2025"

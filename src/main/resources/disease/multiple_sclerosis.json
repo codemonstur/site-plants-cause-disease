@@ -5,9 +5,7 @@
   "carnivoreDietSearchQueries": [
     "Multiple Sclerosis"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/"
-  ],
+  "filteredAnecdotes": [],
   "anecdotes": [
     {
       "visible": true,
@@ -30,7 +28,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/suzis-multiple-sclerosis-stopped-progressing-since-eating-the-carnivore-way/",
-      "title": "Suzi\u2019s Multiple Sclerosis stopped progressing since eating the carnivore way",
+      "title": "Suzi&#039;s Multiple Sclerosis stopped progressing since eating the carnivore way",
       "date": "February 15, 2022"
     },
     {
@@ -78,7 +76,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/mickis-ms-in-remission-bowel-issues-gone-carnivore-diet/",
-      "title": "Micki\u2019s MS is in remission and her bowel issues are gone all with a carnivore diet",
+      "title": "Micki&#039;s MS is in remission and her bowel issues are gone all with a carnivore diet",
       "date": "February 15, 2021"
     },
     {
@@ -100,21 +98,27 @@
       "date": "November 1, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/melanie-put-raynauds-syndrome-into-remission-and-improved-libido-on-a-carnivore-lifestyle/",
+      "title": "Melanie put Raynaud&#039;s syndrome into remission and improved libido on a carnivore lifestyle",
+      "date": "December 29, 2021"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/tracy-improved-multiple-sclerosis-testosterone-on-carnivore-diet/",
-      "title": "Tracy improved multiple sclerosis & testosterone on carnivore diet",
+      "title": "Tracy improved multiple sclerosis &amp; testosterone on carnivore diet",
       "date": "March 6, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/rebecca-managed-multiple-sclerosis-and-eczema-on-a-carnivore-diet/",
       "title": "Rebecca managed multiple sclerosis and eczema on a carnivore diet",
       "date": "February 6, 2025"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/maranda-improved-fibromyalgia-hypoglycemia-on-carnivore-diet/",
-      "title": "Maranda improved fibromyalgia & hypoglycemia on carnivore diet",
+      "title": "Maranda improved fibromyalgia &amp; hypoglycemia on carnivore diet",
       "date": "March 6, 2025"
     }
   ],

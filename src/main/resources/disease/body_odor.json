@@ -10,11 +10,7 @@
     "https://carnivore.diet/anti-nutrients/",
     "https://carnivore.diet/truth-about-kidney-health-and-gout/",
     "https://carnivore.diet/meaty-facts-about-cholesterol/",
-    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
-    "https://carnivore.diet/chris-b-improved-irritable-bowel-syndrome-on-a-carnivore-diet/",
-    "https://carnivore.diet/jason-improved-irritable-bowel-syndrome-on-a-carnivore-diet/",
-    "https://carnivore.diet/alison-improved-inflammation-and-metabolic-health-on-a-carnivore-diet/",
-    "https://carnivore.diet/neah-improves-psoriasis-and-irritable-bowel-syndrome-on-carnivore-diet/"
+    "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -26,13 +22,13 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/martin-improves-ankylosing-spondylitis-psoriasis-carnivore-diet/",
-      "title": "Martin improves ankylosing spondylitis and psoriasis on the carnivore diet",
+      "title": "Martin Improves Ankylosing Spondylitis &amp; More with Carnivore Diet",
       "date": "January 11, 2023"
     },
     {
       "visible": true,
       "uri": "https://carnivore.diet/jessalyn-improved-acne-constipation-mood-swings-carnivore-diet/",
-      "title": "Jessalyn improved acne, constipation, weight gain, and mood swings on a carnivore diet",
+      "title": "Jessalyn Improved Acne, Constipation &amp; More on Carnivore Diet",
       "date": "December 18, 2022"
     },
     {
@@ -44,7 +40,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/rix-improved-skin-chronic-pain-digestion-mood-carnivore-diet/",
-      "title": "Mike C. improved skin, chronic pain, digestion and mood on carnivore diet",
+      "title": "Mike Improved Skin, Chronic Pain, &amp; More on Carnivore Diet",
       "date": "February 6, 2020"
     },
     {
@@ -64,6 +60,30 @@
       "uri": "https://carnivore.diet/margaret-heals-digestion-mood-sleep-fatigue-carnivore-diet/",
       "title": "Margaret heals digestion, mood, sleep, and fatigue on a carnivore diet",
       "date": "October 4, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/chris-b-improved-irritable-bowel-syndrome-on-a-carnivore-diet/",
+      "title": "Chris B improved irritable bowel syndrome on a carnivore diet",
+      "date": "March 22, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/jason-improved-irritable-bowel-syndrome-on-a-carnivore-diet/",
+      "title": "Jason improved irritable bowel syndrome on a carnivore diet",
+      "date": "February 23, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/alison-improved-inflammation-and-metabolic-health-on-a-carnivore-diet/",
+      "title": "Alison improved inflammation and metabolic health on a carnivore diet",
+      "date": "February 6, 2025"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/neah-improves-psoriasis-and-irritable-bowel-syndrome-on-carnivore-diet/",
+      "title": "Neah improves psoriasis &amp; irritable bowel syndrome on carnivore diet",
+      "date": "April 22, 2024"
     }
   ],
   "definition": {

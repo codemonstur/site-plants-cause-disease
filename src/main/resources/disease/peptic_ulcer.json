@@ -14,7 +14,9 @@
     "https://carnivore.diet/carnivore-diet-success-stories/",
     "https://carnivore.diet/nsvs-nonscale-victories-on-a-carnivore-diet/",
     "https://carnivore.diet/fasting-coach-certification/mock-interview/",
-    "https://carnivore.diet/patient-testimonials-eliminating-medication-on-carnivore-diet/"
+    "https://carnivore.diet/patient-testimonials-eliminating-medication-on-carnivore-diet/",
+    "https://carnivore.diet/robert-improved-ulcerative-colitis-carnivore-diet/",
+    "https://carnivore.diet/bruce-improved-digestion-and-ileostomy-output-on-a-carnivore-diet/"
   ],
   "anecdotes": [
     {
@@ -32,7 +34,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/travis-improved-mental-health-skin-issues-ulcerative-colitis-carnivore-diet/",
-      "title": "Travis improved mental health, skin issues, and ulcerative colitis on a carnivore diet",
+      "title": "Travis Improved Mental Health &amp; More On Carnivore Diet",
       "date": "January 6, 2023"
     },
     {
@@ -44,7 +46,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/dawn-osteoarthritis-menopause-symptoms-carnivore-diet/",
-      "title": "Dawn reversed her osteoarthritis and menopause symptoms on a carnivore diet",
+      "title": "Dawn Reversed Her Osteoarthritis With the Carnivore Diet",
       "date": "June 22, 2020"
     },
     {
@@ -68,7 +70,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/francesco-manages-anger-and-depression-on-a-carnivore-lifestyle/",
-      "title": "Francesco manages anger and depression on a carnivore lifestyle",
+      "title": "Francesco heals Ulcerative Colitis and depression on a carnivore lifestyle",
       "date": "November 24, 2021"
     },
     {
@@ -98,7 +100,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-on-the-carnivore-diet/",
-      "title": "Robert improved ulcerative colitis on the carnivore diet",
+      "title": "From Carbs to Carnivore: How Robert Found Strength in Simplicity",
       "date": "August 29, 2023"
     },
     {
@@ -122,7 +124,7 @@
     {
       "visible": true,
       "uri": "https://carnivore.diet/swetas-carnivore-lifestyle-reversed-ulcerative-colitis-and-got-her-off-medication/",
-      "title": "Sweta\u2019s carnivore lifestyle reversed ulcerative colitis and got her off medication",
+      "title": "Sweta&#039;s carnivore lifestyle reversed ulcerative colitis and got her off medication",
       "date": "December 30, 2021"
     },
     {
@@ -157,12 +159,6 @@
     },
     {
       "visible": true,
-      "uri": "https://carnivore.diet/robert-improved-ulcerative-colitis-carnivore-diet/",
-      "title": "Robert improved his ulcerative colitis on a carnivore diet",
-      "date": "January 27, 2019"
-    },
-    {
-      "visible": true,
       "uri": "https://carnivore.diet/lynsey-improved-mental-health-mouth-ulcers-carnivore-diet/",
       "title": "Lynsey treated mouth ulcers on carnivore diet",
       "date": "November 1, 2018"
@@ -184,12 +180,6 @@
       "uri": "https://carnivore.diet/lee-improves-acid-reflux-and-digestion-on-a-carnivore-diet/",
       "title": "Lee improves acid reflux and digestion on a carnivore diet",
       "date": "April 26, 2024"
-    },
-    {
-      "visible": true,
-      "uri": "https://carnivore.diet/bruce-improved-digestion-and-ileostomy-output-on-a-carnivore-diet/",
-      "title": "Bruce improved digestion and ileostomy output on a carnivore diet",
-      "date": "August 29, 2023"
     },
     {
       "visible": true,
@@ -258,7 +248,7 @@
       "date": "October 5, 2018"
     },
     {
-      "visible": false,
+      "visible": true,
       "uri": "https://carnivore.diet/lori-improved-hypertension-and-ulcerative-colitis-on-a-carnivore-diet/",
       "title": "Lori improved hypertension and ulcerative colitis on a carnivore diet",
       "date": "March 3, 2025"

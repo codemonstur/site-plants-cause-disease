@@ -5,10 +5,15 @@
   "carnivoreDietSearchQueries": [
     "Hirschsprung"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/steve-cures-irritable-bowel-syndrome-carnivore-diet/"
+  "filteredAnecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/steve-cures-irritable-bowel-syndrome-carnivore-diet/",
+      "title": "Steve cures Irritable Bowel Syndrome with a carnivore diet",
+      "date": "October 31, 2018"
+    }
   ],
-  "anecdotes": [],
   "definition": {
     "source": "",
     "text": ""

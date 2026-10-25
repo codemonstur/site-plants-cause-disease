@@ -7,13 +7,7 @@
     "muscle wasting"
   ],
   "filteredAnecdotes": [
-    "https://carnivore.diet/meat-and-the-environment/",
-    "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/",
-    "https://carnivore.diet/robert-anxiety-free-switching-carnivore-diet-lost-weight/",
-    "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
-    "https://carnivore.diet/ashley-improves-fitness-mood-skin-weight-loss-carnivore-diet/",
-    "https://carnivore.diet/ethan-improved-digestion-mental-health-carnivore-diet/",
-    "https://carnivore.diet/patrick-heals-diabetes-ulcerative-colitis-carnivore-diet/"
+    "https://carnivore.diet/meat-and-the-environment/"
   ],
   "anecdotes": [
     {
@@ -23,7 +17,43 @@
       "date": "November 1, 2019"
     },
     {
-      "visible": false,
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-sarah-fight-depression-on-a-carnivore-diet/",
+      "title": "Ashley &amp; Sarah overcome depression on a carnivore diet",
+      "date": "August 17, 2023"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/robert-anxiety-free-switching-carnivore-diet-lost-weight/",
+      "title": "Robert is no longer sore, is now free from anxiety on a carnivore diet",
+      "date": "August 24, 2020"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/phillip-treated-allergies-respiratory-issues-carnivore-diet/",
+      "title": "Phillip improved digestion, mood, mental health, and skin on carnivore diet",
+      "date": "November 1, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ashley-improves-fitness-mood-skin-weight-loss-carnivore-diet/",
+      "title": "Ashley improves fitness, mood, skin, and weight loss on a carnivore diet",
+      "date": "October 31, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/ethan-improved-digestion-mental-health-carnivore-diet/",
+      "title": "Ethan gained strength fast on a carnivore diet",
+      "date": "October 10, 2019"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/patrick-heals-diabetes-ulcerative-colitis-carnivore-diet/",
+      "title": "Patrick healed from Ulcerative Colitis on a carnivore diet",
+      "date": "October 31, 2018"
+    },
+    {
+      "visible": true,
       "uri": "https://carnivore.diet/ahmad-improved-energy-anxiety-and-depression-on-a-carnivore-diet/",
       "title": "Ahmad improved energy, anxiety, and depression on a carnivore diet",
       "date": "February 6, 2025"

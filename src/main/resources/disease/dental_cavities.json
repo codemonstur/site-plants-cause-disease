@@ -5,9 +5,7 @@
   "carnivoreDietSearchQueries": [
     "Cavities"
   ],
-  "filteredAnecdotes": [
-    "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/"
-  ],
+  "filteredAnecdotes": [],
   "anecdotes": [
     {
       "visible": true,
@@ -49,6 +47,12 @@
       "visible": true,
       "uri": "https://carnivore.diet/mark-improved-mental-health-sex-lyme-disease-carnivore-diet/",
       "title": "Mark treated Lyme disease on a carnivore diet",
+      "date": "November 1, 2018"
+    },
+    {
+      "visible": true,
+      "uri": "https://carnivore.diet/yuri-improved-skin-pain-sleep-carnivore-diet/",
+      "title": "Yuri improved his skin, pain and sleep with a carnivore diet",
       "date": "November 1, 2018"
     }
   ],
