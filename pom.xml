@@ -60,6 +60,7 @@
                             <rules>
                                 <requireMavenVersion>
                                     <version>${maven.version}</version>
+                                    <message>This project requires Maven ${maven.version} to build</message>
                                 </requireMavenVersion>
                             </rules>
                         </configuration>
