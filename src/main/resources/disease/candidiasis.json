@@ -8,7 +8,14 @@
   "filteredAnecdotes": [
     "https://carnivore.diet/anti-nutrients/"
   ],
-  "anecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=47d57n4G6_4",
+      "title": "Into Surgery That Had Consequences",
+      "date": "October 3, 2026"
+    }
+  ],
   "definition": {
     "source": "https://my.clevelandclinic.org/health/diseases/23198-candidiasis",
     "text": "Candidiasis is a fungal infection caused by an overgrowth of yeast in your body. Healthy bacteria help balance the amount of yeast and disruption of this balance leads to an infection. Antifungal medications treat candidiasis and clear the infection between two days to two weeks, depending on severity."

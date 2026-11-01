@@ -6,7 +6,50 @@
     "Lipedema"
   ],
   "filteredAnecdotes": [],
-  "anecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=9g_WMGW91yE",
+      "title": "I’d Been Calling Myself Carnivore For 4 Years…",
+      "date": "October 7, 2026"
+    },
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=Aaf7VovUrKY",
+      "title": "Then I Learned The Truth",
+      "date": "June 26, 2026"
+    },
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=-UqpK7LhM0E",
+      "title": "Why This Doctor Went Carnivore",
+      "date": "June 5, 2026"
+    },
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=RXPwuhBGygg",
+      "title": "From a Lifetime of Pain to Carnivore and Healing",
+      "date": "October 17, 2024"
+    },
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=el9b9JE2x2M",
+      "title": "3 Months Carnivore, Then This Happened...",
+      "date": "September 5, 2026"
+    },
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=HRJbNuRBAqk",
+      "title": "I Suddenly Went Numb From The Waist Down",
+      "date": "August 6, 2026"
+    },
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=irn4w-SP4Is",
+      "title": "From Liposuction and Stroke to Health on Carnivore",
+      "date": "July 31, 2024"
+    }
+  ],
   "definition": {
     "source": "",
     "text": ""

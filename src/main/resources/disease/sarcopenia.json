@@ -6,7 +6,14 @@
     "Sarcopenia"
   ],
   "filteredAnecdotes": [],
-  "anecdotes": [],
+  "anecdotes": [
+    {
+      "visible": true,
+      "uri": "https://www.youtube.com/watch?v=-UqpK7LhM0E",
+      "title": "Why This Doctor Went Carnivore",
+      "date": "June 5, 2026"
+    }
+  ],
   "definition": {
     "source": "",
     "text": ""

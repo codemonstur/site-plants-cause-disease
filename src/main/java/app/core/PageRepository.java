@@ -18,7 +18,7 @@ public final class PageRepository {
     private final Path cacheDir;
 
     public PageRepository() {
-        cacheDir = Paths.get(".url_cache");
+        cacheDir = Paths.get("data", ".url_cache");
     }
 
     public String loadPage(final String url) throws IOException {
